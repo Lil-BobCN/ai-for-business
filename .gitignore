@@ -1,0 +1,43 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器和 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 环境变量和本地密钥
+.env
+.env.*
+!.env.example
+
+# 依赖和虚拟环境
+node_modules/
+.pnpm-store/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# 构建产物和测试覆盖率
+dist/
+build/
+out/
+coverage/
+.next/
+.nuxt/
+.cache/
+.turbo/
+target/
+
+# 日志和临时文件
+*.log
+*.tmp
+tmp/
+temp/
+
+# 本机生成的技能清单
+codex-skills-inventory.md
