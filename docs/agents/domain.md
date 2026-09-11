@@ -1,34 +1,35 @@
-# Domain Docs
+# 领域文档
 
-How the engineering skills should consume this repo's domain documentation when exploring the codebase.
+这份文档说明：工程技能查看代码库时，应该怎样读取和使用本仓库的领域资料。
 
-## Before exploring, read these
+## 查看代码前先读这些内容
 
-- **`CONTEXT.md`** at the repo root, or
-- **`CONTEXT-MAP.md`** at the repo root if it exists: it points at one `CONTEXT.md` per context. Read each one relevant to the topic.
-- **`docs/adr/`**: read ADRs that touch the area you are about to work in. In multi-context repos, also check `src/<context>/docs/adr/` for context-scoped decisions.
+- 仓库根目录下的 `CONTEXT.md`。
+- 如果根目录有 `CONTEXT-MAP.md`，就按里面的指引找到与当前任务有关的 `CONTEXT.md` 并阅读。
+- 查看 `docs/adr/` 中与当前工作有关的决定。如果仓库分成多个上下文，还要检查 `src/<context>/docs/adr/` 中对应的决定。
 
-If any of these files do not exist, proceed silently. Do not flag their absence or suggest creating them upfront. The `/domain-modeling` skill creates them lazily when terms or decisions actually get resolved.
+这些文件不存在时，直接继续工作，不需要专门提示，也不要一开始就建议创建。等术语或重要决定真正确定后，再由 `/domain-modeling` 技能按需创建。
 
-## File structure
+## 目录结构
 
-This is a single-context repo (the default for most repos):
+本仓库只使用一个上下文，目录结构如下：
 
-```
+```text
 /
 |- CONTEXT.md
 |- docs/adr/
 `- src/
 ```
 
-## Use the glossary's vocabulary
+## 使用术语表里的说法
 
-When your output names a domain concept (in an issue title, a refactor proposal, a hypothesis, or a test name), use the term as defined in `CONTEXT.md`. Do not drift to synonyms the glossary explicitly avoids.
+在问题标题、重构建议、问题假设或测试名称中提到领域概念时，要使用 `CONTEXT.md` 已经定义的说法。不要随意换成别的近义词。
 
-If the concept you need is not in the glossary yet, that is a signal: either you are inventing language the project does not use (reconsider) or there is a real gap (note it for `/domain-modeling`).
+如果需要的概念还没有写进术语表，先判断是不是自己用了项目里没有的说法。如果确实缺少这个概念，就把它留给 `/domain-modeling` 技能处理。
 
-## Flag ADR conflicts
+## 发现与 ADR 冲突时要说明
 
-If your output contradicts an existing ADR, surface it explicitly rather than silently overriding:
+如果准备做的事情和已有 ADR 冲突，要明确指出冲突，不能直接覆盖原来的决定。例如：
 
-> _Contradicts ADR-0007 (event-sourced orders), but worth reopening because..._
+> 这个做法与 ADR-0007 中“订单使用事件溯源”的决定冲突，但可以重新讨论，因为……
+
