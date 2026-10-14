@@ -1,0 +1,1102 @@
+[
+  {
+    "type": "contradiction",
+    "title": "Workflow 定义可能与既有页面冲突",
+    "description": "本集把 workflow 定义为「LLM 被编排在写死的代码路径里，不能决定下一步」，而 Wiki 既有 [[concepts/工作流与人工介入]] 可能把含人工节点的编排也归入 workflow。两者是否构成定义冲突需要人工判断；若冲突，应在两个页面中并列保留双方来源，而非静默选择其一。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/零点未来：AI+企业/第 8 集｜8分钟7种Agent系统设计模式拆解.md",
+    "affectedPages": [
+      "wiki/queries/workflow定义与既有页面口径冲突待核验.md",
+      "wiki/concepts/workflow与agent的分界.md",
+      "wiki/concepts/工作流与人工介入.md"
+    ],
+    "searchQueries": [
+      "LLM workflow vs agent definition who decides next step",
+      "agentic workflow human in the loop definition orchestration",
+      "workflow automation vs AI agent boundary criteria"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c577a3a9",
+    "resolved": true,
+    "createdAt": 1791725393700,
+    "resolvedAction": "Created: wiki/concepts/workflow-定义可能与既有页面冲突.md"
+  },
+  {
+    "type": "duplicate",
+    "title": "Echo Team 命名与既有双团队模型口径待核验",
+    "description": "本集 ASR 先作 `Aco team`、后作 `Echo Team`，与既有页面 [[entities/echo与delta双团队模型]] 的命名口径可能不一致；本集还给出 Echo 的另一种用法（业务内生的 Agent 生产者）。需要人工判断是更新既有页、还是新建独立页。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/零点未来：AI+企业/第 10 集｜6分钟 Agent落地故事：从员工中培养自己的 FDE.md",
+    "affectedPages": [
+      "wiki/entities/echo与delta双团队模型.md",
+      "wiki/concepts/从业务员工中培养自己的-fde.md"
+    ],
+    "searchQueries": [
+      "Echo Team Delta Team Palantir FDE 双团队模型",
+      "Anthropic ABC Legal Echo team agent builders",
+      "forward deployed engineer Echo team business embedded"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c0919e0e",
+    "resolved": true,
+    "createdAt": 1791725491455,
+    "resolvedAction": "Created: wiki/entities/echo-team-命名与既有双团队模型口径待核验.md"
+  },
+  {
+    "type": "contradiction",
+    "title": "本来源 flow 用法与既有 Workflow 定义口径冲突",
+    "description": "本来源把 flow/workflow 用作\"形式化门禁执行体\"（用 flow 做门禁就不会有幻觉），而既有 [[queries/workflow定义与既有页面口径冲突待核验]] 已记录过 Workflow 定义的口径分歧。本来源的用法可能再次与既有页面口径冲突，需要并入该 query 并人工裁决。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/Ontology：AI Coding 在本体中的建模和实战/文章/Ontology：AI Coding 在本体中的建模和实战.md",
+    "affectedPages": [
+      "wiki/queries/workflow定义与既有页面口径冲突待核验.md",
+      "wiki/concepts/强制力四层排序.md"
+    ],
+    "searchQueries": [
+      "workflow 定义 agent 门禁 形式化执行",
+      "本体 flow 门禁 校验 幻觉",
+      "workflow vs flow 术语 企业 AI"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3fce8e2b",
+    "resolved": false,
+    "createdAt": 1791725684957
+  },
+  {
+    "type": "duplicate",
+    "title": "codex 实体页是否与既有工具页重复",
+    "description": "本集作者称 codex 在国内用户数最好、其团队内部实际使用 codex。需确认 Wiki 中是否已有 codex 或 OpenAI Codex 相关实体页，避免与 [[entities/openai]]、[[entities/claude-code]] 下的工具描述重复。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 5 集｜04-业务本体入门：Ontology与Agent业务上下文.md",
+    "affectedPages": [
+      "wiki/entities/codex.md",
+      "wiki/entities/openai.md"
+    ],
+    "searchQueries": [
+      "OpenAI Codex CLI agent coding tool",
+      "codex vs Claude Code AI coding agent",
+      "OpenAI Codex 国内可用性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-33c6d3d2",
+    "resolved": false,
+    "createdAt": 1791725820338
+  },
+  {
+    "type": "contradiction",
+    "title": "系列标准发布状态与文件状态自相矛盾",
+    "description": "本文件前言称\"GB/T XXXXX 已经发布了以下部分：第 1 部分：通用指南；第 2 部分：参考架构模型；第 4 部分：协同制定要求\"，但本文件本身仍为征求意见稿（2025-04-11 完成），且第 3 部分未列入。这一\"已发布\"表述与征求意见稿状态存在张力，需用户判断如何在 Wiki 中标注系列各部分的真实发布状态。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/征求意见稿全文/20 GB-T-48000.2-2026 参考架构模型-征求意见稿全文.md",
+    "affectedPages": [
+      "wiki/entities/gb-t-48000-标准数字化系列标准.md"
+    ],
+    "searchQueries": [
+      "GB/T 48000 标准数字化 第1部分 通用指南 发布",
+      "标准数字化 第4部分 协同制定要求 国家标准",
+      "全国标准信息公共服务平台 标准数字化 48000"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cafe3511",
+    "resolved": false,
+    "createdAt": 1791779250612
+  },
+  {
+    "type": "contradiction",
+    "title": "GB/T 48000 系列部分数量\"五\"与\"六\"不一致",
+    "description": "GB/T 48000.4-2026 征求意见稿引言称系列\"拟由五个部分构成\"，但随后列出六个部分，属文件内部矛盾。已创建 query 页记录，但需人工判断是否影响既有 [[entities/gb-t-48000-标准数字化系列标准]] 页的\"六部分\"表述。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/征求意见稿全文/22 GB-T-48000.4-2026 协同制定要求-征求意见稿全文.md",
+    "affectedPages": [
+      "wiki/queries/gb-t-48000系列部分数量五与六不一致待核验.md",
+      "wiki/entities/gb-t-48000-标准数字化系列标准.md"
+    ],
+    "searchQueries": [
+      "GB/T 48000 标准数字化 系列标准 部分构成",
+      "全国标准数字化标准化工作组 SAC/SWG 29 标准体系",
+      "GB/T 48000.1 通用指南 发布状态"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-010db383",
+    "resolved": true,
+    "createdAt": 1791779382989,
+    "resolvedAction": "Created: wiki/entities/gbt-48000-系列部分数量五与六不一致.md"
+  },
+  {
+    "type": "contradiction",
+    "title": "系列部分数量\"二\"与\"三\"表述冲突需用户裁定",
+    "description": "本来源前言仅列\"已经发布了以下部分：第1部分、第2部分\"，而编制说明称系列\"拟由三个部分组成\"（含第3部分语义集成技术要求）。既有查询 `gb-t-46917系列部分数量二与三不一致待核验` 已记录该张力，本来源提供新证据但未消解冲突：需判断\"已发布部分\"与\"拟制定部分\"是否为不同口径，还是原文表述不一致。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/征求意见稿全文/25 GB-T-46917.2-2026 数据接口要求-征求意见稿全文.md",
+    "affectedPages": [
+      "wiki/queries/gb-t-46917系列部分数量二与三不一致待核验.md",
+      "wiki/entities/gb-t-46917-标准语义知识库系列标准.md"
+    ],
+    "searchQueries": [
+      "GB/T 46917 标准语义知识库 已经发布 部分 前言",
+      "国家标准 前言 已发布部分 拟由部分组成 表述规范"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3663e56b",
+    "resolved": false,
+    "createdAt": 1791779645321
+  },
+  {
+    "type": "contradiction",
+    "title": "能力特征第一级命名\"电子化\"与\"可视化\"内部冲突",
+    "description": "本来源同一文件内自相矛盾：正文第 6 章标题与内容用\"电子化\"，编制说明\"第 6 章确定依据\"段落写\"将五个等级定义为：可视化、结构化、语义化、智能化、可拓展\"。这直接印证并强化已有开放问题 [[queries/能力特征第一级命名电子化与可视化冲突待核验]]。需要人工确认是否以本来源作为该 query 页的一手证据补强，并保留双方表述。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/标准原件/1 标准数字化 第2部分：参考架构模型（征求意见稿及编制说明）.pdf",
+    "affectedPages": [
+      "wiki/queries/能力特征第一级命名电子化与可视化冲突待核验.md"
+    ],
+    "searchQueries": [
+      "GB/T 48000.2 能力特征 电子化 可视化 等级",
+      "标准数字化 能力特征维度 五个等级 命名",
+      "ISO SMART 标准 五级能力模型 可视化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-18627713",
+    "resolved": false,
+    "createdAt": 1791779709197
+  },
+  {
+    "type": "contradiction",
+    "title": "本体建模要求与本体建模规范命名不一致",
+    "description": "本来源正文标题为“本体建模要求”，但前言“已经发布了以下部分”将第 3 部分列为“本体建模规范”，引言与编制说明多处亦写作“本体建模规范”。既有 query [[queries/本体建模要求与本体建模规范命名不一致待核验]] 已记录该冲突，本来源提供了新的直接证据（前言列表与编制说明标题）。建议确认是否更新该 query 页或创建独立命名冲突页。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/标准原件/2 标准数字化 第3部分：本体建模要求（征求意见稿及编制说明）.pdf",
+    "affectedPages": [
+      "wiki/queries/本体建模要求与本体建模规范命名不一致待核验.md"
+    ],
+    "searchQueries": [
+      "GB/T 48000.3 本体建模要求 本体建模规范 命名",
+      "标准数字化 第3部分 本体建模 标准名称"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b804f245",
+    "resolved": false,
+    "createdAt": 1791779803799
+  },
+  {
+    "type": "contradiction",
+    "title": "表 A.42 关系名重复与定义域冲突",
+    "description": "表 A.42 中 `hasContentElement`、`references`、`constrains` 各出现两次且定义域/值域不同，`references` 语义说明写作“标准引用标准（）”括号为空。既有 query [[queries/表a42关系名重复与命名冲突待核验]] 已记录，但本来源提供了完整逐字表格证据，需判断这是有意设计（同名关系多定义域）还是编辑错误，直接影响本体可形式化验证性。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/标准原件/2 标准数字化 第3部分：本体建模要求（征求意见稿及编制说明）.pdf",
+    "affectedPages": [
+      "wiki/queries/表a42关系名重复与命名冲突待核验.md"
+    ],
+    "searchQueries": [
+      "OWL 同名 object property 多 domain range 是否合法",
+      "GB/T 48000.3 表 A.42 关系名重复",
+      "标准本体 关系属性 定义域 值域 命名冲突"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d5ecfb69",
+    "resolved": false,
+    "createdAt": 1791779803799
+  },
+  {
+    "type": "contradiction",
+    "title": "能力特征第一级命名\"电子化\"与\"可视化\"冲突",
+    "description": "GB/T 48000.2-2026 征求意见稿正文第 6 章称能力特征第一级为\"电子化\"，但编制说明（二）（三）称\"将五个等级定义为：可视化、结构化、语义化、智能化、可拓展\"。同一文件内正文与编制说明不一致，需人工判断以哪一表述为准，或确认是否为草案笔误。已有 query 页 [[queries/能力特征第一级命名电子化与可视化冲突待核验]] 记录该冲突。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/1 GB-T-48000.2-2026 参考架构模型/征求意见稿及编制说明（文本版）.md",
+    "affectedPages": [
+      "wiki/queries/能力特征第一级命名电子化与可视化冲突待核验.md"
+    ],
+    "searchQueries": [
+      "GB/T 48000.2 参考架构模型 能力特征 电子化 可视化",
+      "标准数字化 能力特征维度 五个等级 命名",
+      "ISO SMART 标准五级能力模型 电子化 结构化 语义化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-38de8c22",
+    "resolved": false,
+    "createdAt": 1791783124838
+  },
+  {
+    "type": "duplicate",
+    "title": "山东省标准化研究院 与 山东省计算中心（国家超级计算济南中心）",
+    "description": "本档案起草单位为“山东省标准化研究院”，而 Wiki 已有 [[entities/山东省计算中心-国家超级计算济南中心]]，两者名称相近但主体不同。是否需要为“山东省标准化研究院”单独建立实体页，或仅在来源页中作为起草单位字段保留，请人工判断。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/1 标准档案/14 GB-T-47012.1-2026 标准数字化平台 第1部分：系统架构.md",
+    "affectedPages": [
+      "wiki/entities/山东省计算中心-国家超级计算济南中心.md"
+    ],
+    "searchQueries": [
+      "山东省标准化研究院 标准数字化 起草单位",
+      "山东省计算中心 国家超级计算济南中心 标准化",
+      "山东省标准化研究院 机构职能"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3cc10860",
+    "resolved": false,
+    "createdAt": 1791784089354
+  },
+  {
+    "type": "duplicate",
+    "title": "南网科研院 与 南方电网科学研究院有限责任公司 是否同一实体",
+    "description": "GB/T 46917.2-2026 官方条目档案将“南方电网科学研究院有限责任公司”列为第一主要起草单位，而 Wiki 中已存在 `entities/南网科研院` 页面。两者疑为同一实体，但尚未确认。若确认为同一实体，应合并或建立别名关系；若为不同实体，则需分别建页。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/1 标准档案/16 GB-T-46917.2-2026 标准语义知识库 第2部分：数据接口要求.md",
+    "affectedPages": [
+      "wiki/entities/南网科研院.md"
+    ],
+    "searchQueries": [
+      "南方电网科学研究院有限责任公司 简介",
+      "南网科研院 全称 标准化",
+      "南方电网科学研究院 国家标准 起草单位"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5fa0020d",
+    "resolved": false,
+    "createdAt": 1791784215195
+  },
+  {
+    "type": "duplicate",
+    "title": "全国标准数字化标准化技术委员会 页面更新与 TC626 编号归属",
+    "description": "来源文档第四节核验出 TC626 编号、秘书处、联系人及 SWG 29 转化事实，但 Wiki 中已存在 `entities/全国标准数字化标准化技术委员会` 页面。需要人工判断：是直接更新该既有页面（补充 TC626 编号与转化事实），还是另建 `entities/tc626-全国标准数字化标准化技术委员会` 独立页面。本次未自动改写既有页面，仅创建了承接未闭合核验项的 query 页。\n\n\n\n\n---REVIEW: missing-page | 标准数字化标准族结构与分工（synthesis）---\n来源文档第一、三、五节给出了三族分工（48000 讲方法和建模、47012 讲平台载体、46917 讲数据与接口）与链条推进顺序，属于跨多个来源页的阶段性综合。按项目规则，synthesis 页面需人工确认后才可建立。是否现在建立该综合页，请人工判断。\nOPTIONS: Create Page | Skip\nPAGES: wiki/synthesis/标准数字化标准族结构与分工.md\nSEARCH: GB/T 48000 GB/T 47012 GB/T 46917 标准数字化 系列关系 | 标准数字化 参考架构 本体建模 语义知识库 平台 分工 | 标准数字化标准族 三系列 结构\n\n---REVIEW: suggestion | 本体方向国家标准线索（GB/T 42986.1、GB/T 41472.2、GB/T 41446、GB/T 32392.3、GB/Z 196）---\n来源文档第七节登记了 6 项本体方向国家标准线索，其中 GB/T 45256-2025 已有实体页，其余 5 项（GB/T 42986.1-2023、GB/T 41472.2-2022、GB/T 41446-2022、GB/T 32392.3-2015、GB/Z 196-2026）尚无页面。这些标准与 Wiki 的 Ontology 主题直接相关，但本文档仅登记标准号与名称，内容未获取。是否值得为它们建立实体页或合并为一个线索页，请人工判断。\nOPTIONS: Create Page | Skip\nPAGES: wiki/entities/gb-t-42986-1-2023-地理信息-本体-第1部分-框架.md, wiki/entities/gb-t-41472-2-2022-地理信息-本体-第2部分-owl本体开发规则.md, wiki/entities/gb-t-32392-3-2015-互操作性元模型框架-本体注册元模型.md\nSEARCH: GB/T 42986.1 地理信息 本体 框架 | GB/T 41472.2 地理信息 本体 OWL 开发规则 | GB/T 32392.3 互操作性元模型框架 本体注册元模型",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/02 标准族总览与关系.md",
+    "affectedPages": [
+      "wiki/entities/全国标准数字化标准化技术委员会.md",
+      "wiki/queries/tc626正式成立日期与swg29注销状态待核验.md"
+    ],
+    "searchQueries": [
+      "全国标准数字化标准化技术委员会 TC626 成立",
+      "全国标准数字化标准化工作组 SAC/SWG 29 转化",
+      "国标委发〔2026〕26号 标准化技术组织 筹建"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-924cb9c8",
+    "resolved": false,
+    "createdAt": 1791784295769
+  },
+  {
+    "type": "contradiction",
+    "title": "GB/T 48000.2 能力等级\"电子化\"与\"可视化\"命名矛盾",
+    "description": "GB/T 48000.2-2026 征求意见稿正文 6.2 节标题为\"电子化\"，但编制说明称五等级为\"可视化、结构化、语义化、智能化、可拓展\"。二者矛盾，需人工判断哪个是正式表述，或是否为笔误/还原问题。已创建 query 页面记录。\n\n\n\n\n---REVIEW: duplicate | 标准信息单元（SIU）与既有\"信息单元\"概念页可能重叠---\n本来源第 3.4 条定义\"标准信息单元（SIU）\"，既有 Wiki 已有 [[concepts/信息单元]]（来自 GB/T 48000.3 本体建模要求）。二者是否为同一概念、是否需要在两标准间统一，需人工判断。已创建 [[concepts/标准信息单元]] 独立页，但可能与既有页重叠。\nOPTIONS: Create Page | Skip\nPAGES: wiki/concepts/标准信息单元.md, wiki/concepts/信息单元.md\nSEARCH: GB/T 48000.2 标准信息单元 SIU 定义 | GB/T 48000.3 信息单元 本体建模 | 标准数字化 信息单元 标准信息单元 区别\n\n---REVIEW: missing-page | 标准内容模块化标准族缺独立页面---\n本来源多处引用\"标准内容模块化\"标准族（GB/T XXXXX.1 主结构与配置、GB/T XXXXX.2 主模型与变异），但该标准族在 Wiki 中无独立实体页。已创建概念页 [[concepts/标准内容模块化]]，但该标准族的正式编号、发布状态、归口单位仍待核验。\nOPTIONS: Create Page | Skip\nPAGES: wiki/concepts/标准内容模块化.md\nSEARCH: 标准内容模块化 主结构与配置 通用技术要求 国家标准 | 标准内容模块化 主模型与变异 通用技术要求 | 标准内容模块化 标准族 编号 归口\n\n---REVIEW: suggestion | 建议补充 GB/T 48000.2 正式发布版与征求意见稿条款级比对---\n本来源为 2025-04 征求意见稿，正式发布版条款未获取。既有 query [[queries/gb-t-48000-2正式发布版与2025-04征求意见稿差异待核验]] 已记录该缺口，但尚未启动。建议获取正式发布版后启动条款级比对，重点核对能力等级命名、系列部分数量、第 3 部分名称、规范性引用文件编号等。\nOPTIONS: Create Page | Skip\nPAGES: wiki/queries/gb-t-48000-2正式发布版与2025-04征求意见稿差异待核验.md\nSEARCH: GB/T 48000.2-2026 标准数字化 参考架构模型 正式发布版 | GB/T 48000.2-2026 标准全文 在线阅读 | 标准数字化 参考架构模型 征求意见稿 正式版 差异",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/1 GB-T-48000.2-2026 参考架构模型/征求意见稿及编制说明（文本版）.md",
+    "affectedPages": [
+      "wiki/queries/gb-t-48000-2-能力等级电子化与可视化命名矛盾待核验.md"
+    ],
+    "searchQueries": [
+      "GB/T 48000.2-2026 标准数字化 参考架构模型 能力特征 电子化",
+      "GB/T 48000.2 能力特征 可视化 结构化 语义化 智能化 可拓展",
+      "标准数字化 参考架构模型 能力等级 命名"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b580ef95",
+    "resolved": false,
+    "createdAt": 1791784416071
+  },
+  {
+    "type": "contradiction",
+    "title": "标准生命周期阶段数：九阶段与既有四阶段张力",
+    "description": "GB/T 47012.1-2026 征求意见稿将\"标准生命周期\"定义为九阶段（预备、立项、起草、征求意见、审查、批准发布、出版、复审、废止），而既有 Wiki 页面 concepts/生命周期四阶段 记录四阶段划分。二者是否描述同一对象、是否需区分，尚未核验。已创建 query 页面记录该张力，但既有 concepts/生命周期四阶段 页面是否需要更新或加注说明，需人工判断。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/标准正文（文本版）.md",
+    "affectedPages": [
+      "wiki/queries/标准生命周期九阶段与既有四阶段概念关系待核验.md",
+      "wiki/concepts/生命周期四阶段.md"
+    ],
+    "searchQueries": [
+      "GB/T 47012.1 标准生命周期 九阶段 划分",
+      "标准数字化 标准生命周期 阶段划分 国家标准",
+      "GB/T 48000.2 标准生命周期 四阶段 定义"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e3497369",
+    "resolved": false,
+    "createdAt": 1791784926013
+  },
+  {
+    "type": "duplicate",
+    "title": "标准内容语义化概念可能重叠",
+    "description": "本来源第 7.6.4 节\"标准内容语义化\"与既有 concepts/标准内容语义化表达（属 GB/T 46917.1-2026）在名称与内涵上可能重叠。二者分属不同标准，是否需合并、区分或建立比较页，需人工判断。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/标准正文（文本版）.md",
+    "affectedPages": [
+      "wiki/concepts/标准数字化业务管理六项能力.md",
+      "wiki/concepts/标准内容语义化表达.md"
+    ],
+    "searchQueries": [
+      "GB/T 46917.1 标准内容语义化表达 通用要求",
+      "GB/T 47012.1 标准内容语义化 业务管理",
+      "标准数字化 语义化 标准内容 区别"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5a0353ab",
+    "resolved": true,
+    "createdAt": 1791784926013,
+    "resolvedAction": "Created: wiki/concepts/标准内容语义化概念可能重叠.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "标准数字化平台与 ISO OSD、IEC 平台系统化程度比较",
+    "description": "既有 query 记录了\"标准数字化平台比 ISO OSD、IEC 更系统化\"这一主张待核验。本来源提供了 GB/T 47012.1 四层架构（业务/资源/保障/实施）的条款级证据，可作为与 ISO OSD、IEC 相关平台架构进行结构化比较的基础，有助于判断该主张是否成立。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/标准正文（文本版）.md",
+    "affectedPages": [
+      "wiki/queries/标准数字化平台比iso-osd-iec更系统化主张待核验.md",
+      "wiki/concepts/标准数字化平台四层系统架构.md"
+    ],
+    "searchQueries": [
+      "ISO Online Standards Development OSD platform architecture",
+      "IEC standards development digital platform architecture",
+      "标准数字化平台 四层架构 ISO IEC 比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3bc15084",
+    "resolved": true,
+    "createdAt": 1791784926013,
+    "resolvedAction": "Research saved: wiki/queries/research-标准数字化平台与-iso-osdiec-平台系统化程度比较-2026-10-12-072539-research-114.md"
+  },
+  {
+    "type": "contradiction",
+    "title": "标准生命周期阶段数：8 阶段与 9 阶段并存",
+    "description": "GB/T 47012.1 编制说明的试验验证表列出标准生命周期 8 个阶段（立项、起草、征求意见、审查、批准发布、交付、应用反馈、复审），而既有 [[concepts/标准生命周期九阶段]] 记录为 9 阶段，另有 [[concepts/生命周期四阶段]]。三套阶段划分并存，直接影响\"标准生命周期管理\"概念页与平台业务架构页的一致性，需人工判断是同一体系的不同粒度表述还是实质差异。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/编制说明（文本版）.md",
+    "affectedPages": [
+      "wiki/queries/标准生命周期阶段数八阶段与九阶段差异待核验.md",
+      "wiki/concepts/标准生命周期九阶段.md",
+      "wiki/concepts/生命周期四阶段.md"
+    ],
+    "searchQueries": [
+      "标准生命周期 阶段划分 立项 起草 征求意见 审查 批准发布 复审",
+      "GB/T 48000.1-2025 标准数字化 通用指南 生命周期阶段",
+      "标准数字化 标准生命周期 九阶段 八阶段"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e135e758",
+    "resolved": false,
+    "createdAt": 1791785005560
+  },
+  {
+    "type": "contradiction",
+    "title": "现行 6 项标准\"均不涉及本标准范围\"与\"吸收其内容\"张力",
+    "description": "编制说明一方面称国内 6 项现行标准（GB/T 42093.1/42093.2/22373/37967/39872/35415）\"均不涉及本标准的范围与内容\"，另一方面又称\"本标准吸收了这些标准的主要内容，作为标准数字化平台的部分内容\"。吸收内容与不涉及范围在逻辑上互斥，需用户判断该主张的准确边界，并决定是否影响 GB/T 47012.1 与既有标准的关系描述。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/编制说明（文本版）.md",
+    "affectedPages": [
+      "wiki/queries/现行6项标准均不涉及本标准范围主张待核验.md",
+      "wiki/entities/gb-t-47012-1-2026-系统架构.md"
+    ],
+    "searchQueries": [
+      "GB/T 42093.1 标准文档结构化元模型 范围",
+      "GB/T 47012.1 标准数字化平台 与现行标准关系",
+      "标准数字化 现行标准 吸收 范围"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-281a80f6",
+    "resolved": false,
+    "createdAt": 1791785005560
+  },
+  {
+    "type": "suggestion",
+    "title": "标准数字化平台与 ISO OSD、IEC 的条款级对比",
+    "description": "编制说明主张本标准\"比 ISO OSD 平台及其方法、比 ISO/IEC 有关数字化平台的方法要多，并且更系统化\"，但无量化或条款级比对支撑。该主张是标准先进性的核心论据，需外部研究 ISO OSD 2.0、IEC 平台组件、SIU/SIM 的公开资料，以判断\"更系统化\"是否可复核。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/编制说明（文本版）.md",
+    "affectedPages": [
+      "wiki/comparisons/标准数字化平台与iso-osd-iec对比.md",
+      "wiki/queries/标准数字化平台比iso-osd-iec更系统化主张待核验.md",
+      "wiki/entities/在线标准制定osd平台.md"
+    ],
+    "searchQueries": [
+      "ISO IEC Online Standards Development OSD 2.0 features",
+      "IEC SMART standard SIU SIM standard information unit model",
+      "ISO STS standard tag set XML standards structuring"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9642c30e",
+    "resolved": true,
+    "createdAt": 1791785005560,
+    "resolvedAction": "Research saved: wiki/queries/research-标准数字化平台与-iso-osdiec-的条款级对比-2026-10-12-072742-research-116.md"
+  },
+  {
+    "type": "missing-page",
+    "title": "接口（interface）术语定义页",
+    "description": "GB/T 46917.2-2026 第 3.1 条定义了\"接口（interface）\"这一核心术语，但当前 Wiki 只有 [[concepts/接口返回状态码]]，缺少\"接口\"总定义的独立概念页。该定义是理解本文件全部接口规范的基础，且可能与 GB/T 46917.1、GB/T 46917.3 及 GB/T 38672-2020 中的接口概念交叉。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/6 GB-T-46917.2-2026 数据接口要求/标准正文（文本版）.md",
+    "affectedPages": [
+      "wiki/concepts/接口.md"
+    ],
+    "searchQueries": [
+      "GB/T 46917.2-2026 接口 interface 术语和定义",
+      "标准语义知识库 数据接口 定义 抽象层",
+      "国家标准 数据接口 术语定义 数据格式 操作集合 通信协议",
+      "标准语义知识库 数据接口 抽象层 定义",
+      "国家标准 数据接口 数据格式 操作集合 通信协议"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-00850a8b",
+    "resolved": true,
+    "createdAt": 1791785436862,
+    "resolvedAction": "Research saved: wiki/queries/research-接口interface术语定义页-2026-10-12-072540-research-117.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "GB/T 46917.2 与 GB/T 38672-2020 接口要求比较",
+    "description": "本文件参考文献引用了 GB/T 38672-2020《信息技术 大数据 接口基本要求》，且 Wiki 已有 [[entities/gb-t-38672-2020-大数据接口基本要求]] 页面。两者都规定接口要求，但一个面向标准语义知识库、一个面向大数据，值得建立比较页以厘清接口规范的分工与重叠。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/6 GB-T-46917.2-2026 数据接口要求/标准正文（文本版）.md",
+    "affectedPages": [
+      "wiki/comparisons/gb-t-46917-2-与-gb-t-38672-2020-接口要求比较.md"
+    ],
+    "searchQueries": [
+      "GB/T 38672-2020 大数据接口基本要求 内容",
+      "GB/T 46917.2-2026 数据接口要求 标准语义知识库",
+      "大数据接口 与 知识库接口 规范比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-124f8deb",
+    "resolved": true,
+    "createdAt": 1791785436862,
+    "resolvedAction": "Research saved: wiki/queries/research-gbt-469172-与-gbt-38672-2020-接口要求比较-2026-10-12-072743-research-118.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "标准语义知识库接口与 RESTful/OpenAPI 工程实践对照",
+    "description": "本文件规定接口方法名（itemQuery、dataSubscription、postData、elementTransform）、HTTP/HTTPS 协议、RESTful 实现方式与 JSON/XML 交换格式，但未给出完整 API 契约（如路径、方法、错误模型）。对照通用 RESTful/OpenAPI 工程实践可评估该标准接口规范的可实现性与落地缺口，对\"企业 AI 语义层\"主题有直接价值。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/6 GB-T-46917.2-2026 数据接口要求/标准正文（文本版）.md",
+    "affectedPages": [
+      "wiki/comparisons/标准语义知识库接口与restful-openapi实践对照.md"
+    ],
+    "searchQueries": [
+      "RESTful API 设计规范 OpenAPI 契约",
+      "知识库数据接口 RESTful JSON 实现",
+      "标准接口规范 与 OpenAPI 对照"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ad2792fb",
+    "resolved": true,
+    "createdAt": 1791785436862,
+    "resolvedAction": "Research saved: wiki/queries/research-标准语义知识库接口与-restfulopenapi-工程实践对照-2026-10-12-072725-research-119.md"
+  },
+  {
+    "type": "duplicate",
+    "title": "南网科研院 与 南方电网标准中台 是否应合并",
+    "description": "Stage 1 建议“创建 entities/南方电网标准中台（或并入南网科研院页）”。本次已分别创建两页：南网科研院为起草工作组牵头单位（组织），南方电网标准中台为其自述的落地案例（产品/服务接口）。若认为二者应合并为单一实体页，请人工判断。\n\n\n\n\n---REVIEW: missing-page | GB/T 46917.2 与相关接口标准对比 ---\n编制说明第六章集中给出与 ISO 10303-22:1998、GB/T 38672-2020、YD/T 4248-2023、DB4401/T 223-2023、DB4403/T 313-2023 及《全国一体化政务大数据体系共享服务数据交换要求》的对比关系。Stage 1 将其列为“可选创建 comparisons/gb-t-46917-2-与相关接口标准对比”。是否建立独立对比页需人工确认。\nOPTIONS: Create Page | Skip\nPAGES: wiki/comparisons/gb-t-46917-2-与相关接口标准对比.md\nSEARCH: GB/T 38672-2020 大数据接口基本要求 内容 | ISO 10303-22 standard data access interface scope | YD/T 4248-2023 应用程序接口数据安全技术要求\n\n---REVIEW: suggestion | 编制说明与官方条目档案起草单位口径比对 ---\n编制说明称起草工作组由“南网科研院、中国标准化研究院、华南理工大学等”组成，与既有 queries/gb-t-46917-2起草单位署名两组口径差异待核验 相关。建议在获取官方条目档案署名后做一次逐项比对，并更新该 query 页面。\nOPTIONS: Create Page | Skip\nPAGES: wiki/queries/gb-t-46917-2起草单位署名两组口径差异待核验.md\nSEARCH: GB/T 46917.2-2026 起草单位 主要起草人 | 标准语义知识库 第2部分 数据接口要求 起草单位 | 20242359-T-469 标准计划 起草单位",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/2 征求意见稿（草案全文）/6 GB-T-46917.2-2026 数据接口要求/编制说明（文本版）.md",
+    "affectedPages": [
+      "wiki/entities/南网科研院.md",
+      "wiki/entities/南方电网标准中台.md"
+    ],
+    "searchQueries": [
+      "南方电网 标准中台 标准语义知识库 接口",
+      "南网科研院 标准数字化 起草单位",
+      "南方电网 标准语义知识库 设备全生命周期"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-42551c48",
+    "resolved": false,
+    "createdAt": 1791785489725
+  },
+  {
+    "type": "suggestion",
+    "title": "中国标准在线服务网与国家标准全文公开系统页面补充",
+    "description": "本档案为 [[entities/中国标准在线服务网]] 与 [[entities/国家标准全文公开系统]] 补充了“范围条款转录来源”与“防批量下载限制”两项角色证据。这两个实体页此前可能仅由其他来源支持，建议人工确认是否需合并或统一口径。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/1 标准档案/11 GB-T-48000.2-2026 标准数字化 第2部分：参考架构模型.md",
+    "affectedPages": [
+      "wiki/entities/中国标准在线服务网.md",
+      "wiki/entities/国家标准全文公开系统.md"
+    ],
+    "searchQueries": [
+      "中国标准在线服务网 spc.org.cn 标准简介 转录",
+      "国家标准全文公开系统 openstd.samr.gov.cn 在线阅读 防下载",
+      "全国标准信息公共服务平台 std.samr.gov.cn 相近标准 匹配机制"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3929b04a",
+    "resolved": true,
+    "createdAt": 1791786077540,
+    "resolvedAction": "Research saved: wiki/queries/research-中国标准在线服务网与国家标准全文公开系统页面补充-2026-10-12-072809-research-120.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "标准数字化参考架构模型三维度与 SAM 模型三维度内涵比对",
+    "description": "本档案与既有页面均把 GB/T 48000.2-2026 的三维度（能力特征、生命周期、应用层级）与 SAM 模型三维度并置，但两者内涵是否一致、是否可互相映射尚无一手证据。该比对直接影响参考架构模型在 Wiki 中的定位，值得优先核验。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/1 标准档案/11 GB-T-48000.2-2026 标准数字化 第2部分：参考架构模型.md",
+    "affectedPages": [
+      "wiki/concepts/标准数字化参考架构模型.md",
+      "wiki/entities/sam模型.md",
+      "wiki/queries/sam模型三维度与本文件三维度内涵一致性待核验.md"
+    ],
+    "searchQueries": [
+      "SAM 模型 标准数字化 三维度 能力特征 生命周期 应用层级",
+      "GB/T 48000.2-2026 参考架构模型 能力特征 生命周期 应用层级 定义",
+      "IEC SMB SG12 SAM 模型 标准 数字化 维度"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b337af76",
+    "resolved": true,
+    "createdAt": 1791786077540,
+    "resolvedAction": "Research saved: wiki/queries/research-标准数字化参考架构模型三维度与-sam-模型三维度内涵比对-2026-10-12-073005-research-121.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "GB/T 48000.2-2026 与 GB/T 45508-2025 范围重叠界定",
+    "description": "本档案与既有页面均记录本标准与 GB/T 45508-2025《机器可读标准能力等级模型与评估》存在范围重叠疑问，但未给出条款级依据。两者都涉及“能力等级”，若边界不清会污染标准族关系与能力等级概念页。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/1 标准档案/11 GB-T-48000.2-2026 标准数字化 第2部分：参考架构模型.md",
+    "affectedPages": [
+      "wiki/queries/gb-t-48000-2-与-gb-t-45508-2025-范围重叠待核验.md",
+      "wiki/entities/gb-t-45508-2025-机器可读标准能力等级模型与评估.md",
+      "wiki/concepts/能力特征五等级.md"
+    ],
+    "searchQueries": [
+      "GB/T 45508-2025 机器可读标准 能力等级模型 评估 范围",
+      "GB/T 48000.2-2026 参考架构模型 能力等级 范围 区别",
+      "机器可读标准 能力等级 与 标准数字化 参考架构 关系"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-06664836",
+    "resolved": true,
+    "createdAt": 1791786077540,
+    "resolvedAction": "Research saved: wiki/queries/research-gbt-480002-2026-与-gbt-45508-2025-范围重叠界定-2026-10-12-072956-research-122.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "本标准与 OWL/RDF、SKOS 关系的外部研究",
+    "description": "GB/T 48000.3-2026 的 2025-04 征求意见稿中未见本标准与 OWL/RDF、SKOS 等既有本体技术标准的关系说明，属知识空白。Wiki 已有 `concepts/owl-rdf语义建模` 页面，但缺少 GB/T 标准体系与 W3C 本体技术栈之间关系的证据。建议联网研究以填补该缺口。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/1 标准档案/12 GB-T-48000.3-2026 标准数字化 第3部分：本体建模要求.md",
+    "affectedPages": [
+      "wiki/concepts/owl-rdf语义建模.md",
+      "wiki/entities/gb-t-48000-3-2026-本体建模要求.md"
+    ],
+    "searchQueries": [
+      "GB/T 48000.3 本体建模要求 OWL RDF 关系",
+      "国家标准 本体建模 OWL SKOS 映射",
+      "ontology modeling standard China OWL RDF alignment"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3f3b07ee",
+    "resolved": true,
+    "createdAt": 1791786294870,
+    "resolvedAction": "Research saved: wiki/queries/research-本标准与-owlrdfskos-关系的外部研究-2026-10-12-072949-research-123.md"
+  },
+  {
+    "type": "duplicate",
+    "title": "GB/T 48000.4 官方条目档案来源页可能重复",
+    "description": "本档案（`标准数字化/1 标准档案/13 GB-T-48000.4-2026 标准数字化 第4部分：协同制定要求.md`）与既有来源页 `sources/5-标准数字化--6-1-标准档案--36-13-gb-t-480004-2026-标准数字化-第4部分协同制定要求--1hsqrmv` 及 `sources/5-标准数字化--4-标准条目--36-13-gb-t-480004-2026-标准数字化-第4部分协同制定要求--p89xja` 高度重叠，可能为同一官方条目档案的不同抓取批次。需人工判断是否合并或标注为同一来源，避免 Wiki 冗余。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/1 标准档案/13 GB-T-48000.4-2026 标准数字化 第4部分：协同制定要求.md",
+    "affectedPages": [
+      "wiki/sources/5-标准数字化--6-1-标准档案--36-13-gb-t-480004-2026-标准数字化-第4部分协同制定要求--1hsqrmv.md"
+    ],
+    "searchQueries": [
+      "GB/T 48000.4-2026 标准数字化 协同制定要求 官方条目",
+      "全国标准信息公共服务平台 GB/T 48000.4-2026 详情页"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-448cb93d",
+    "resolved": false,
+    "createdAt": 1791786334407
+  },
+  {
+    "type": "missing-page",
+    "title": "协同制定安全管理要求概念页缺失",
+    "description": "GB/T 48000.4-2026 的“范围”明确列出“安全管理”作为协同制定活动的四类管理要求之一，但既有 Wiki 概念页仅覆盖数据协同要求与流程协同要求，安全管理维度覆盖较弱。当前仅有范围条款转录证据，正文未获取，是否独立成页需人工判断。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/1 标准档案/13 GB-T-48000.4-2026 标准数字化 第4部分：协同制定要求.md",
+    "affectedPages": [
+      "wiki/concepts/协同制定安全管理要求.md"
+    ],
+    "searchQueries": [
+      "GB/T 48000.4-2026 协同制定 安全管理 要求",
+      "标准数字化 协同制定 安全管理 数据安全 权限"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-aed271f8",
+    "resolved": true,
+    "createdAt": 1791786334407,
+    "resolvedAction": "Research saved: wiki/queries/research-协同制定安全管理要求概念页缺失-2026-10-12-073053-research-124.md"
+  },
+  {
+    "type": "duplicate",
+    "title": "GB/T 47012.1 起草单位署名两组口径差异存在重复 query 页面",
+    "description": "Wiki 中同时存在 `queries/gb-t-47012-1起草单位署名两组口径差异待核验` 与 `queries/47012-1起草单位署名两组口径差异待核验`，两者指向同一事实（杭州恒增科技、咸亨电气/探博士两组署名口径差异），本档案再次确认该张力。需人工判断是否合并为单一 query 页面，避免同一待核验项分散在多处。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/1 标准档案/14 GB-T-47012.1-2026 标准数字化平台 第1部分：系统架构.md",
+    "affectedPages": [
+      "wiki/queries/gb-t-47012-1起草单位署名两组口径差异待核验.md",
+      "wiki/queries/47012-1起草单位署名两组口径差异待核验.md"
+    ],
+    "searchQueries": [
+      "GB/T 47012.1-2026 起草单位 杭州恒增科技",
+      "GB/T 47012.1-2026 起草单位 咸亨电气 探博士",
+      "国家标准 起草单位 两组口径 差异 核验"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9bb3b918",
+    "resolved": false,
+    "createdAt": 1791786379260
+  },
+  {
+    "type": "suggestion",
+    "title": "GB/T 47012.1 正式发布版全文获取路径与条款级比对",
+    "description": "本档案仅获取 2025-04-30 征求意见稿草案，正式发布版全文因国家标准全文公开系统防批量下载未获取，导致四类架构（业务/资源/保障/实施）的条款级内涵无法确认，资源架构概念页只能停留在占位状态。需研究正式版全文的合规获取路径（在线阅读、正式出版物、标准馆藏）并启动条款级比对。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/1 标准档案/14 GB-T-47012.1-2026 标准数字化平台 第1部分：系统架构.md",
+    "affectedPages": [
+      "wiki/queries/gb-t-47012-1正式版与2025-04征求意见稿差异待核验.md"
+    ],
+    "searchQueries": [
+      "国家标准全文公开系统 在线阅读 防下载 获取方式",
+      "GB/T 47012.1-2026 正式版 全文 获取",
+      "国家标准 征求意见稿 正式版 条款差异 比对方法"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d51d8886",
+    "resolved": true,
+    "createdAt": 1791786379260,
+    "resolvedAction": "Research saved: wiki/queries/research-gbt-470121-正式发布版全文获取路径与条款级比对-2026-10-12-073057-research-125.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "6 项标准正式发布版条款获取与草案比对",
+    "description": "资料集只有 6 份征求意见稿（草案），正式发布版全文因国家标准全文公开系统防批量下载处理未获取，导致「草案 vs 正式版」条款级比对整体无法启动。这是整批资料最核心的证据缺口，需确认是否通过在线阅读或购买正式出版物补齐。\n\n\n\n\n---REVIEW: suggestion | 团体标准库与国家标准计划库覆盖缺口补查---\n`00 先读我.md` 自述团体标准库被防火墙拦截、国家标准计划库未查，覆盖缺口可能不止已收录的 9 项。是否安排后续检索以确认同族标准完整性，需人工判断。\nOPTIONS: Create Page | Skip\nPAGES: wiki/sources/5-标准数字化--6-00-先读我--1qttsu9.md\nSEARCH: 全国标准信息公共服务平台 团体标准 检索 方法 | 国家标准计划库 在研标准 查询 入口 | 标准数字化 标准族 同族标准 完整性\n\n---REVIEW: contradiction | 草案名与正式名不一致是否伴随条款实质改动---\n`00 先读我.md` 以 GB/T 48000.3 为例说明草案名《本体建模规范》正式名改为《本体建模要求》，但未说明条款是否实质改动。Wiki 中已有多条「正式版与征求意见稿差异待核验」query，此张力需用户判断是否统一处理。\nOPTIONS: Create Page | Skip\nPAGES: wiki/queries/gb-t-48000-3-2026-正式版与征求意见稿差异待核验.md, wiki/concepts/标准档案与标准正文的区分.md\nSEARCH: GB/T 48000.3-2026 本体建模要求 正式版 条款 | 国家标准 名称变更 规范 要求 条款改动 | 标准数字化 本体建模 规范 要求 差异",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/标准数字化/00 先读我.md",
+    "affectedPages": [
+      "wiki/queries/9项标准中3项无公开草案的条款内容获取路径待核验.md",
+      "wiki/concepts/标准档案与标准正文的区分.md"
+    ],
+    "searchQueries": [
+      "国家标准全文公开系统 openstd.samr.gov.cn 在线阅读 条款引用",
+      "国家标准 征求意见稿 正式发布版 条款差异 比对",
+      "GB/T 48000.3 本体建模规范 本体建模要求 名称变更 条款"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2c98e7eb",
+    "resolved": true,
+    "createdAt": 1791786831269,
+    "resolvedAction": "Research saved: wiki/queries/research-6-项标准正式发布版条款获取与草案比对-2026-10-12-073105-research-126.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "架构师阿Q 系列后续集数与收录范围确认",
+    "description": "本来源是\"架构师阿Q\"资料组的开篇，与 Wiki 主线（企业 AI 语义层、Ontology、FDE、RAG、Agent）无直接技术交集。需要人工确认：是否将该系列纳入本 Wiki 长期收录范围，以及后续集数是否持续摄入。若持续收录，建议以 [[架构师阿Q]] 作为统一作者锚点，并明确该系列与主线的关系定位。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/架构师阿Q/第 1 集｜互联网架构就这？1个故事讲清楚.md",
+    "affectedPages": [
+      "wiki/entities/架构师阿Q.md",
+      "wiki/sources/5-架构师阿q--19-第-1-集互联网架构就这1个故事讲清楚--j8actw.md"
+    ],
+    "searchQueries": [
+      "架构师阿Q 架构和原理 bilibili 合集",
+      "互联网架构演进 问题驱动 组件引入顺序",
+      "微服务 改回单体 架构可逆性 案例"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-449775b0",
+    "resolved": true,
+    "createdAt": 1791790956038,
+    "resolvedAction": "Research saved: wiki/queries/research-架构师阿q-系列后续集数与收录范围确认-2026-10-12-080040-research-127.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "架构演进可逆性与复杂度回退机制待外部核验",
+    "description": "来源中作者提出\"架构演进是用空间换时间、用复杂度换性能\"，但全篇为单向演进叙事，未展示反向案例（如微服务改回单体、去缓存、合库合表）。这是本来源唯一具有跨领域迁移价值、且本地资料无法回答的开放问题，值得外部研究补充真实回退案例与决策依据。",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/架构师阿Q/第 1 集｜互联网架构就这？1个故事讲清楚.md",
+    "affectedPages": [
+      "wiki/concepts/互联网架构演进线.md",
+      "wiki/concepts/三条架构思维.md"
+    ],
+    "searchQueries": [
+      "微服务 回退 单体架构 案例 复盘",
+      "架构决策 可逆性 不可逆 拆分成本",
+      "去微服务 Amazon Prime Video 单体 收益"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6f474f90",
+    "resolved": true,
+    "createdAt": 1791790956038,
+    "resolvedAction": "Research saved: wiki/queries/research-架构演进可逆性与复杂度回退机制待外部核验-2026-10-12-080106-research-128.md"
+  },
+  {
+    "type": "duplicate",
+    "title": "架构师阿Q 实体页更新",
+    "description": "本集为已有实体页 [[entities/架构师阿Q]] 的系列作品，需补充本集作品索引与观点（六阶段演进线、三条核心思维）。当前未生成新的实体页，避免与既有页面重复。\n\n\n\n\n---REVIEW: missing-page | 互联网架构演进线与企业应用架构演进线对照 ---\n同 UP 主第 1 集与第 2 集构成双线叙事，建议建立 comparison 页对照两条演进线。当前仅以 wikilink 关联，未生成对照页。\nOPTIONS: Create Page | Skip\nPAGES: wiki/comparisons/互联网架构演进线与企业应用架构演进线.md\nSEARCH: 互联网架构演进 企业应用架构 演进对比 | enterprise application architecture vs internet architecture evolution\n\n---REVIEW: suggestion | 中台退潮争议外部研究 ---\n本集把「业务中台、数据中台的雏形」作为演进终点，未讨论行业中台建设的争议与退潮。建议联网研究补充该缺口。\nOPTIONS: Create Page | Skip\nPAGES: wiki/external-research/中台建设争议与退潮.md\nSEARCH: 数据中台 退潮 争议 企业实践 | 业务中台 建设失败 案例 复盘 | data middle platform backlash enterprise China",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/架构师阿Q/第 2 集｜应用架构就这？1个故事讲透企业应用架构演进史.md",
+    "affectedPages": [
+      "wiki/entities/架构师阿Q.md"
+    ],
+    "searchQueries": [
+      "架构师阿Q 架构和原理 合集 作品列表",
+      "架构师阿Q 企业应用架构 第2集"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9bc17d32",
+    "resolved": false,
+    "createdAt": 1791791270411
+  },
+  {
+    "type": "suggestion",
+    "title": "控制权边界与控制面与数据面分离是否长期保留为独立概念页",
+    "description": "这两个分析框架由整理者在本集基础上提出，并非视频作者原话，目前各只有一个来源案例支撑，证据状态为 `unknown`。是否应作为独立 concept 页长期保留，还是仅作为本集来源页内的分析段落，需要人工判断。\n\n\n\n\n---REVIEW: missing-page | Nginx、HAProxy、F5、A10 是否需要独立实体页---\n本集中 Nginx、HAProxy、F5、A10 各仅有一句定性描述（七层软件代表、硬件设备代表），独立成页价值有限，当前以 [[软件负载均衡]]、[[硬件负载均衡]] 概念页内的 wikilink 形式记录。若后续来源补充更多信息，可考虑升格为实体页。\nOPTIONS: Create Page | Skip\nPAGES: wiki/entities/nginx.md, wiki/entities/haproxy.md, wiki/entities/f5.md, wiki/entities/a10.md\nSEARCH: Nginx layer 7 load balancing features | HAProxy layer 7 load balancing performance | F5 BIG-IP hardware load balancer specifications\n\n---REVIEW: suggestion | 本集集号与发布时间倒挂口径问题---\n本集在平台合集《架构和原理》中排为第 5 集，但发布时间早于合集内第 1 集，集号来源为平台播放顺序、未经作者确认。是否需在来源页与 [[架构师阿Q]] 页面标注该口径问题，需要人工判断。\nOPTIONS: Create Page | Skip\nPAGES: wiki/sources/5-架构师阿q--25-第-5-集负载均衡是什么lvs的三种模式有什么区别--mxb374.md, wiki/entities/架构师阿Q.md\nSEARCH: bilibili 合集 播放顺序 与 发布时间 不一致 | 架构师阿Q 架构和原理 合集 集号",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/架构师阿Q/第 5 集｜负载均衡是什么？LVS的三种模式有什么区别？.md",
+    "affectedPages": [
+      "wiki/concepts/控制权边界.md",
+      "wiki/concepts/控制面与数据面分离.md"
+    ],
+    "searchQueries": [
+      "load balancer selection criteria control plane data plane separation",
+      "DNS caching TTL failover control boundary architecture",
+      "gateway observability request only vs bidirectional traffic"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-136acfde",
+    "resolved": true,
+    "createdAt": 1791791470486,
+    "resolvedAction": "Research saved: wiki/queries/research-控制权边界与控制面与数据面分离是否长期保留为独立概念页-2026-10-12-080048-research-129.md"
+  },
+  {
+    "type": "suggestion",
+    "title": "负载均衡器自身高可用机制待补充",
+    "description": "本集通篇讲流量分发，却未讨论调度器单点故障与主备切换，而这正是文中提到的 Keepalived 存在的原因，属主题内最直接的知识缺口。建议补充 LVS + Keepalived 高可用方案的公开资料，并核验其切换时间与 DNS 方案「切换延迟大」批评的对比。\n\n\n\n\n---REVIEW: suggestion | 四层与七层负载均衡职责表待建立---\n本集只以「四层更通用」一句带过四层能力边界，未展开四层与七层在真实入口链路中的职责划分。建议建立一张职责表，把连接分发、协议解析、灰度路由、证书卸载、限流等能力逐项标到四层或七层，用于判断某一层是否被用超范围。\nOPTIONS: Create Page | Skip\nPAGES: wiki/concepts/四层与七层负载均衡.md\nSEARCH: layer 4 vs layer 7 load balancer responsibilities | 四层 七层 负载均衡 职责 对比 | TLS termination rate limiting layer 4 layer 7\n\n---REVIEW: suggestion | 控制权边界与控制面与数据面分离是否长期保留为独立概念页---\n这两个分析框架由整理者在本集基础上提出，并非视频作者原话，目前各只有一个来源案例支撑，证据状态为 `unknown`。是否应作为独立 concept 页长期保留，还是仅作为本集来源页内的分析段落，需要人工判断。\nOPTIONS: Create Page | Skip\nPAGES: wiki/concepts/控制权边界.md, wiki/concepts/控制面与数据面分离.md\nSEARCH: load balancer selection criteria control plane data plane separation | DNS caching TTL failover control boundary architecture | gateway observability request only vs bidirectional traffic\n\n---REVIEW: missing-page | Nginx、HAProxy、F5、A10 是否需要独立实体页---\n本集中 Nginx、HAProxy、F5、A10 各仅有一句定性描述（七层软件代表、硬件设备代表），独立成页价值有限，当前以 [[软件负载均衡]]、[[硬件负载均衡]] 概念页内的 wikilink 形式记录。若后续来源补充更多信息，可考虑升格为实体页。\nOPTIONS: Create Page | Skip\nPAGES: wiki/entities/nginx.md, wiki/entities/haproxy.md, wiki/entities/f5.md, wiki/entities/a10.md\nSEARCH: Nginx layer 7 load balancing features | HAProxy layer 7 load balancing performance | F5 BIG-IP hardware load balancer specifications\n\n---REVIEW: suggestion | 本集集号与发布时间倒挂口径问题---\n本集在平台合集《架构和原理》中排为第 5 集，但发布时间早于合集内第 1 集，集号来源为平台播放顺序、未经作者确认。是否需在来源页与 [[架构师阿Q]] 页面标注该口径问题，需要人工判断。\nOPTIONS: Create Page | Skip\nPAGES: wiki/sources/5-架构师阿q--25-第-5-集负载均衡是什么lvs的三种模式有什么区别--mxb374.md, wiki/entities/架构师阿Q.md\nSEARCH: bilibili 合集 播放顺序 与 发布时间 不一致 | 架构师阿Q 架构和原理 合集 集号",
+    "sourcePath": "/Users/Admin/orca/ai-for-business/llm-wiki-project/raw/sources/架构师阿Q/第 5 集｜负载均衡是什么？LVS的三种模式有什么区别？.md",
+    "affectedPages": [
+      "wiki/queries/负载均衡器自身高可用本集未展开待补充.md",
+      "wiki/entities/keepalived.md",
+      "wiki/entities/lvs.md"
+    ],
+    "searchQueries": [
+      "LVS keepalived high availability director failover VRRP",
+      "load balancer single point of failure architecture",
+      "负载均衡器 高可用 主备 虚拟IP 漂移"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b4d40eb0",
+    "resolved": true,
+    "createdAt": 1791791470486,
+    "resolvedAction": "Research saved: wiki/queries/research-负载均衡器自身高可用机制待补充-2026-10-12-080345-research-130.md"
+  }
+]

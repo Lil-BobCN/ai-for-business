@@ -1,0 +1,1081 @@
+{
+  "entries": {
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 10 集｜09-本体问答开发：Semantica检索服务与应用架构.md": {
+      "hash": "c680ae677c44b3b1191d7f1a26ddebf70d037505318c7deaaa1afc4529024207",
+      "timestamp": 1791685982059,
+      "filesWritten": [
+        "wiki/entities/semantica.md",
+        "wiki/concepts/结构化查询.md",
+        "wiki/concepts/图遍历与bfs扩展.md",
+        "wiki/concepts/向量检索与图扩展.md",
+        "wiki/concepts/规则引擎推导.md",
+        "wiki/concepts/来源溯源.md",
+        "wiki/concepts/企业级检索服务部署要求.md",
+        "wiki/queries/semantica能力-api与推理边界待核验.md",
+        "wiki/log.md",
+        "wiki/index.md",
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--33-第-10-集09-本体问答开发semantica检索服务与--11pq87k.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 11 集｜10-Agent业务集成：工具调用与订单客服问答.md": {
+      "hash": "de11716fe281a248a3c7091eebad021f922ea5e40c382210387fb7cb075a9d1b",
+      "timestamp": 1791687121189,
+      "filesWritten": [
+        "wiki/entities/semantica.md",
+        "wiki/entities/langgraph.md",
+        "wiki/entities/graphdb.md",
+        "wiki/entities/palantir.md",
+        "wiki/entities/codex.md",
+        "wiki/entities/fde-ai-应用开发实战课.md",
+        "wiki/concepts/本体与agent协同.md",
+        "wiki/concepts/工具调用.md",
+        "wiki/concepts/工作流与人工介入.md",
+        "wiki/concepts/fde交付方法.md",
+        "wiki/comparisons/工具调用-mcp-sub-agents-skills-任务组织比较.md",
+        "wiki/queries/本体与agent接入边界待核验.md",
+        "wiki/concepts/结构化查询.md",
+        "wiki/concepts/规则引擎推导.md",
+        "wiki/concepts/来源溯源.md",
+        "wiki/concepts/企业级检索服务部署要求.md",
+        "wiki/queries/semantica能力-api与推理边界待核验.md",
+        "wiki/log.md",
+        "wiki/index.md",
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--29-第-11-集10-agent业务集成工具调用与订单客服问答--j8m5g7.md"
+      ]
+    },
+    "零点未来：AI+企业/第 1 集｜10分钟企业Agentic Workflow落地：Palantir & Ontology.md": {
+      "hash": "592978f8e2381de6b030a22d7911b71fc8c3d3d6955d0441ed58b770f93e0674",
+      "timestamp": 1791688023196,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--47-第-1-集10分钟企业agentic-workflow落地palantir-ontology--167275e.md",
+        "wiki/entities/aip.md",
+        "wiki/concepts/企业-ai的data-logic-action三层模型.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 1 集｜9月30日-FDE-木羽B站.md": {
+      "hash": "8e4eaf72e208a9ac9adbe424a66bf58aafe0d8455ca2c9fc77b0c4228e34bdf5",
+      "timestamp": 1791707468007,
+      "filesWritten": [
+        "wiki/entities/semantica.md",
+        "wiki/queries/semantica能力-api与推理边界待核验.md",
+        "wiki/concepts/fde交付方法.md",
+        "wiki/concepts/本体与agent协同.md",
+        "wiki/concepts/工作流与人工介入.md",
+        "wiki/queries/fde相关数字原音与统计口径待核验.md",
+        "wiki/log.md",
+        "wiki/index.md",
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--19-第-1-集9月30日-fde-木羽b站--14wet35.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 2 集｜01-课程导学：FDE学习路径与订单客服实战目标.md": {
+      "hash": "e8d3c6c82ffaa5b74f37e09385234e2bf24a9e7ab515f7eb5d3ca5b6ef3b7fad",
+      "timestamp": 1791712434726,
+      "filesWritten": [
+        "wiki/entities/fde-ai-应用开发实战课.md",
+        "wiki/entities/codex.md",
+        "wiki/concepts/fde交付方法.md",
+        "wiki/concepts/本体与agent协同.md",
+        "wiki/queries/本体与agent接入边界待核验.md",
+        "wiki/queries/fde相关数字原音与统计口径待核验.md",
+        "wiki/queries/fde岗位定义与palantir-openai实践待核验.md",
+        "wiki/log.md",
+        "wiki/index.md",
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--28-第-2-集01-课程导学fde学习路径与订单客服实战目标--1nqx3ki.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 4 集｜03-FDE交付方法：从业务需求到AI应用落地.md": {
+      "hash": "e07beb018c7d50da7061df87b4a417e8937b2154225d113c820d2e4dedee4345",
+      "timestamp": 1791716821038,
+      "filesWritten": [
+        "wiki/concepts/fde交付方法.md",
+        "wiki/queries/fde岗位定义与palantir-openai实践待核验.md",
+        "wiki/queries/fde相关数字原音与统计口径待核验.md",
+        "wiki/entities/palantir.md",
+        "wiki/entities/openai.md",
+        "wiki/concepts/工具调用.md",
+        "wiki/concepts/工作流与人工介入.md",
+        "wiki/log.md",
+        "wiki/index.md",
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--27-第-4-集03-fde交付方法从业务需求到ai应用落地--1iwts37.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 6 集｜05-本体建模方法：业务定义、数据映射与关系校验.md": {
+      "hash": "2072067e3d78b25d108c777827454da9c2ae32d4475c1622940e8278cbcbee93",
+      "timestamp": 1791720704500,
+      "filesWritten": [
+        "wiki/concepts/本体建模业务定义数据映射与关系校验.md",
+        "wiki/concepts/本体校验与持续演化.md",
+        "wiki/queries/本体与数据约束及版本演化待核验.md",
+        "wiki/log.md",
+        "wiki/index.md",
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--27-第-6-集05-本体建模方法业务定义数据映射与关系校验--96flm2.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 7 集｜06-本体模型表达：OWL、Schema与语义约束.md": {
+      "hash": "3f1b1e2fd57766fdea3c5aaec9083b5b12337788eda1d77b64253ab413376221",
+      "timestamp": 1791721214468,
+      "filesWritten": [
+        "wiki/entities/owl.md",
+        "wiki/concepts/本体schema与实例事实.md",
+        "wiki/concepts/本体约束的分层与生效时机.md",
+        "wiki/queries/owl表达与跨系统互操作待核验.md",
+        "wiki/log.md",
+        "wiki/index.md",
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--28-第-7-集06-本体模型表达owlschema与语义约束--pds0pm.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 8 集｜07-订单本体构建实战：Codex建模、OWL生成与导入.md": {
+      "hash": "a80f54403b3b9bcbcce190e4d92ef3658c817f08922db6d1afe01db74c4efd6f",
+      "timestamp": 1791724772946,
+      "filesWritten": [
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--31-第-8-集07-订单本体构建实战codex建模owl生成与--1qlmpsr.md",
+        "wiki/entities/本体构建-agent-skills.md",
+        "wiki/concepts/三段式本体建模节奏.md",
+        "wiki/concepts/文件格式与业务模型分离.md",
+        "wiki/queries/本体建模两条路径的验收标准待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 9 集｜08-本体检索机制：结构化查询、图遍历与语义检索.md": {
+      "hash": "28745a34e08fa2dc3751df1809a25c11eb8ec60d3df45084578b8a0358738ad2",
+      "timestamp": 1791724818485,
+      "filesWritten": [
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--27-第-9-集08-本体检索机制结构化查询图遍历与语义检索--1eq3icj.md",
+        "wiki/entities/fde-本体应用工作台.md",
+        "wiki/entities/本体问答-agent-skills.md",
+        "wiki/entities/订单客服本体.md",
+        "wiki/concepts/本体检索策略选型.md",
+        "wiki/queries/上下文质量与模型规模贡献待核验.md",
+        "wiki/queries/本体与知识图谱职责边界待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 12 集｜11-RAG知识增强：本体事实与文档证据融合.md": {
+      "hash": "d5745f37d7774543dc546f3da63a9c10ae4fde7bc3b305e7bc39c056aee511e6",
+      "timestamp": 1791724981140,
+      "filesWritten": [
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--27-第-12-集11-rag知识增强本体事实与文档证据融合--1ogx78z.md",
+        "wiki/concepts/本体给事实-rag给依据.md",
+        "wiki/concepts/本体作为约束层.md",
+        "wiki/concepts/rag三种实现路径.md",
+        "wiki/concepts/来源溯源.md",
+        "wiki/concepts/本体与agent协同.md",
+        "wiki/queries/本体事实与rag依据冲突裁决待核验.md",
+        "wiki/queries/融合检索升级判据待核验.md",
+        "wiki/queries/本体与知识图谱职责边界待核验.md",
+        "wiki/entities/semantica.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 13 集｜12-人机协同流程：LangGraph审核恢复与业务验收.md": {
+      "hash": "c776a1f9c863aa29d598fc22f2f67b7952e86b85e6f39085bc068f2f2f89573f",
+      "timestamp": 1791725013490,
+      "filesWritten": [
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--33-第-13-集12-人机协同流程langgraph审核恢复与业--uijrl2.md",
+        "wiki/concepts/agent中断条件与检查点.md",
+        "wiki/concepts/业务验收指标口径.md",
+        "wiki/queries/人机协同留痕与快照时效待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "零点未来：AI+企业/第 2 集｜12分钟学习LLM驱动Ontology构建.md": {
+      "hash": "a77e49d7169dfb7448d509819308a53ae4c1752fa966e65ec513e2344484752e",
+      "timestamp": 1791725055501,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--26-第-2-集12分钟学习llm驱动ontology构建--1qph07e.md",
+        "wiki/concepts/llm驱动本体构建五种流派.md",
+        "wiki/concepts/llm建本体的四道坎.md",
+        "wiki/concepts/本体构建选型双轴.md",
+        "wiki/entities/ontoprompt.md",
+        "wiki/entities/wikidata.md",
+        "wiki/queries/五种流派论文与案例待核验.md",
+        "wiki/queries/本体验证规则来源与自证风险待核验.md",
+        "wiki/queries/本体质量度量口径待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "零点未来：AI+企业/第 3 集｜11分钟搞清楚2026年最火的岗位AI FDE.md": {
+      "hash": "fb60aeb1413faff773632ba8c8341b839de052e0d4450f61bf96ed3e6ebbd27c",
+      "timestamp": 1791725116815,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--28-第-3-集11分钟搞清楚2026年最火的岗位ai-fde--1oixl4a.md",
+        "wiki/entities/fdeforward-deployed-engineer前线部署工程师.md",
+        "wiki/concepts/土路与柏油高速路.md",
+        "wiki/concepts/token经济与ai-agent成本结构.md",
+        "wiki/concepts/fde适用三条件.md",
+        "wiki/entities/echo与delta双团队模型.md",
+        "wiki/queries/fde岗位数字与薪酬口径待核验.md",
+        "wiki/queries/bob-mcgrew身份与fde定义原文待核验.md",
+        "wiki/queries/fde与咨询公司分界线的衡量方法待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "零点未来：AI+企业/第 4 集｜14分钟揭秘Palantir一堆文件如何变成Ontology.md": {
+      "hash": "f6c699ae7d20a35aa1112ed7368ddbc83af826602c66ec5fc256d18f7ad16b30",
+      "timestamp": 1791725176453,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--35-第-4-集14分钟揭秘palantir一堆文件如何变成ontology--1fvocdi.md",
+        "wiki/entities/palantir-foundry.md",
+        "wiki/entities/aip-document-intelligence.md",
+        "wiki/concepts/文件到本体的五阶段链路.md",
+        "wiki/concepts/三条清洗路径.md",
+        "wiki/concepts/干净表到本体的映射.md",
+        "wiki/concepts/增量更新三层与两个坑.md",
+        "wiki/concepts/宽表拆分规则.md",
+        "wiki/concepts/ontology与数据库schema的三点差异.md",
+        "wiki/queries/ontoplome与ontoprompt是否同一项目待核验.md",
+        "wiki/queries/foundry连接器数量与拉取方式待核验.md",
+        "wiki/queries/aip-document-intelligence流程与mockdown库待核验.md",
+        "wiki/queries/一个object-type只能对应一张表规则待核验.md",
+        "wiki/queries/宽表拆分规则能否产品化待核验.md",
+        "wiki/queries/增量更新双写时间差裁决规则待核验.md",
+        "wiki/queries/pdf路径抽样核查样本量与判定标准待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "零点未来：AI+企业/第 5 集｜19分钟揭秘Palantir Agent和Ontology如何交互.md": {
+      "hash": "79e33db1ff3b44c17ec5de279741c99833a0dedae4eb88794f2eae9e6407249e",
+      "timestamp": 1791725240766,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--38-第-5-集19分钟揭秘palantir-agent和ontology如何交互--4skb72.md",
+        "wiki/concepts/agent与ontology五层交互架构.md",
+        "wiki/concepts/语义元素与动态元素两分法.md",
+        "wiki/concepts/确定性走context探索走query.md",
+        "wiki/concepts/防幻觉的架构化机制.md",
+        "wiki/concepts/action分级与确认机制.md",
+        "wiki/concepts/角色仿真与推理过程可视化.md",
+        "wiki/entities/palantir-mcp.md",
+        "wiki/entities/ontology-mcp.md",
+        "wiki/queries/五层架构官方命名与划分待核验.md",
+        "wiki/queries/端到端链路数字不自洽待核验.md",
+        "wiki/queries/两套mcp能力边界待核验.md",
+        "wiki/queries/防幻觉机制层数与列举项待核验.md",
+        "wiki/queries/角色仿真数字来源待核验.md",
+        "wiki/queries/ontology-oval-agent与document-resolution名称待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "零点未来：AI+企业/第 6 集｜6分钟聊聊本体Ontology和Agent那些事.md": {
+      "hash": "f232b54835e3e43660ca17e930004ff948df7f7d31cc17b0bb9563229d7caa8b",
+      "timestamp": 1791725279223,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--29-第-6-集6分钟聊聊本体ontology和agent那些事--1yunfem.md",
+        "wiki/concepts/agent-os.md",
+        "wiki/concepts/个人提效级与业务域级-agent.md",
+        "wiki/concepts/一号位工程.md",
+        "wiki/entities/bian.md",
+        "wiki/queries/agent-os工具与开源状态待核验.md",
+        "wiki/queries/bob-michael身份与agent-os规模化说法待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "零点未来：AI+企业/第 7 集｜15分钟解读Palantir 本体设计原则和行业实践分享.md": {
+      "hash": "bcb166f95329a09aefe28cb942131187972f640af99c5120aa61807d54f66e50",
+      "timestamp": 1791725333795,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--33-第-7-集15分钟解读palantir-本体设计原则和行业实践分享--1pxgt8y.md",
+        "wiki/concepts/本体设计四项核心原则.md",
+        "wiki/concepts/本体四个结构设计模式.md",
+        "wiki/concepts/本体设计四类反模式.md",
+        "wiki/concepts/action-pipeline-automation-function工具分工.md",
+        "wiki/concepts/实体三分类业务过程结果.md",
+        "wiki/concepts/三次法则与概念去重.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "零点未来：AI+企业/第 8 集｜8分钟7种Agent系统设计模式拆解.md": {
+      "hash": "214e8c86f6d62188b3ebe6399ee2a0ea5e3f206d117d1c974dbf28fbc34868f0",
+      "timestamp": 1791725393704,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--23-第-8-集8分钟7种agent系统设计模式拆解--1h1bhu5.md",
+        "wiki/entities/anthropic.md",
+        "wiki/concepts/workflow与agent的分界.md",
+        "wiki/concepts/五个工作流设计模式.md",
+        "wiki/concepts/单agent循环与两个敌人.md",
+        "wiki/concepts/多agent两种架构-经理模式与交接制.md",
+        "wiki/concepts/生产级agent五件事.md",
+        "wiki/concepts/agent选型三原则与anthropic三条铁律.md",
+        "wiki/comparisons/单agent与多agent选型比较.md",
+        "wiki/queries/agent七模式命名与anthropic原文对应待核验.md",
+        "wiki/queries/openai-agent四件套提出者身份待核验.md",
+        "wiki/queries/anthropic三条铁律与团队合作结论原文待核验.md",
+        "wiki/queries/工具数量阈值10的适用条件待核验.md",
+        "wiki/queries/作者github七模式示例代码定位待核验.md",
+        "wiki/queries/workflow定义与既有页面口径冲突待核验.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "零点未来：AI+企业/第 9 集｜ontology, knowledge graph, context graph, code graph&graph engineering一次性搞懂.md": {
+      "hash": "bbae09bf49d580598b26646236e3468859b29d83973f8af541957c22fa058089",
+      "timestamp": 1791725443706,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--76-第-9-集ontology-knowledge-graph-context-graph-code-graphgraph-engineering一次性搞懂--q67uk6.md",
+        "wiki/concepts/上下文图谱-context-graph.md",
+        "wiki/concepts/代码图谱-code-graph.md",
+        "wiki/concepts/图谱工程-graph-engineering.md",
+        "wiki/concepts/五图两类框架.md",
+        "wiki/entities/datahub.md",
+        "wiki/entities/atlan.md",
+        "wiki/entities/fibo.md",
+        "wiki/entities/fhir.md",
+        "wiki/queries/context-graph三方定义冲突待核验.md",
+        "wiki/queries/context-graph学术论文出处待核验.md",
+        "wiki/queries/fhir是否属于开源本体待核验.md",
+        "wiki/queries/四层架构是分工还是施工顺序待核验.md",
+        "wiki/queries/本集asr存疑专名待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "零点未来：AI+企业/第 10 集｜6分钟 Agent落地故事：从员工中培养自己的 FDE.md": {
+      "hash": "a28dcfa95c981d4f70245269ca824eb7ba97e4e98b84b1ed00c2dfea98832a65",
+      "timestamp": 1791725491458,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--32-第-10-集6分钟-agent落地故事从员工中培养自己的-fde--1waizwt.md",
+        "wiki/entities/abc-legal.md",
+        "wiki/entities/claude-code.md",
+        "wiki/concepts/从业务员工中培养自己的-fde.md",
+        "wiki/concepts/把-agent-当软件管理.md",
+        "wiki/concepts/两种起步模板-事件触发与定时运行.md",
+        "wiki/concepts/agent-反馈闭环与自我进化.md",
+        "wiki/concepts/协作协议优先于编程能力.md",
+        "wiki/concepts/场景数量乘单点专家的瓶颈.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "零点未来：AI+企业/第 11 集｜10分钟企业上 AI，到底用 Function、Workflow，还是 Agent？.md": {
+      "hash": "bc41fca1e4a9af1b838498e62480824928cd30cf08c75638c62b7623cb07a57d",
+      "timestamp": 1791725547444,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--44-第-11-集10分钟企业上-ai到底用-functionworkflow还是-agent--7qu39m.md",
+        "wiki/concepts/function-workflow-agent三分法与组合.md",
+        "wiki/concepts/选型两轴与一条红线.md",
+        "wiki/concepts/自主权判据.md",
+        "wiki/concepts/code-first升级阶梯与l0-l4成熟度模型.md",
+        "wiki/concepts/最小闭环与组织治理基础.md",
+        "wiki/concepts/agent可解释性不可信与可审计三元组.md",
+        "wiki/concepts/agent验收指标清单.md",
+        "wiki/queries/大厂共识优先最简单架构原文待核验.md",
+        "wiki/queries/orchestrator-workers约束边界原文待核验.md",
+        "wiki/queries/l0-l4成熟度模型出处待核验.md",
+        "wiki/queries/模型解释不可信研究出处待核验.md",
+        "wiki/queries/项目评审清单内容待核验.md",
+        "wiki/queries/报销单数字与制度真实性待核验.md",
+        "wiki/queries/接管率作为升级依据的归因待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "零点未来：AI+企业/第 12 集｜9分钟OpenAI这次卖的不只是模型.md": {
+      "hash": "cb95e8b708b3b798dcc74e127eaf4324da06c0c8c4f13f066236b2b912fab20b",
+      "timestamp": 1791725601338,
+      "filesWritten": [
+        "wiki/sources/8-零点未来ai企业--24-第-12-集9分钟openai这次卖的不只是模型--vfri5o.md",
+        "wiki/concepts/agent-api与模型-api的分界.md",
+        "wiki/concepts/长任务agent五项基础设施.md",
+        "wiki/concepts/上下文压缩.md",
+        "wiki/concepts/tool-search与工具目录治理.md",
+        "wiki/concepts/programmatic-tool-calling.md",
+        "wiki/concepts/判断计算执行三分法.md",
+        "wiki/concepts/harness与sandbox解耦.md",
+        "wiki/concepts/agent-framework下沉.md",
+        "wiki/comparisons/自建agent运行时与平台托管运行时.md",
+        "wiki/queries/honest-hunnies-harness术语身份待核验.md",
+        "wiki/queries/openai-agent-api发布事实待核验.md",
+        "wiki/queries/托管sandbox合作方名称待核验.md",
+        "wiki/queries/企业工具数量量级待核验.md",
+        "wiki/queries/上下文压缩的合规边界待核验.md",
+        "wiki/queries/长任务五项基础设施与生产级五件事口径待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "Ontology：AI Coding 在本体中的建模和实战/文章/Ontology：AI Coding 在本体中的建模和实战.md": {
+      "hash": "7a524e787e14df7f5156de80fdb30b3387778dde4531f32b519a402432f753a1",
+      "timestamp": 1791725684964,
+      "filesWritten": [
+        "wiki/sources/28-ontologyai-coding-在本体中的建模和实战--2-文章--28-ontologyai-coding-在本体中的建模和实战--154urc3.md",
+        "wiki/entities/catface996.md",
+        "wiki/entities/ai-coding-本体系统.md",
+        "wiki/entities/opencode.md",
+        "wiki/concepts/语义跨度.md",
+        "wiki/concepts/可形式化验证.md",
+        "wiki/concepts/数据-信息-知识-判断四层框架.md",
+        "wiki/concepts/成功率连乘与单步确定性.md",
+        "wiki/concepts/强制力四层排序.md",
+        "wiki/concepts/面向制品与面向角色.md",
+        "wiki/concepts/神经符号.md",
+        "wiki/concepts/拓扑子图作为检索单元.md",
+        "wiki/concepts/图谱健康度检测-黑洞孤岛循环依赖.md",
+        "wiki/concepts/制品即说明书.md",
+        "wiki/concepts/自愈成功率与报错引导修复.md",
+        "wiki/comparisons/面向制品与面向角色的拆解比较.md",
+        "wiki/queries/ai-coding本体规模数字不自洽待核验.md",
+        "wiki/queries/本集asr存疑专名待核验.md",
+        "wiki/queries/图谱检索与向量检索稳定性对比待核验.md",
+        "wiki/queries/本体建模成本收益边界待核验.md",
+        "wiki/queries/国产开源与闭源sota差距判断待核验.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 3 集｜02-FDE岗位认知：行业趋势与核心能力要求.md": {
+      "hash": "affe4f9d882a09342cb360a1ae6973752562d049bd72984e2f71a309c609c196",
+      "timestamp": 1791725768432,
+      "filesWritten": [
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--26-第-3-集02-fde岗位认知行业趋势与核心能力要求--nrt0v4.md",
+        "wiki/concepts/fde四项能力框架.md",
+        "wiki/concepts/fde完整工作闭环.md",
+        "wiki/concepts/岗位评价标准迁移.md",
+        "wiki/queries/fde政策比例目标与共建基地说法待核验.md",
+        "wiki/queries/fde上线后迭代责任边界待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 5 集｜04-业务本体入门：Ontology与Agent业务上下文.md": {
+      "hash": "ad3bd0832b3c28f5943bb08602b6256a25b5858035877367f45a592c3b235778",
+      "timestamp": 1791725820344,
+      "filesWritten": [
+        "wiki/concepts/本体与agent协同.md",
+        "wiki/concepts/fde交付方法.md",
+        "wiki/queries/本体与agent接入边界待核验.md",
+        "wiki/entities/codex.md",
+        "wiki/log.md",
+        "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--33-第-5-集04-业务本体入门ontology与agent业--1c1jgb0.md",
+        "wiki/entities/木羽cheney.md",
+        "wiki/concepts/本体三要素对象属性关系.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/标准条目/19 标准条目-YC-Z-650-2026 烟草企业标准数字化指南.md": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": 1791781190294,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--4-标准条目--33-19-标准条目-yc-z-650-2026-烟草企业标准数字化指南--16wwzn8.md",
+        "wiki/entities/yc-z-650-2026-烟草企业标准数字化指南.md",
+        "wiki/queries/yc-z-650-2026标准正文与发布信息待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/0 公开征求意见函（扫描件，无文本层）.pdf": {
+      "hash": "8cfe880cd1646eb8ddff84a28cd5d268e87378aa9d50817556f9ace2bbce900b",
+      "timestamp": 1791779658705,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--16-0-公开征求意见函扫描件无文本层--okl278.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/1 GB-T-48000.2-2026 参考架构模型/征求意见稿及编制说明.pdf": {
+      "hash": "c1d9fa622457a33a7fe1ae9e4c17f79407362ec35fc0df38ba6b111557a31e0e",
+      "timestamp": 1791779709206,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-1-gb-t-480002-2026-参考架构模型--10-征求意见稿及编制说明--3dqqdn.md",
+        "wiki/concepts/数字标准.md",
+        "wiki/queries/gb-t-48000-2规范性引用文件编号占位符重复待核验.md",
+        "wiki/queries/附录a4图a10标题与图a9重复待核验.md",
+        "wiki/queries/gb-t-48000-2应用效果缺乏量化数据待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/2 GB-T-48000.3-2026 本体建模要求/征求意见稿及编制说明.pdf": {
+      "hash": "bcc5f18f2f1e5598d7482db34335ad2bdf77d60c27894df0d152b0f256bc6335",
+      "timestamp": 1791779803809,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-2-gb-t-480003-2026-本体建模要求--10-征求意见稿及编制说明--9gc7zx.md",
+        "wiki/entities/gb-t-48000-3-2026-本体建模要求.md",
+        "wiki/entities/gb-t-45256-2025-知识本体构建流程.md",
+        "wiki/entities/gb-t-18391-3-元数据注册系统.md",
+        "wiki/concepts/三元组语义结构.md",
+        "wiki/concepts/条款内关系挖掘.md",
+        "wiki/queries/表号与正文引用错位待核验.md",
+        "wiki/queries/编制说明日期与起草过程编号异常待核验.md",
+        "wiki/queries/属性定义域命名不一致待核验.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/3 GB-T-48000.4-2026 协同制定要求/征求意见稿及编制说明.pdf": {
+      "hash": "677d4fac9356cd39ec654671cb953715995cb639d67054b4b4cc5080cc4311a4",
+      "timestamp": 1791779853009,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-3-gb-t-480004-2026-协同制定要求--10-征求意见稿及编制说明--ygc0vs.md",
+        "wiki/concepts/数据库分类-按范围与用途.md",
+        "wiki/concepts/功能级权限与数据级权限.md",
+        "wiki/concepts/标准数字化平台十一项功能要求.md",
+        "wiki/queries/协同制定过程章节号引用6-2-1表1待核验.md",
+        "wiki/queries/第3部分本体建模规范与本体建模要求命名冲突待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/5 GB-T-46917.1-2026 语义化表达通用要求/征求意见稿及编制说明.pdf": {
+      "hash": "1a4f343b914d40a6bd669d1290e62c3f78b49af78c3219c6820218f89c4eab32",
+      "timestamp": 1791779925141,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--28-5-gb-t-469171-2026-语义化表达通用要求--10-征求意见稿及编制说明--5x5cvj.md",
+        "wiki/concepts/通用语义化表达单元必备与可选划分.md",
+        "wiki/concepts/语法语义语用三阶段.md",
+        "wiki/queries/附录a条文说明来源标注错配待核验.md",
+        "wiki/queries/编制说明第5掌笔误待核验.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/6 GB-T-46917.2-2026 数据接口要求/征求意见稿及编制说明.pdf": {
+      "hash": "42444a4f00d6b931fb1a2e1d93791444b1ebb65b33e30aa3fca4d07485e0ff0e",
+      "timestamp": 1791779977131,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-6-gb-t-469172-2026-数据接口要求--10-征求意见稿及编制说明--1op29l5.md",
+        "wiki/concepts/接口返回状态码.md",
+        "wiki/entities/华南理工大学.md",
+        "wiki/entities/gb-t-38672-2020-大数据接口基本要求.md",
+        "wiki/queries/接口参数名status大小写不一致待核验.md",
+        "wiki/queries/编制说明标准化服资源务提供方笔误待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/征求意见稿及编制说明.pdf": {
+      "hash": "f1c119150bbbc02cb3ac1144f036a95cc299bb09baefd1c8bb4d686ddd66fc9f",
+      "timestamp": 1791780040862,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--23-4-gb-t-470121-2026-系统架构--10-征求意见稿及编制说明--1mk60es.md",
+        "wiki/concepts/平台保障架构.md",
+        "wiki/concepts/平台实施架构与部署方式.md",
+        "wiki/concepts/标准数字化平台业务架构三业务关系.md",
+        "wiki/queries/标准数字化平台第1部分标准编号与gb-t-47012-1关系待核验.md",
+        "wiki/queries/编制说明第7章第8章节号引用错乱待核验.md",
+        "wiki/queries/标准数字化平台前言已发布部分表述待核验.md",
+        "wiki/queries/标准起草者术语来源gb-t-20002-3错配待核验.md",
+        "wiki/queries/标准数字化平台比iso-osd-iec更系统化主张待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/1 标准档案/10 GB-T-48000.1-2025 标准数字化 第1部分：通用指南.md": {
+      "hash": "e5b38a653a5730b012b9801b5a369bd1075e43a5c940bdc14e8ad1609c980aed",
+      "timestamp": 1791780089191,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--6-1-标准档案--34-10-gb-t-480001-2025-标准数字化-第1部分通用指南--1tyvzfr.md",
+        "wiki/entities/gb-t-48000-1-2025-通用指南.md",
+        "wiki/entities/全国标准数字化标准化技术委员会.md",
+        "wiki/concepts/标准内容数字化.md",
+        "wiki/concepts/过程数字化.md",
+        "wiki/concepts/应用数字化.md",
+        "wiki/queries/全国标准数字化标准化技术委员会与sac-swg29关系待核验.md",
+        "wiki/queries/gb-t-48000-1-2025正文三条主线定义待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/1 标准档案/11 GB-T-48000.2-2026 标准数字化 第2部分：参考架构模型.md": {
+      "hash": "eb9ebb7a0a3aebc5b60e75b113b6c8bc53bc5e9048fa8e2eb65f30b74720e81a",
+      "timestamp": 1791786077567,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--6-1-标准档案--36-11-gb-t-480002-2026-标准数字化-第2部分参考架构模型--piadwu.md",
+        "wiki/entities/gb-t-48000-2-2026-参考架构模型.md",
+        "wiki/entities/中国标准在线服务网.md",
+        "wiki/entities/国家标准全文公开系统.md",
+        "wiki/entities/全国标准信息公共服务平台.md",
+        "wiki/entities/全国标准数字化标准化技术委员会.md",
+        "wiki/entities/中国标准化研究院.md",
+        "wiki/entities/南网科研院.md",
+        "wiki/entities/西门子（中国）有限公司.md",
+        "wiki/concepts/标准数字化参考架构模型.md",
+        "wiki/concepts/标准正文获取三态.md",
+        "wiki/concepts/模糊关键词命中与分词误命中.md",
+        "wiki/queries/gb-t-48000-2起草单位署名两组口径差异待核验.md",
+        "wiki/queries/gb-t-48000-2正式发布版与2025-04征求意见稿差异待核验.md",
+        "wiki/log.md"
+      ]
+    },
+    "标准数字化/1 标准档案/12 GB-T-48000.3-2026 标准数字化 第3部分：本体建模要求.md": {
+      "hash": "19a4f54dc59bcc97eca8b5cae940e40d376367406baa593420c75dc535251da3",
+      "timestamp": 1791786294885,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--6-1-标准档案--36-12-gb-t-480003-2026-标准数字化-第3部分本体建模要求--f6rb6j.md",
+        "wiki/entities/gb-t-48000-3-2026-本体建模要求.md",
+        "wiki/entities/山东省计算中心-国家超级计算济南中心.md",
+        "wiki/concepts/标准本体建模要求.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/1 标准档案/13 GB-T-48000.4-2026 标准数字化 第4部分：协同制定要求.md": {
+      "hash": "ebb713be134eb904acec66f66741c7dbb20d5edbba78d3b0bb8d0be0bab537da",
+      "timestamp": 1791786334419,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--6-1-标准档案--36-13-gb-t-480004-2026-标准数字化-第4部分协同制定要求--1hsqrmv.md",
+        "wiki/entities/gb-t-48000-4-2026-协同制定要求.md",
+        "wiki/queries/协同制定范围条款出版方转录与正式正文差异待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/1 标准档案/14 GB-T-47012.1-2026 标准数字化平台 第1部分：系统架构.md": {
+      "hash": "11ee4aeb05fb3391c799b362111c3e859d79a3c85a68850448fa7e787169f321",
+      "timestamp": 1791786379276,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--6-1-标准档案--36-14-gb-t-470121-2026-标准数字化平台-第1部分系统架构--1fe1rz5.md",
+        "wiki/entities/gb-t-47012-1-2026-系统架构.md",
+        "wiki/concepts/标准数字化平台资源架构.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/1 标准档案/15 GB-T-46917.1-2026 标准语义知识库 第1部分：标准内容语义化表达通用要求.md": {
+      "hash": "6fcbb754d5915cf651f8bbfc90c7657ebfb09dd81840061ddf3a4aa8addd9cfd",
+      "timestamp": 1791786628226,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--6-1-标准档案--45-15-gb-t-469171-2026-标准语义知识库-第1部分标准内容语义化表达通用要求--era96n.md",
+        "wiki/entities/gb-t-46917-1-2026-标准内容语义化表达通用要求.md",
+        "wiki/entities/gb-t-46917-标准语义知识库系列.md",
+        "wiki/entities/全国标准数字化标准化技术委员会.md",
+        "wiki/entities/中国标准化研究院.md",
+        "wiki/concepts/标准内容语义化表达.md",
+        "wiki/log.md"
+      ]
+    },
+    "标准数字化/1 标准档案/16 GB-T-46917.2-2026 标准语义知识库 第2部分：数据接口要求.md": {
+      "hash": "a332f05278cbfa6388d2ea88cf24ed2b7853245a9439bacf6ef7a5f5161aaaf7",
+      "timestamp": 1791786787097,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--6-1-标准档案--38-16-gb-t-469172-2026-标准语义知识库-第2部分数据接口要求--nkhhox.md",
+        "wiki/entities/gb-t-46917-2-2026-数据接口要求.md",
+        "wiki/queries/gb-t-46917-2正式版与2025-04征求意见稿差异待核验.md",
+        "wiki/queries/gb-t-46917-2起草单位署名两组口径差异待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/1 标准档案/17 GB-T-46917.3-2026 标准语义知识库 第3部分：语义集成技术要求.md": {
+      "hash": "a0f4ce6123a1d83ba654a5099b642182d8120b4ec24a38ff5392e7590bd92c48",
+      "timestamp": 1791781164257,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--6-1-标准档案--40-17-gb-t-469173-2026-标准语义知识库-第3部分语义集成技术要求--1a5nuip.md",
+        "wiki/entities/gb-t-46917-3-2026-语义集成技术要求.md",
+        "wiki/concepts/语义集成技术要求.md",
+        "wiki/entities/广东省标准化研究院.md",
+        "wiki/queries/gb-t-46917-3正式版与征求意见稿差异待核验.md",
+        "wiki/queries/gb-t-46917-3起草单位署名两组口径差异待核验.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "标准数字化/01 检索记录与来源说明.md": {
+      "hash": "93ce96eed96134757f17ea44f6645179390871fd8016e2182a8b443e3067d7e3",
+      "timestamp": 1791786868549,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--12-01-检索记录与来源说明--i3og4y.md",
+        "wiki/concepts/出版方转录.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/02 标准族总览与关系.md": {
+      "hash": "3b7571adb1338b3cf3b76c200e94382c0254ed8a5b00116f85e676cdda384db2",
+      "timestamp": 1791784295780,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-02-标准族总览与关系--59xm5m.md",
+        "wiki/entities/gb-t-46917-标准语义知识库系列.md",
+        "wiki/queries/tc626正式成立日期与swg29注销状态待核验.md",
+        "wiki/queries/标准数字化标准族国际标准一致性程度待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/00 先读我.md": {
+      "hash": "2902183ca59922a4a3cb0eba6eb51e57633a53cdabe0759ee09f513a84fcbaca",
+      "timestamp": 1791786831284,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--6-00-先读我--1qttsu9.md",
+        "wiki/concepts/标准档案与标准正文的区分.md",
+        "wiki/queries/9项标准中3项无公开草案的条款内容获取路径待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/1 GB-T-48000.2-2026 参考架构模型/标准正文（文本版）.md": {
+      "hash": "e81c41d542a994359cbe357fedd4f5b5668a38521e7d9cbd0e45391f1f0535b2",
+      "timestamp": 1791784547731,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-1-gb-t-480002-2026-参考架构模型--7-标准正文文本版--jynf9n.md",
+        "wiki/concepts/标准数字化参考架构模型.md",
+        "wiki/concepts/能力特征五等级.md",
+        "wiki/concepts/生命周期四阶段.md",
+        "wiki/concepts/应用层级五层.md",
+        "wiki/concepts/标准信息单元.md",
+        "wiki/concepts/标准信息模型.md",
+        "wiki/concepts/标准需求捕获场景.md",
+        "wiki/entities/iec-smb-sg12.md",
+        "wiki/entities/sam模型.md",
+        "wiki/entities/ibm-doors.md",
+        "wiki/entities/太阳石大模型.md",
+        "wiki/entities/国家电网公司数字标准馆.md",
+        "wiki/queries/sam模型三维度与本文件三维度内涵一致性待核验.md",
+        "wiki/queries/可拓展能力等级定义缺失待核验.md",
+        "wiki/queries/封面英文名称与标准名称占位符异常待核验.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/1 GB-T-48000.2-2026 参考架构模型/编制说明（文本版）.md": {
+      "hash": "849d0b1e1c3e80d9c8fff9a3689049bec8854c63200c2fecd03a7fbcbe0da39b",
+      "timestamp": 1791784605865,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-1-gb-t-480002-2026-参考架构模型--7-编制说明文本版--z8yan2.md",
+        "wiki/entities/rami-4-0.md",
+        "wiki/entities/gb-t-45508-2025-机器可读标准能力等级模型与评估.md",
+        "wiki/queries/gb-t-48000-2-与-gb-t-45508-2025-范围重叠待核验.md",
+        "wiki/queries/国内-ram-研究几乎为零主张待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/2 GB-T-48000.3-2026 本体建模要求/标准正文（文本版）.md": {
+      "hash": "7ffb5ab5c65c50bc69a21ff345e38c05b96d56124deadd90cb223226787bcb9f",
+      "timestamp": 1791784694929,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-2-gb-t-480003-2026-本体建模要求--7-标准正文文本版--1km976h.md",
+        "wiki/concepts/标准本体.md",
+        "wiki/concepts/实体类型定义方式.md",
+        "wiki/concepts/属性定义方式.md",
+        "wiki/concepts/数据属性与关系属性.md",
+        "wiki/concepts/标准本体关系类型体系.md",
+        "wiki/concepts/本体扩展原则.md",
+        "wiki/entities/gb-t-xxxx-标准知识图谱-第1部分.md",
+        "wiki/queries/约束类型属性跨类语义漂移待核验.md",
+        "wiki/queries/关系名称重复歧义待核验.md",
+        "wiki/queries/标准本体iri命名空间占位符待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/2 GB-T-48000.3-2026 本体建模要求/编制说明（文本版）.md": {
+      "hash": "f632bc8c1cf45d24668beca41eb5fecf944e6edd285f1519490dcdb2277db96a",
+      "timestamp": 1791784742587,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-2-gb-t-480003-2026-本体建模要求--7-编制说明文本版--1rj9ta8.md",
+        "wiki/concepts/owl-rdf语义建模.md",
+        "wiki/concepts/smart标准概念模型.md",
+        "wiki/queries/iso-iec五阶段与能力特征五等级内涵一致性待核验.md",
+        "wiki/queries/现行6项标准均不涉及本标准范围主张待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/3 GB-T-48000.4-2026 协同制定要求/标准正文（文本版）.md": {
+      "hash": "8afb29288b20a9d99d99781d6ba4e3ca656fc9f150722599a5e2a5edb59b45f2",
+      "timestamp": 1791784820617,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-3-gb-t-480004-2026-协同制定要求--7-标准正文文本版--1mgty9w.md",
+        "wiki/concepts/协同制定过程九阶段.md",
+        "wiki/concepts/角色权限矩阵.md",
+        "wiki/concepts/数据协同要求.md",
+        "wiki/concepts/流程协同要求.md",
+        "wiki/queries/标准数字化系列构成五部分与六部分矛盾待核验.md",
+        "wiki/queries/gb-t-48000-4起草单位与主要起草人留空待核验.md",
+        "wiki/queries/协同制定过程九阶段与生命周期四阶段关系待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/3 GB-T-48000.4-2026 协同制定要求/编制说明（文本版）.md": {
+      "hash": "cf1934c7a4639279d2ffc57e096853d97f743cc8d25c7504e0bcbd22a92b9b4c",
+      "timestamp": 1791784864647,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-3-gb-t-480004-2026-协同制定要求--7-编制说明文本版--5l6up.md",
+        "wiki/entities/在线标准制定osd平台.md",
+        "wiki/queries/标准名称由标准内容数字化协同研制要求变更为协同制定要求的依据待核验.md",
+        "wiki/queries/编制说明引用文件编号gb-t-xxxxx占位符待核验.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/标准正文（文本版）.md": {
+      "hash": "73571be054ac333d452b439f26ca9756a52375bca19a48a0cb19fe3914083e56",
+      "timestamp": 1791784926025,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--23-4-gb-t-470121-2026-系统架构--7-标准正文文本版--x2fh08.md",
+        "wiki/entities/gb-t-42131-2022-人工智能-知识图谱技术框架.md",
+        "wiki/concepts/标准数字化业务管理六项能力.md",
+        "wiki/concepts/标准库知识库数据库构成.md",
+        "wiki/concepts/标准化项目管理五化.md",
+        "wiki/concepts/标准生命周期九阶段.md",
+        "wiki/queries/图10实施架构功能模型标题与内容错配待核验.md",
+        "wiki/queries/标准生命周期九阶段与既有四阶段概念关系待核验.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/编制说明（文本版）.md": {
+      "hash": "e5736f40c982cca883697d7ccf67bb34d662a538c64adf54a1f3f889cb34ab12",
+      "timestamp": 1791785005576,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--23-4-gb-t-470121-2026-系统架构--7-编制说明文本版--1irj7bx.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/5 GB-T-46917.1-2026 语义化表达通用要求/标准正文（文本版）上-第1至7章.md": {
+      "hash": "baccb782c4dfb69c11b53bd544ac3969198fab78e434623070dc7429764878d8",
+      "timestamp": 1791785066818,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--28-5-gb-t-469171-2026-语义化表达通用要求--14-标准正文文本版上-第1至7章--y85fkz.md",
+        "wiki/concepts/专用语义化表达单元.md",
+        "wiki/concepts/语义化表达规则.md",
+        "wiki/concepts/标准内容语义化表达总体原则.md",
+        "wiki/queries/gb-t-46917-1系列构成前言与引言口径矛盾待核验.md",
+        "wiki/queries/gb-t-46917-1封面英文名称截断待核验.md",
+        "wiki/queries/gb-t-46917-1起草单位与主要起草人留空待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/5 GB-T-46917.1-2026 语义化表达通用要求/标准正文（文本版）下-第8至10章及附录.md": {
+      "hash": "64e42e8bae6c0cc87f8033e30e6a46cb5aaa0d8c3071f408952715a1fbd0d159",
+      "timestamp": 1791785220620,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--28-5-gb-t-469171-2026-语义化表达通用要求--18-标准正文文本版下-第8至10章及附录--ut4ki8.md",
+        "wiki/entities/gb-t-46917-1-2026-标准内容语义化表达通用要求.md",
+        "wiki/entities/gb-t-22373-2021-标准文献元数据.md",
+        "wiki/entities/gb-t-20001-标准编写规则系列.md",
+        "wiki/concepts/标准内容通用语义化表达单元.md",
+        "wiki/concepts/标准内容专用语义化表达单元.md",
+        "wiki/concepts/语义化表达规则.md",
+        "wiki/concepts/表达顺序性与语义完整性.md",
+        "wiki/concepts/语义化表达单元存储要求.md",
+        "wiki/concepts/工程建设标准内容语义化表达模型.md",
+        "wiki/queries/表2中文主题词重复项待核验.md",
+        "wiki/queries/表2记录日期示例位数异常待核验.md",
+        "wiki/queries/表2英文名称拼写异常待核验.md",
+        "wiki/queries/附录a末尾10-5标题残缺待核验.md",
+        "wiki/queries/附录a行业标准不完全适用本文件边界待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/5 GB-T-46917.1-2026 语义化表达通用要求/编制说明（文本版）.md": {
+      "hash": "1a47a12bbce8e360a8ecd65e3857aeafb0f9cbf6a9a7740bac558e43b1f8fbcf",
+      "timestamp": 1791785316401,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--28-5-gb-t-469171-2026-语义化表达通用要求--7-编制说明文本版--eaiezm.md",
+        "wiki/entities/中国标准化研究院.md",
+        "wiki/queries/smart五层次与sam模型关系及既有页面口径一致性待核验.md",
+        "wiki/queries/gb-t-46917-1编制说明起草过程日期2025年12月-2月异常待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/6 GB-T-46917.2-2026 数据接口要求/标准正文（文本版）.md": {
+      "hash": "c9d150664aa9800f8c08fc9e277a0cb4125b29f65810eeb38af62b67ae9031de",
+      "timestamp": 1791785436876,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-6-gb-t-469172-2026-数据接口要求--7-标准正文文本版--1w22k59.md",
+        "wiki/entities/gb-t-46917-2-2026-数据接口要求.md",
+        "wiki/concepts/标准语义知识库数据接口总体框架.md",
+        "wiki/concepts/基础接口与高级接口.md",
+        "wiki/concepts/接口管理要求.md",
+        "wiki/queries/接口返回状态码章节引用错位待核验.md",
+        "wiki/queries/表9与正文表11编号错位待核验.md",
+        "wiki/queries/语义化表达单元与语义化要素术语混用待核验.md",
+        "wiki/queries/附录a问答接口示例json格式不规范待核验.md",
+        "wiki/queries/gb-t-46917-2前言已发布部分表述待核验.md",
+        "wiki/queries/文件末尾10-4标题残留待核验.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/6 GB-T-46917.2-2026 数据接口要求/编制说明（文本版）.md": {
+      "hash": "551de30ba81bec2e991fc07090e09551e699ed658bfaeead1b8e92616703ef58",
+      "timestamp": 1791785489737,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-6-gb-t-469172-2026-数据接口要求--7-编制说明文本版--18zgs70.md",
+        "wiki/entities/南网科研院.md",
+        "wiki/entities/南方电网标准中台.md",
+        "wiki/concepts/数据接口建设与应用原则.md",
+        "wiki/concepts/协调性易用性实用性编制原则.md",
+        "wiki/queries/gb-t-46917-2国际领先主张待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "标准数字化/2 征求意见稿（草案全文）/5 GB-T-46917.1-2026 语义化表达通用要求/征求意见稿及编制说明（文本版）.md": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": 1791789158784,
+      "filesWritten": [
+        "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--28-5-gb-t-469171-2026-语义化表达通用要求--13-征求意见稿及编制说明文本版--1y8eqk8.md",
+        "wiki/entities/gb-t-46917-1-2026-标准内容语义化表达通用要求.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "架构师阿Q/第 1 集｜互联网架构就这？1个故事讲清楚.md": {
+      "hash": "97ec064c369f801fa697b142ca91f3b93acde82291720fbf13a39fa3b20261b9",
+      "timestamp": 1791790956053,
+      "filesWritten": [
+        "wiki/sources/5-架构师阿q--19-第-1-集互联网架构就这1个故事讲清楚--j8actw.md",
+        "wiki/entities/架构师阿Q.md",
+        "wiki/concepts/互联网架构演进线.md",
+        "wiki/concepts/三条架构思维.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "palantir研究/央国企一把手听懂Palantir.md": {
+      "hash": "f2bb9472401dafd8dc5727e0b1a51d770371db7e7d20ab9f43c0292475555534",
+      "timestamp": 1791791154830,
+      "filesWritten": [
+        "wiki/sources/10-palantir研究--16-央国企一把手听懂palantir--9qrepm.md",
+        "wiki/entities/palantir.md",
+        "wiki/entities/palantir-foundry.md",
+        "wiki/concepts/数据装配线.md",
+        "wiki/concepts/只读世界.md",
+        "wiki/concepts/读与写分离.md",
+        "wiki/concepts/名词动词框架.md",
+        "wiki/concepts/经营沙盘.md",
+        "wiki/concepts/看全局试影响下指令.md",
+        "wiki/concepts/动态调度与静态规划.md",
+        "wiki/concepts/写回能力.md",
+        "wiki/queries/palantir-foundry写回与权限审计能力待核验.md",
+        "wiki/queries/本体即动态数字孪生类比与官方定义差异待核验.md",
+        "wiki/queries/传统数据库不支持写回是能力限制还是治理边界待核验.md",
+        "wiki/queries/本体操作层与知识图谱口径一致性待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "架构师阿Q/第 4 集｜容灾，我用一个故事讲清楚.md": {
+      "hash": "4614275abea7a331e9393f4146729d759bfb5ab2a1795a379e16eaab3e2ce402",
+      "timestamp": 1791791205966,
+      "filesWritten": [
+        "wiki/sources/5-架构师阿q--16-第-4-集容灾我用一个故事讲清楚--11f4g2y.md",
+        "wiki/concepts/rto与rpo.md",
+        "wiki/concepts/容灾等级演进线.md",
+        "wiki/concepts/用业务约束换技术简化.md",
+        "wiki/concepts/物理下限约束.md",
+        "wiki/concepts/写冲突与时钟不可靠.md",
+        "wiki/queries/容灾延迟数字30ms60ms2ms待核验.md",
+        "wiki/queries/同城双活写主机房是否等同放弃双写待核验.md",
+        "wiki/queries/rto-rpo英文全称asr转写错误待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "架构师阿Q/第 2 集｜应用架构就这？1个故事讲透企业应用架构演进史.md": {
+      "hash": "2d8f77980b4de6f779618ca37265270a7bfaa439d9e1b45e446ddf561a054e75",
+      "timestamp": 1791791270425,
+      "filesWritten": [
+        "wiki/sources/5-架构师阿q--26-第-2-集应用架构就这1个故事讲透企业应用架构演进史--1mtz2nm.md",
+        "wiki/concepts/企业应用架构六阶段演进线.md",
+        "wiki/concepts/信息孤岛是组织孤岛的投影.md",
+        "wiki/concepts/主数据管理与esb集成.md",
+        "wiki/concepts/六大基础服务平台.md",
+        "wiki/concepts/业务中台与数据中台.md",
+        "wiki/entities/erp.md",
+        "wiki/entities/crm.md",
+        "wiki/queries/收尾总结erp时代与excel时代口播冲突待核验.md",
+        "wiki/queries/好架构是演化出来的与规范先行实现后置张力待核验.md",
+        "wiki/queries/企业应用架构六阶段划分出处待核验.md",
+        "wiki/queries/架构师阿q第1集与第2集三条核心思维一致性待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "架构师阿Q/第 3 集｜一口气讲透大数据、数据库、数据仓库、数据湖、数据中台的底层原理.md": {
+      "hash": "146e1fd09fce2044c5e22257fcaff685287ca7a529cc0e0bbd84141bd6b5717d",
+      "timestamp": 1791791379814,
+      "filesWritten": [
+        "wiki/sources/5-架构师阿q--32-第-3-集一口气讲透大数据数据库数据仓库数据湖数据中台的底层原理--13hl5sh.md",
+        "wiki/concepts/存算管用四格框架.md",
+        "wiki/concepts/交易与分析分离.md",
+        "wiki/concepts/行式存储与列式存储.md",
+        "wiki/concepts/etl.md",
+        "wiki/concepts/数据仓库.md",
+        "wiki/concepts/主题宽表.md",
+        "wiki/concepts/数据湖与数据沼泽.md",
+        "wiki/concepts/湖仓一体.md",
+        "wiki/concepts/数据中台资产化与服务化.md",
+        "wiki/concepts/数据治理.md",
+        "wiki/concepts/任务调度.md",
+        "wiki/concepts/数据移动成本视角.md",
+        "wiki/entities/hdfs.md",
+        "wiki/entities/mapreduce.md",
+        "wiki/entities/spark.md",
+        "wiki/entities/flink.md",
+        "wiki/entities/mysql.md",
+        "wiki/entities/airflow.md",
+        "wiki/entities/apache-iceberg.md",
+        "wiki/comparisons/mapreduce-spark-flink-批处理与流式计算对比.md",
+        "wiki/queries/airflow-与-apache-iceberg-名称-asr-转写待核验.md",
+        "wiki/queries/数据中台不是技术而是管理体系主张待核验.md",
+        "wiki/queries/交易与分析分离与读写分离口径一致性待核验.md",
+        "wiki/queries/本集数字与量级估计待外部核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "架构师阿Q/第 5 集｜负载均衡是什么？LVS的三种模式有什么区别？.md": {
+      "hash": "a1eda057119a9edf407f885cd0ee92917b44165ef38a20306feb28e2cbd58b53",
+      "timestamp": 1791791470492,
+      "filesWritten": [
+        "wiki/sources/5-架构师阿q--25-第-5-集负载均衡是什么lvs的三种模式有什么区别--mxb374.md",
+        "wiki/entities/lvs.md",
+        "wiki/entities/ipvs.md",
+        "wiki/entities/keepalived.md",
+        "wiki/concepts/负载均衡.md",
+        "wiki/concepts/dns负载均衡.md",
+        "wiki/concepts/硬件负载均衡.md",
+        "wiki/concepts/软件负载均衡.md",
+        "wiki/concepts/四层与七层负载均衡.md",
+        "wiki/concepts/lvs-nat模式.md",
+        "wiki/concepts/lvs-dr模式.md",
+        "wiki/concepts/lvs-tun模式.md",
+        "wiki/concepts/控制权边界.md",
+        "wiki/concepts/控制面与数据面分离.md",
+        "wiki/queries/lvs三种模式性能对比缺乏量级数据待核验.md",
+        "wiki/queries/dr模式特点被误记为nat模式口误待核验.md",
+        "wiki/queries/某云clb用lvs加keepalived实现待核验.md",
+        "wiki/queries/dns负载均衡只支持轮询主张待核验.md",
+        "wiki/queries/lvs性能是软件负载均衡中最高主张待核验.md",
+        "wiki/queries/负载均衡器自身高可用本集未展开待补充.md",
+        "wiki/queries/arp-ignore与arp-announce参数asr疑误待核验.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "架构师阿Q/00-系列索引.md": {
+      "hash": "eeb53bd670cd7852f09c7b038e51dc6a9eb0ae1da3033a0afd4d3dac7f97c31c",
+      "timestamp": 1791791528835,
+      "filesWritten": [
+        "wiki/sources/5-架构师阿q--7-00-系列索引--1fl2d59.md",
+        "wiki/entities/架构和原理合集.md",
+        "wiki/concepts/瓶颈命名解法叙事模板.md",
+        "wiki/comparisons/三条演进线对照-互联网-企业应用-数据.md",
+        "wiki/queries/中台一词在第2集与第3集含义冲突待核验.md",
+        "wiki/queries/架构师阿q合集集号与发布时间顺序不一致待核验.md",
+        "wiki/entities/nginx.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    }
+  }
+}

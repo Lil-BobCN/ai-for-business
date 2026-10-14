@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="4TU.ResearchData is an international data repository for science, engineering and design. We offer research dataset curation, sharing, long-term access and preservation services to anyone, anywhere. Our training and community engagement resources are available to research and research-support professionals working to make their research data findable, accessible, interoperable and reproducible (FAIR).">
+    <meta name="keywords" content="4tu, 4TU.ResearchData, data repository">
+    <meta name="author" content="4TU.ResearchData">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self'; script-src 'self' 'nonce-9ec875d23b064b30b2b6f917b71d2d00'; style-src 'self' 'nonce-9ec875d23b064b30b2b6f917b71d2d00'; frame-src https://www.youtube.com">
+    <title>BPI Challenge 2019 (OCEL) (dataset)</title>
+    <link rel='shortcut icon' type='image/x-icon' href='/static/images/favicon.ico'>
+    <link rel="stylesheet" type="text/css" href="/theme/colors.css?cache=1791812622">
+    <link rel="stylesheet" type="text/css" href="/static/css/main.css?cache=1791500000">
+    <link rel="stylesheet" type="text/css" href="/theme/fonts.css?cache=1791812622">
+    <link rel="stylesheet" type="text/css" href="/assets/css/footer.css?cache=1791812622">
+    <link rel="stylesheet" type="text/css" href="/assets/css/header.css?cache=1791812622">
+    <link rel="stylesheet" type="text/css" href="/assets/css/typography.css?cache=1791812622">
+    <link rel="stylesheet" type="text/css" href="/assets/css/palette.css?cache=1791812622">
+    <link rel="stylesheet" type="text/css" href="/assets/css/spacing.css?cache=1791812622">
+    <link rel="stylesheet" type="text/css" href="/assets/css/buttons.css?cache=1791812622">
+    <link rel="stylesheet" type="text/css" href="/assets/css/action-bar.css?cache=1791812622">
+    <link rel="stylesheet" type="text/css" href="/assets/css/shapes.css?cache=1791812622">
+    <link rel="stylesheet" type="text/css" href="/assets/css/chips.css?cache=1791812622">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Dataset",
+        "name": "BPI Challenge 2019 (OCEL)",
+        "identifier": "https://doi.org/10.4121/46a7e15b-10c7-4ab2-988d-ee67d8ea515a.v1",
+        "citation": "Khayatbashi, Shahrzad; Hartig, Olaf; Jalali, Amin (2023): BPI Challenge 2019 (OCEL). Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/46a7e15b-10c7-4ab2-988d-ee67d8ea515a.v1",
+        "version": 1,
+        "description": "&lt;p&gt;This dataset contains the result of transforming the BPI Challenge 2019 event log from &lt;a href=&#34;https://data.4tu.nl/datasets/dc66ef2b-cd5e-436f-a3fb-ebaf9ece54a3&#34; target=&#34;_blank&#34;&gt;Event Graph&lt;/a&gt; format to Object-Centric Event Log (OCEL) format. The transformation is defined in the &#34;Transforming Event Knowledge Graph to Object-Centric Event Logs: A Comparative Study for Multi-dimensional Process Analysis&#34; paper.&amp;nbsp;&lt;/p&gt;",
+        "publisher": {
+            "@type": "Organization",
+            "name": "4TU.ResearchData"
+        },
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keywords": ["BPI", "BPI Challenge", "BPIC", "Business Process Intelligence (BPI)", "Event Knowledge Graph", "IEEE Task Force on Process Mining", "Knowledge Graph", "Object-Centric Event Log", "OCEL", "Process Mining", "Real life event logs"],
+        "creator": [
+        {
+            "@type": "Person",
+            "name": "Shahrzad Khayatbashi",
+            "sameAs": "https://orcid.org/0000-0001-7621-0985"
+          },
+        {
+            "@type": "Person",
+            "name": "Olaf Hartig",
+            "sameAs": "https://orcid.org/0000-0002-1741-2090"
+          },
+        {
+            "@type": "Person",
+            "name": "Amin Jalali",
+            "sameAs": "https://orcid.org/0000-0002-6633-8587"
+          }
+        ]
+            ,"funder": [
+                {
+                    "@type": "Organization",
+                    "name": "Vetenskapsrådet "
+                }
+            ]
+            ,"isAccessibleForFree" : true,
+            "distribution": {
+                "@type": "DataDownload",
+                "contentUrl": "https://data.4tu.nl/ndownloader/items/46a7e15b-10c7-4ab2-988d-ee67d8ea515a/versions/1",
+                "encodingFormat": "application/zip"
+            }
+    }
+    </script>
+<script src="/static/js/jquery-3.6.0.min.js"></script>
+<script src="/static/js/landing_page.js?cache=1790942921"></script>
+<script src="/static/js/quill.min.js"></script>
+<script src="/static/js/utils.js?cache=1744290797"></script>
+<link rel="stylesheet" type="text/css" href="/static/css/pub.css?cache=1742203405" />
+<link href="/static/css/quill.4tu.css" rel="stylesheet">
+<link href="/static/css/form.css?cache=1739977731" rel="stylesheet">
+<style nonce="9ec875d23b064b30b2b6f917b71d2d00">
+#access-request-wrapper { display: none; }
+#content-wrapper {padding: 0}
+</style>
+<script nonce="9ec875d23b064b30b2b6f917b71d2d00">
+const dataset_uuid = "46a7e15b-10c7-4ab2-988d-ee67d8ea515a";
+</script>
+  </head>
+  <body>
+    <div id="wrapper" class="footer2">
+      <div id="header" class="corporate-identity-header">
+        <div id="header-left"><a href="/"><img id="corporate-identity-logo" src="/static/images/logo.png" alt="4TU.ResearchData logo"></a></div>
+        <div id="header-middle">
+          <div id="search-box-wrapper">
+            <form method="get" action="/search?search=">
+              <input id="search-box" aria-label="Search" title="Search" name="search" type="text" placeholder="Search..." maxlength="255" value=""><!--
+              --><input type="submit" class="search-submit-btn fa-search" value="&#xf002;">
+            </form>
+          </div>
+        </div>
+        <div id="header-right">
+          <a href="/login"><div class="button" id="login-button">Log in</div></a>
+        </div>
+      </div>
+      <nav id="site-navigation">
+        <div id="primary-menu-wrapper">
+        <ul id="primary-menu" class="primary-menu">
+          
+          <li class="menu-item menu-item-has-children">About your Data
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/getting-started">Getting started</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/en/about-your-data/manage-share">Manage &amp; Share</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/publish-cite">Publish &amp; Cite</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/find-reuse">Find &amp; Re-use</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/scientific-visualisation">Scientific Visualisation</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/netcdf-and-opendap">NetCDF &amp; OPeNDAP</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/codecheck">CODECHECK</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/iiif">Image interoperability with IIIF</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/ro-crate">RO-CRATE</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-your-data/igsn">IGSN</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">4TU.ResearchData
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/our-organisation/">Organisation</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="/info/about-4turesearchdata/policies-guidelines">Policies &amp; Guidelines</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/contact/">Team &amp; Contact</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/frequently-asked-questions/">Frequently Asked Questions</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/wp-content/uploads/2025/04/4TU.ResearchData_Strategy_2025.pdf">Strategy 2025 – 2029</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/branding/">Branding</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Our Community
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/join-our-community/">Join our community</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/members/">Community members</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/groups/">Community groups</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/the-fair-data-fund/">FAIR Data Fund</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Training
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/training/">Training</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/introduction-to-version-control-with-git/">Introduction to Version Control with Git</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/introduction-to-programming-in-research-with-python/">Introduction to programming in research with Python</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/efficient-research-workflows-with-the-unix-shell/">Efficient Research Workflows with the UNIX Shell</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/training-resources-materials//">Materials</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Collaborations
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/collaborations/">Collaborations</a></li>
+              
+              
+              
+              <li class="submenu-item submenu-item-has-children"><a href="https://community.data.4tu.nl/digital-capacity-for-nes/">Digital Capacity for NES</a>
+                <ul class="sub-submenu">
+                  
+                  <li class="sub-submenu-item"><a href="https://community.data.4tu.nl/call-1-institutional-nomination-for-carpentries-training-seats/">Call 1: Instructors</a></li>
+                  
+                  <li class="sub-submenu-item"><a href="https://community.data.4tu.nl/call-for-collaborative-lesson-development-training/">Call for Lesson Dev</a></li>
+                  
+                  <li class="sub-submenu-item"><a href="https://community.data.4tu.nl/open-call-individual-applications-for-carpentries-instructor-training-seats/">Open Call: Instructor Training</a></li>
+                  
+                </ul>
+              </li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">News
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl">Latest news</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/category/use-cases/">Use cases</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/subscribe-to-newsletter/">Subscribe to newsletter</a></li>
+              
+              
+            </ul>
+          </li>
+          
+          <li class="menu-item menu-item-has-children">Log in &amp; Upload Data
+            <ul class="submenu">
+              
+              
+              <li class="submenu-item"><a href="/info/log-in-upload-data/about-log-in">About Log in / Sign up</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://data.4tu.nl/account/home">Log in (Data Repository)</a></li>
+              
+              
+              
+              <li class="submenu-item"><a href="https://community.data.4tu.nl/wp-login.php">Log in (Community)</a></li>
+              
+              
+            </ul>
+          </li>
+          
+        </ul>
+        </div>
+      </nav>
+      
+      <div id="content">
+        <div id="content-wrapper">
+          <div id="message"></div>
+          
+<h2>BPI Challenge 2019 (OCEL)</h2>
+
+<div id="metadata">
+    <div id="doi"><span class="doi-label">DOI:</span><a class="corporate-identity" href="https://doi.org/10.4121/46a7e15b-10c7-4ab2-988d-ee67d8ea515a.v1" target="_blank" rel="noopener noreferrer" title="opens in new window"><span class="doi-value">10.4121/46a7e15b-10c7-4ab2-988d-ee67d8ea515a.v1</span></a>
+        <div id="container_doi">The DOI displayed above is for this specific version of this dataset, which is currently the latest. Newer versions may be published in the future.
+            For a link that will always point to the latest version, please use<br />
+            <span>DOI:</span> <a class="corporate-identity" href="https://doi.org/10.4121/46a7e15b-10c7-4ab2-988d-ee67d8ea515a" target="_blank" rel="noopener noreferrer" title="opens in new window">10.4121/46a7e15b-10c7-4ab2-988d-ee67d8ea515a</a></div>
+    </div>
+    <button id="cite-btn" class="corporate-identity-standard-button" title="Show citation.">Cite</button>
+    <div id="cite">
+        <h3>Datacite citation style</h3>
+        <div id="citation">Khayatbashi, Shahrzad; Hartig, Olaf; Jalali, Amin (2023): BPI Challenge 2019 (OCEL). Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/46a7e15b-10c7-4ab2-988d-ee67d8ea515a.v1</div>
+        <a class="corporate-identity" href="https://doi.datacite.org/dois/10.4121%2F46a7e15b-10c7-4ab2-988d-ee67d8ea515a.v1" target="_blank" rel="noopener noreferrer" title="opens in new window">Other citation styles (APA, Harvard, MLA, Vancouver, Chicago, IEEE) available at Datacite</a>
+    </div>
+    <div id="type_versions">
+        <h3 class="label" id="type">Dataset</h3>
+    </div>
+
+    <div id="right_column">
+        <div id="usage">
+            <h3 class="label">Usage statistics</h3>
+            <div class="metric">
+                <div class="number">868</div>
+                views
+            </div>
+            <div class="metric">
+                <div class="number">463</div>
+                downloads
+            </div>
+        </div>
+        <div id="categories">
+          <h3 class="label">Categories</h3>
+          <ul>
+            <li><a class="corporate-identity public-button" href="/categories/13615">Data Format</a></li>
+            <li><a class="corporate-identity public-button" href="/categories/13617">Information Systems</a></li>
+            <li><a class="corporate-identity public-button" href="/categories/13611">Information and Computing Sciences</a></li>
+            <li><a class="corporate-identity public-button" href="/categories/13613">Computation Theory and Mathematics</a></li>
+            </ul>
+        </div>
+        <div id="tags">
+            <h3 class="label">Keywords</h3>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22BPI%22">BPI</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22BPI%20Challenge%22">BPI Challenge</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22BPIC%22">BPIC</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22Business%20Process%20Intelligence%20%28BPI%29%22">Business Process Intelligence (BPI)</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22Event%20Knowledge%20Graph%22">Event Knowledge Graph</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22IEEE%20Task%20Force%20on%20Process%20Mining%22">IEEE Task Force on Process Mining</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22Knowledge%20Graph%22">Knowledge Graph</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22Object-Centric%20Event%20Log%22">Object-Centric Event Log</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22OCEL%22">OCEL</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22Process%20Mining%22">Process Mining</a>
+            <a class="corporate-identity public-button" href="/search?searchscope=tag&search=%22Real%20life%20event%20logs%22">Real life event logs</a>
+        </div>
+        <div id="licence">
+            <h3 class="label">Licence</h2>
+            <a class="corporate-identity public-button" href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer" title="opens in new window">
+              CC BY 4.0</a>
+        </div>
+    <div id="interoperability">
+        <h3 class="label">Interoperability</h3>
+        <ul>
+        <li><a href="/v3/datasets/46a7e15b-10c7-4ab2-988d-ee67d8ea515a/versions/1/ro-crate-metadata.json" class="corporate-identity public-button" target="_blank" rel="noopener noreferrer" title="RO-Crate Metadata">RO-Crate Metadata</a>
+        </ul>
+    </div>
+        <div id="export">
+            <h3 class="label">Export as</h3>
+            <a class="corporate-identity public-button" href="/export/refworks/datasets/46a7e15b-10c7-4ab2-988d-ee67d8ea515a">RefWorks</a>
+            <a class="corporate-identity public-button" href="/export/bibtex/datasets/46a7e15b-10c7-4ab2-988d-ee67d8ea515a">BibTeX</a>
+            <a class="corporate-identity public-button" href="/export/refman/datasets/46a7e15b-10c7-4ab2-988d-ee67d8ea515a">Reference Manager</a>
+            <a class="corporate-identity public-button" href="/export/endnote/datasets/46a7e15b-10c7-4ab2-988d-ee67d8ea515a">Endnote</a>
+            <a class="corporate-identity public-button" href="/export/datacite/datasets/46a7e15b-10c7-4ab2-988d-ee67d8ea515a">DataCite</a>
+            <a class="corporate-identity public-button" href="/export/nlm/datasets/46a7e15b-10c7-4ab2-988d-ee67d8ea515a">NLM</a>
+            <a class="corporate-identity public-button" href="/export/dc/datasets/46a7e15b-10c7-4ab2-988d-ee67d8ea515a">DC</a>
+            <a class="corporate-identity public-button" href="/export/cff/datasets/46a7e15b-10c7-4ab2-988d-ee67d8ea515a">CFF</a>
+        </div>
+    </div>
+    
+    <div id="left_column">
+      <div id="authors">by
+        <a class="corporate-identity" href="/authors/460894d0-c8e6-4f55-afbb-339f00632166">Shahrzad Khayatbashi</a>
+            <a class="corporate-identity" href="https://orcid.org/0000-0001-7621-0985" target="_blank" rel="noopener noreferrer" title="opens in new window"><img src="/static/images/orcid.svg" alt="orcid logo" title="orcid profile (new window)" /></a>,
+        <a class="corporate-identity" href="/authors/7736cc49-2876-493b-b079-89a20c855a70">Olaf Hartig</a>
+            <a class="corporate-identity" href="https://orcid.org/0000-0002-1741-2090" target="_blank" rel="noopener noreferrer" title="opens in new window"><img src="/static/images/orcid.svg" alt="orcid logo" title="orcid profile (new window)" /></a>,
+        <a class="corporate-identity" href="/authors/bad856aa-8bc1-4a85-be21-d6b5f40a1208">Amin Jalali</a>
+            <a class="corporate-identity" href="https://orcid.org/0000-0002-6633-8587" target="_blank" rel="noopener noreferrer" title="opens in new window"><img src="/static/images/orcid.svg" alt="orcid logo" title="orcid profile (new window)" /></a>
+        </div>
+        <div id="description">
+        <p>This dataset contains the result of transforming the BPI Challenge 2019 event log from <a href="https://data.4tu.nl/datasets/dc66ef2b-cd5e-436f-a3fb-ebaf9ece54a3" target="_blank">Event Graph</a> format to Object-Centric Event Log (OCEL) format. The transformation is defined in the "Transforming Event Knowledge Graph to Object-Centric Event Logs: A Comparative Study for Multi-dimensional Process Analysis" paper.&nbsp;</p>
+        </div>
+        <div id="dates">
+            <h3 class="label">History</h3>
+            <ul>
+                  <li>2023-08-31 first online, published, posted</li>
+            </ul>
+        </div>
+        <div id="publisher">
+            <h3 class="label">Publisher</h3>
+                4TU.ResearchData
+                <a class="corporate-identity" href="https://ror.org/02d887280" target="_blank" rel="noopener noreferrer" title="View 4TU.ResearchData in the Research Organization Registry (opens in new window)"><img src="/static/images/ror-icon.svg" alt="ROR" class="ror-icon" /></a>
+        </div>
+        <div id="format">
+            <h3 class="label">Format</h3>
+            Object-Centric Event Log, *.jsonocel
+        </div>
+        <div id="derived_from">
+            <h3 class="label">Derived from</h3>
+            <ul>
+                <li><a class="corporate-identity" href="https://doi.org/10.4121/14169614.v1" target="_blank" rel="noopener noreferrer" title="opens in new window">https://doi.org/10.4121/14169614.v1</a></li>
+            </ul>
+        </div>
+        <div id="funding">
+            <h3 class="label">Funding</h3>
+            <ul>
+                <li>
+                    <span class="grant_code">(grant code 2019-05655)</span>
+                    <span class="funder_name">
+                        Vetenskapsrådet 
+                    </span>
+                </li>
+          </ul>
+        </div>
+        <div id="organizations">
+            <h3 class="label">Organizations</h3>
+            Linköping University, Department of Computer and Information Science (IDA);<br />Stockholm University, Department of Computer and Systems Sciences
+        </div>
+    </div>
+</div>
+
+<div id="data">
+    <h3 class="label">Data</h3>
+    <div id="files">
+        <h3 class="label">Files (2)</h3>
+        <ul>
+            <li><span class="size">6,880 bytes</span><!--
+              --><span class="md5">MD5:<code>dbeaee7d39351b9293b833cdc1d0d4b5</code></span><!--
+              --><a class="corporate-identity" href="/file/46a7e15b-10c7-4ab2-988d-ee67d8ea515a/a390c4a6-c0f0-4bbc-887d-82cd0756eec0">README.txt</a>
+            </li>
+            <li><span class="size">68,251,991 bytes</span><!--
+              --><span class="md5">MD5:<code>6890a7ff8d9af6b40c343489f39ddbbd</code></span><!--
+              --><a class="corporate-identity" href="/file/46a7e15b-10c7-4ab2-988d-ee67d8ea515a/ae11f6ca-2824-407d-98ea-ec8bc456e714">BPIC19.zip</a>
+            </li>
+            <li class="zip">
+                    <a id="download-all-files" class="corporate-identity" href="/ndownloader/items/46a7e15b-10c7-4ab2-988d-ee67d8ea515a/versions/1">download all files (zip)</a>
+                <div id="total_size">68,258,871 bytes unzipped</div>
+            </li>
+        </ul>
+        <div id="download-all-files-message"></div>
+    </div>
+</div>
+</div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" class="corporate-identity-footer">
+      <div class="logos corporate-identity-background">
+        <div id="whitelogos">
+          <a href="http://www.tudelft.nl" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-tudelft.png" alt="4TU Delft"></a>
+          <a href="http://www.tue.nl" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-tueindhoven.png" alt="4TU Eindhoven"></a>
+          <a href="http://www.utwente.nl/" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-tutwente.png" alt="4TU Twente"></a>
+          <a href="http://www.wageningenur.nl/" target="_blank" rel="noopener noreferrer">
+            <img src="/static/images/logosleft-white-wageningen.png" alt="4TU Wageningen"></a>
+        </div>
+      </div>
+      <div id="footer-wrapper2">
+      <p><a href="/info/en/about-your-data/getting-started">Getting started</a> | <a href="https://community.data.4tu.nl/contact/">Contact</a> | <a href="/s/docs/data-collection-policy.pdf">Data Collection Policy</a> | <a href="/s/docs/privacy-policy.pdf">Privacy Policy</a> | <a href="/s/docs/terms-of-use.pdf">Terms of Use</a> | <a href="https://github.com/4TUResearchData/djehuty">Source code</a></p>
+    </div>
+      <p class="djehuty-version">Djehuty v26.8</p>
+    </div>
+  </body>
+</html>

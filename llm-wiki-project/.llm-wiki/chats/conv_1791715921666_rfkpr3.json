@@ -1,0 +1,185 @@
+[
+  {
+    "id": "msg_1791715921666_1_mzftsy",
+    "role": "user",
+    "content": "你好",
+    "timestamp": 1791715921666,
+    "conversationId": "conv_1791715921666_rfkpr3"
+  },
+  {
+    "id": "msg_1791715929098_2_o5rrhc",
+    "role": "user",
+    "content": "你好",
+    "timestamp": 1791715929098,
+    "conversationId": "conv_1791715921666_rfkpr3"
+  },
+  {
+    "id": "msg_1791715936447_3_lpf3sg",
+    "role": "assistant",
+    "content": "你好！有什么我可以帮你？",
+    "timestamp": 1791715936447,
+    "conversationId": "conv_1791715921666_rfkpr3",
+    "references": [],
+    "agentSteps": [
+      {
+        "id": "backend-0-skills.load-completed",
+        "type": "tool_result",
+        "tool": "project_file_read",
+        "message": "101 skill(s) available",
+        "status": "success"
+      }
+    ]
+  },
+  {
+    "id": "msg_1791790381898_4_pctqvw",
+    "role": "user",
+    "content": "你好",
+    "timestamp": 1791790381898,
+    "conversationId": "conv_1791715921666_rfkpr3"
+  },
+  {
+    "id": "msg_1791790389775_5_td60y7",
+    "role": "assistant",
+    "content": "你好！有什么我可以帮你？",
+    "timestamp": 1791790389775,
+    "conversationId": "conv_1791715921666_rfkpr3",
+    "references": [
+      {
+        "title": "第 13 集｜12-人机协同流程：LangGraph审核恢复与业务验收.md",
+        "path": "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 13 集｜12-人机协同流程：LangGraph审核恢复与业务验收.md",
+        "kind": "external",
+        "source": "Source",
+        "snippet": "...明我们这里面显示已签收了，然后用户说没收到，Agent 现在决定“这一步我不知道怎么办了，我不能给他退款，我也不能给他再新发一个，接下来我们让人工来去确定”。所以这个人工就在这里面了，说我们可以去按照建议继续，或者是按照补充意见——我们这里面就写，比如“可以和物业前台确认一下”。OK，这个就是我们人工介入了，然后我们去提交意见。 接下来你会发现，OK，Agent 接收到需求以后继续去提供下一步、继续去选择下一步，最后它生成的这个草稿，这里面我们把它回复给用户。我们去看一下它回复给用户的就是：“你好，关于咖啡机主机的包裹，根据我们系统的查询，确实已经在这个时间点签收了，然后建议你和前台先确定一下是否代为保管了你的包裹，同时这个奶泡壶正在查询中。” 那么这些是不是我们既定的这个事实？那么他说他没收到，然后我们让他去和前台（确认），是不是 Agent 让我们人工去确定了以后，他才去进行这个回复？所以这个才是我们和 Agent 交互，以及我们在构建业务链路的一个核心，就是因为 Agent 他并不能够帮助我们解决所有的这个事情，涉及到这种情况，你说 Agent 给他退款肯定是不行的吧。所以这..."
+      },
+      {
+        "title": "第 11 集｜10-Agent业务集成：工具调用与订单客服问答.md",
+        "path": "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 11 集｜10-Agent业务集成：工具调用与订单客服问答.md",
+        "kind": "external",
+        "source": "Source",
+        "snippet": "...和本体的这个业务模型去通过 function calling、或者这个 tool calling 来去构建相关的这个关联的联系。 然后我们再往下看，他呢接下来又会去查询本体的关联的这个事实，这里面查询的就是这个明细编号、销售渠道是哪里、客户是什么，然后这次清单的这个完成性包括了一个咖啡机主机、一个奶泡壶，然后咖啡机主机是已经签收了，这个奶泡壶是运输中的这样一个状态，然后呢装箱的明细啊，包括了本阶段的这个结果。他一步一步地全部都查完了以后呢，他会发现，啊，这里面给我们最终的这样一个回复，就是：\"你好，感谢你的咨询，根据我们的这个查询呢，你的这个订单主机已签收了，然后奶泡壶正在运输中，尚未签收。\"那你作为这个客服，是不是可以直接在这里面去回复用户？哎，你看，在右侧是不是就回复了。 所以这个视角呢，就是我们通过这样的一个页面，把它让大家直观地去感受到：当我们这个系统如果是给用户、去在给这个客服去解决查单慢的这个问题下，如果我们通过构建出来的这个本体模型，然后加上 Agent，当用户的这个问题进来以后，他的一个完整的执行链路，也就是去检索我们本体中的业务模型，然后生成对应的这个回复。其实这..."
+      },
+      {
+        "title": "Hello Song (你好歌) | Chinese Greeting & Numbers | By Little Fox",
+        "path": "https://www.youtube.com/watch?v=m_rDIzj6DRE",
+        "kind": "external",
+        "source": "Web",
+        "url": "https://www.youtube.com/watch?v=m_rDIzj6DRE",
+        "snippet": "## Hello Song (你好歌) | Chinese Greeting & Numbers | Chinese song | By Little Fox\nCopy link\n\nInfo\n\nShopping\n\n•\n\nUp next\n\nLive\n\nUpcoming\n\nCancelPlay Now\n\nCancelConfirm\n\nShare\n\nInclude playlist\n\n0:00\n\n[Next (SHIFT+n)](https://www.youtube.com/watch?v=uhmjwL3Xpt0)\n\n0:00 / 0:58\n\nLive\n\n•Watch full video\n\n•\n\n•\n\n[1:54\\\n我的家人 (The Family) | Sing-Alongs | Chinese song | By Little FoxLittle Fox Chinese - Stories & Songs for Learners1.1M • 6y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=iPvYsKAgsM0) [9:32\\\nTop10 Chinese Nursery Songs (slow&clear)|‌For kids&beginners|‌兒童必學！10首中文兒歌磨耳朵【慢速清晰】#chineseforkidsJingjing Chinese京京中文248K • 3mo agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=TGuZzKi133g) [17:52\\\nLearn Chinese with Peppa Pig (cn version) | Mandarin LessonEveryday Chinese77K • 11mo agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=zFHNV3HBBwM) [2:29\\\n一到一百 | 1-100 | 數字歌 | Counting Numbers in Chinese 1 to 100 | Kids Song in Chinese | 兒歌童謠 | 朱妮托尼兒歌朱妮托尼 中文 - 儿歌童话4.3M • 6y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=vXCRnXmjr5M) [1:03\\\nGood Morning Song | 早安儿歌 | My First Skool Nursery RhymeMy First Skool1.7M • 6y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=lXeLAjX25C8) [2:17\\\nTwinkle Twinkle Little Star in Mandarin Chinese 一闪一闪亮晶晶 | Kids Sing Along Nursery Rhymes with LyricsGalaxy Kids Chinese - Kids Stories & Music5.2M • 4y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=UiS46gi8sho) [7:08\\\nLearn 20 Common Foods in Chinese |🍜中文食物学习 | Easy Chinese Vocabulary for Kids & BeginnersChinese4Kids18K • 5mo agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=vHUHP3UmBXQ) [2:23\\\nErge Duoduo Kids Songs - One Little Finger |Happy Childhood Rhythm Songs | Nursery Rhymes & CartoonsKids Songs and Cartoons9.7M • 3y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=usCputd1Wu0) [2:59\\\nLiang Zhi Lao Hu - Two Tigers Chinese Kid Song Nursery Rhymes LyricsEzy Mandarin3.3M • 7y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=-D9mlAnCQ3E) [1:24\\\n兩只老虎 | 經典國語兒歌 | 幼兒童謠 | 寶寶巴士萌宝乐成长——Baby Go13M • 9y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=RApHGXfBKO0) [1:52\\\n你叫什么名字？(What's Your Name?) | Sing-Alongs | Chinese song | By Little FoxLittle Fox Chinese - Stories & Songs for Learners2.5M • 6y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=uhmjwL3Xpt0) [3:20\\\nWo de pengyou zai nali - Lyrics Chinese Mandarin Kid Songs Nursery RhymesEzy Mandarin1.8M • 6y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=8qAZ68A_PQw)\n\n# Hello Song (你好歌) | Chinese Greeting & Numbers | Chinese song | By Little Fox\nLittle Fox Chinese - Stories & Songs for Learners\n\n33K\n\n33K\n\nHello Song (你好歌) | Chinese Greeting & Numbers | Chinese song | By Little Fox\n\nLittle Fox Chinese - Stories & Songs for Learners\n\nLittle Fox Chinese - Stories & Songs for Learners\n\nanimated stories and songs."
+      },
+      {
+        "title": "Hello in Chinese || Move Beyond the Textbook 你好",
+        "path": "https://ltl-school.com/hello-in-chinese/",
+        "kind": "external",
+        "source": "Web",
+        "url": "https://ltl-school.com/hello-in-chinese/",
+        "snippet": "## Hello in Mandarin Chinese // 20 Top Ways To Greet Someone in Mandarin\n### 1. 你好 – Nǐ hǎo\n你好\n\nThe standard, well-known greeting which is one of the first things anyone studying Mandarin will learn. It literary means “ **you good**” and can be used in a variety of situations.\n\n👉 If you’re new to Chinese, it’s pronounced like “knee how”.\n\nIf you’re confused by the squiggly line above the i and a, those indicate the tones.\n\n### 3. 你好吗? – Nǐ hǎo ma?\n你好吗\n\nThis means **‘how are you?’** and is either used as an initial greeting or an immediate follow up to a greeting.\n\nYou may have noticed that it’s the same as 你好 (nǐ hǎo), but with the addition of 吗 (ma).\n\nLet’s break it down a little:\n\n**你 nǐ** – you\n\n**好** **hǎo** – good\n\n**吗** **ma** – question particle used for ‘yes or no’ questions\n\nBONUS || Check out how to ask [‘How are you?’ in Japanese](https://flexiclasses.com/japanese/how-are-you/)\n\n### 11. 最近好吗？Zuì jìn hǎo mǎ\n**好 hǎo** – good\n\n### 17. 晚上好 – Wǎnshàng hǎo\n晚上好"
+      },
+      {
+        "title": "你好 (nǐhǎo) Meaning: hello; hi — HSK 1 Chinese Word",
+        "path": "https://mandarintemple.com/chinese-dictionary/chinese-to-english/hsk-1/%E4%BD%A0%E5%A5%BD-ni3hao3",
+        "kind": "external",
+        "source": "Web",
+        "url": "https://mandarintemple.com/chinese-dictionary/chinese-to-english/hsk-1/%E4%BD%A0%E5%A5%BD-ni3hao3",
+        "snippet": "你好 (nǐhǎo) Meaning: hello; hi — HSK 1 Chinese Word\n\n## Podcast: 你好 Mark doneCopy linkFocus\nPodcast: 你好\n\n## AI Study Notes for 你好 Mark doneCopy linkFocus\n您好 (nín hǎo) is a formal greeting, while 你好 (nǐ hǎo) is more casual.\n\nBe mindful that 你好 can be used in most social situations, but in very formal contexts, other greetings like 您好 (nínhǎo) may be preferred.\n\nLearners often mistakenly think that 你好 can be used to say goodbye.\n\n## How to say hello; hi in Chinese Mark doneCopy linkFocus\n“hello; hi” in Chinese is **你好** nǐhǎo\n\n你好 (nǐhǎo) is a common greeting in Mandarin that means 'hello.'\n\n### When to use 你好\nBe mindful that 你好 can be used in most social situations, but in very formal contexts, other greetings like 您好 (nínhǎo) may be preferred. A common mistake is to use it as a farewell, while it is strictly a greeting.\n\n### 你好 or something close to it\n您好 (nín hǎo) is a formal greeting, while 你好 (nǐ hǎo) is more casual.\n\n## Frequently Asked Questions about 你好 Mark doneCopy linkFocus\nYes, 你好 is versatile and can be used in most situations, but be aware of more formal alternatives if the context requires.\n\n您好 (nínhǎo) is a more respectful form of greeting, often used when addressing elders or in formal situations.\n\nYes, it is acceptable to start an email with 你好, especially in informal or semi-formal communications."
+      },
+      {
+        "title": "Mandarin Chinese Hello Song - Nǐ hǎo, Hello | 儿童歌曲 - 你好",
+        "path": "https://www.youtube.com/watch?v=uLkRmHVpC4Q",
+        "kind": "external",
+        "source": "Web",
+        "url": "https://www.youtube.com/watch?v=uLkRmHVpC4Q",
+        "snippet": "## Mandarin Chinese Hello Song - Nǐ hǎo, Hello | 儿童歌曲 - 你好\nCopy link\n\n•\n\nUp next\n\nLive\n\nShare\n\nInclude playlist\n\nLive\n\n•\n\n•\n\n# Mandarin Chinese Hello Song - Nǐ hǎo, Hello | 儿童歌曲 - 你好\n## Mandarin Chinese Hello Song - Nǐ hǎo, Hello | 儿童歌曲 - 你好\nNǐ hǎo Nǐ hǎo Wǒ hěn hǎo, xiè xie nǐ Nǐ hǎo Nǐ hǎo Wǒ hěn hǎo, xiè xie nǐ Nǐ shì lǎo shī, Nǐ shì lǎo shī Nǐ hǎo Nǐ hǎo\n\nWǒ hěn hǎo, xiè xie nǐ Zǎo shàng hǎo Wǒ hěn hǎo, xiè xie nǐ Nǐ shì xué shēng, Nǐ shì xué shēng, Nǐ hǎo Nǐ hǎo (Xuésheng, kàn!\n\nWǒ hěn hǎo, xiè xie nǐ Wǒ hěn hǎo, xiè xie nǐ Nǐ hǎo Nǐ hǎo Nǐ hǎo Nǐ hǎo Nǐ hǎo Nǐ hǎo Nǐ hǎo Nǐ hǎo (wǒ lèi le, wǎn ān)\n\nI'm very well. Thank you. I'm very well. Thank you. Hello. Hello. (Teacher, come over here!\n\nGood morning, good morning. I'm very well. Thank you. Good morning, good morning. I'm very well. Thank you. He is the Student. Hello. Hello.\n\nI'm very well. Thank you. I'm very well. Thank you. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. \"Good night.\"\n\n~~-~~-~~~-~~-~~"
+      },
+      {
+        "title": "English Translation of “你好” - Collins Dictionary",
+        "path": "https://www.collinsdictionary.com/dictionary/chinese-english/%E4%BD%A0%E5%A5%BD",
+        "kind": "external",
+        "source": "Web",
+        "url": "https://www.collinsdictionary.com/dictionary/chinese-english/%E4%BD%A0%E5%A5%BD",
+        "snippet": "# English translation of '你好'\n×\n\n×\n\n## 你好\n[nǐhǎo]\n\n[Share this page on Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.collinsdictionary.com%2Fdictionary%2Fchinese-english%2F%25E4%25BD%25A0%25E5%25A5%25BD)[Share this page on Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collinsdictionary.com%2Fdictionary%2Fchinese-english%2F%25E4%25BD%25A0%25E5%25A5%25BD&via=collinsdict)\n\n叹\n\nhello\n\n你好 [nǐhǎo] is the most common way to say hello in Chinese. It is also used to ask How are you? 你好吗？ [Nǐhǎo ma?]. The literal translation of How are you?, 你怎么样？ [Nǐ zěnmeyàng?], means What happened to you?\n\nCopyright © by HarperCollins Publishers. All rights reserved.\n\nYou may also like\n\n## In other languages   你好\nBritish English: [hi!](https://www.collinsdictionary.com/dictionary/english/hi) /haɪ/  INTERJECTION\n\nIn informal situations, you say ` _hi!_' to greet someone.\n\n## Browse nearby entries   你好\nQuick word challenge\n\nQuiz Review\n\n-\n\nScore: 0 / 5\n\nFARM ANIMALS\n\nWhat is this an image of?\n\n![Image](https://www.collinsdictionary.com/images/thumb/goose_326040776_250.jpg?version=6.0.120)\n\n马牧羊犬鹅山羊\n\nFARM ANIMALS\n\nDrag the correct answer into the box.\n\n山羊\n\n鸭子\n\n猪\n\n马\n\nFARM ANIMALS\n\nWhat is this an image of?\n\n![Image](https://www.collinsdictionary.com/images/thumb/chicken_249474721_250.jpg?version=6.0.120)\n\n母牛鸡鹅火鸡\n\nFARM ANIMALS\n\nDrag the correct answer into the box.\n\n鹅\n\n山羊\n\n公牛\n\n羊\n\nFARM ANIMALS\n\nWhat is this an image of?\n\n羊牧羊犬猪公牛\n\nYour score:\n\nCheckSee the answerNextNext quizReview\n\nTap to unmute\n\nEnglish with Collins Dictionary336K subscribers\n\nThese are our top four pronunciation tips for speakers of Chinese languages to help improve clarity in English Read more\n\n[Unlock language with the Paul Noble method\\\n\\\nNo books. No rote memorization. No chance of failure. Your chance to have a one-to-one lesson with best-selling language expert Paul Noble: try a FREE audio sample of his brand new Mandarin Chinese course.\\\nRead more](https://www.collinsdictionary.com/paul-noble-method)\n\nCreate an account and sign in to access this FREE content\n\n[Italian](https://www.collinsdictionary.com/dictionary/english-italian)\n\n[Italian images](https://www.collinsdictionary.com/quiz/it/image)\n\n[Mandarin Chinese images](https://www.collinsdictionary.com/quiz/zh/image)\n\n[Korean](https://www.collinsdictionary.com/dictionary/english-korean)\n\n[Japanese](https://www.collinsdictionary.com/dictionary/english-japanese)\n\n[GAMES](https://www.collinsdictionary.com/quiz/)\n\n[Italian grammar](https://www.collinsdictionary.com/quiz/it)\n\n[Italian images](https://www.collinsdictionary.com/quiz/it/image)\n\n[BLOG](https://blog.collinsdictionary.com/)"
+      },
+      {
+        "title": "Does 你好 (nǐhǎo) Really Mean \"Hi\" ? - ChineseClass101",
+        "path": "https://www.chineseclass101.com/lesson/absolute-beginner-questions-answered-by-yinru-9-does-%E4%BD%A0%E5%A5%BD-n%C7%90h%C7%8Eo-really-mean-hi",
+        "kind": "external",
+        "source": "Web",
+        "url": "https://www.chineseclass101.com/lesson/absolute-beginner-questions-answered-by-yinru-9-does-%E4%BD%A0%E5%A5%BD-n%C7%90h%C7%8Eo-really-mean-hi",
+        "snippet": "[Lesson Library](https://www.chineseclass101.com/lesson-library) [Absolute Beginner Questions Answered by Yinru](https://www.chineseclass101.com/lesson-library/absolute-beginner-questions-answered-by-yinru?disable_ssr=1) Does 你好 (nǐhǎo) Really Mean \"Hi\" ?\n\n# Does 你好 (nǐhǎo) Really Mean \"Hi\" ?\nLearn more about the greeting 你好 (nǐhǎo)\n\n### Unlock In-Depth Explanations & Exclusive Takeaways with Printable Lesson Notes\n| ### Intro |\n|-|\n| Hi everybody! Yinru here. Welcome to Ask a Teacher, where I’ll answer some of your most common Chinese questions. |\n| The question for this lesson is: Does 你好 nǐhǎo really mean “Hi”? |\n| 你好 nǐhǎo! and “Hi!” Are these two greetings the same? Actually they aren’t. |\n| 你好 nǐhǎo in Chinese is a very formal greeting. It’s usually used when people meet for the first time. You can use it in self-introductions, such as: |\n| 你好，我叫玛丽. Nǐhǎo, Wǒ jiào Mǎlì. (“Hello, my name is Mary.”) |\n| 你好，很高兴认识你。Nǐhǎo, hěn gāoxìng rènshi nǐ. (“Hello, it is my pleasure to meet you.” ) |\n| Or, you can use 你好 nǐhǎo as a phrase to get a stranger’s attention, when you need to ask a question or a favor. For example, you need to get to someplace, so you may stop a passerby by saying: |\n| 你好，请问一下，电影院怎么走？nǐhǎo, qǐngwèn yíxià , diànyǐngyuàn zěnme zǒu? （“Excuse me, how do I get to the movie theater?”) |\n| Or, when you’re ordering food in a restaurant, you can say: |\n| 你好，我要一份一号套餐。nǐhǎo , Wǒ yào yífèn yī hào tàocān. (“Hello, I’d like an order of Combo No.1.”) |\n| Well, if 你好 nǐhǎo is used in formal situations with people you don’t really know, how do you greet people you do know? Well, it’s definitely not necessary to use 你好 nǐhǎo to your best friends when you bump into them on the street. You can simply say “Hi” to them in English, or the Chinese version: 嗨 hai. This is essentially a translation from English. 嗨 hai is a very popular greeting among young people, so feel free to use it as you do in English. |\n| If you haven’t seen your friend for a while, you may say: |\n| 嗨，玛丽，好久不见！最近还好吗？Hài , Mǎlì , hǎojiǔbújiàn! Zuìjìn hái hǎo ma? (“Hi, Mary, long time no see! How have you been?”) |\n| Or, you can simply say their name and then continue with some small talk. For instance, it’s around mealtime. You could say: 玛丽，吃了吗？Mǎlì, chī le ma? (“Hey Mary, have you eaten?”) |\n| This is a very informal greeting, but SO commonly used. After all, eating is a big deal in Chinese culture! |\n| What if you’re greeting someone you know, but they are your supervisor or your senior? To make it more polite, you can address them by their title, then add a 好 hǎo after the title. Say you see your teacher. It’s considered polite to greet them by saying: |\n| 某某老师好 mǒumǒu lǎoshī hǎo (“Hello, so-and-so teacher”) |\n| 李老师好 Lǐ lǎoshī hǎo (“Hi Teacher Li”) |\n| 李经理好 Lǐ jīnglǐ hǎo (“Hi Manager Li”). |\n| Many times, when at work, even if the person you’re greeting is the same level as you, or even at a lower level, it’s still common to address them by their surname followed by the title. |\n\n\"Yes, I have. Thank you!\")\n\n\"Thank you!\")\n\nas a greeting?\n\nHello Russell,\n\nThank you for your comment.\n\nIf you have any questions, please let us know.\n\nThanks you for your help.\n\n你好 robert groulx,\n\nIf you have any questions, please let us know.\n\nKind regards,"
+      },
+      {
+        "title": "Hello! (你好！) | Learning Songs 1 | Chinese song | By Little Fox",
+        "path": "https://www.youtube.com/watch?v=96ZzzwPdNhM",
+        "kind": "external",
+        "source": "Web",
+        "url": "https://www.youtube.com/watch?v=96ZzzwPdNhM",
+        "snippet": "## Hello! (你好！) | Learning Songs 1 | Chinese song | By Little Fox\nLittle Fox Chinese - Stories & Songs for Learners 2,879,259 views 9y ago\n\nCopy link\n\nInfo\n\nShopping\n\n•\n\nUp next\n\nLive\n\nUpcoming\n\nCancelPlay Now\n\nYou're signed out\n\nTo avoid this, cancel and sign in to YouTube on your computer.\n\nCancelConfirm\n\nShare\n\nInclude playlist\n\nPlease try again later.\n\n0:00\n\n[Next (SHIFT+n)](https://www.youtube.com/watch?v=c06HlhucAwk)\n\n0:00 / 1:03\n\nLive\n\n•Watch full video\n\n•\n\n•\n\n[0:57\\\nMy Name Is Minwoo! (我叫敏宇) | Learning Songs 1 | Chinese song | By Little FoxLittle Fox Chinese - Stories & Songs for Learners487K • 9y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=c06HlhucAwk) [12:42\\\n'Maddi's Fridge' read by Jennifer GarnerStorylineOnline14M • 4y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=To07TjBnrNY) [0:24\\\n早安歌 l 普通話 l Putonghua l Super Happy SongsSuperHappySongs3.2K • 2w agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=pYIrTOdZ_vc) [1:52\\\n你叫什么名字？(What's Your Name?) | Sing-Alongs | Chinese song | By Little FoxLittle Fox Chinese - Stories & Songs for Learners2.5M • 6y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=uhmjwL3Xpt0) [8:22\\\n汉语声调 & 声调歌 (Chinese Tones & Chinese Tones Song) | Mandarin | Chinese Pronunciation | Little FoxLittle Fox Chinese - Stories & Songs for Learners180K • 5y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=V2TambAgK0Q) [2:08\\\nJump Together 舞蹈完整版 幼兒律動 幼兒舞蹈 兒童律動 兒童舞蹈 廣場舞 洗腦歌 Kids Dance活立果創意活動工作室34 • 15h agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=TcXwk6CQzqE) [9:32\\\nTop10 Chinese Nursery Songs (slow&clear)|‌For kids&beginners|‌兒童必學！10首中文兒歌磨耳朵【慢速清晰】#chineseforkidsJingjing Chinese京京中文248K • 3mo agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=TGuZzKi133g) [17:52\\\nLearn Chinese with Peppa Pig (cn version) | Mandarin LessonEveryday Chinese77K • 11mo agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=zFHNV3HBBwM) [6:35\\\n【元元老師說故事】【聰明的烏鴉】＃寓言故事＃童話故事#兒童床邊故事#繪本#兒童睡前故事＃遊戲中＃長途搭車＃爸媽忙碌中元元老師講故事(Teacher Oneone)元元故事佳33K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=s_gm_ZTHTPQ) [2:39\\\n拔萝卜 | 经典儿歌 | 國語童謠 | 最好的儿歌 | 卡通动画 | 贝瓦儿歌貝瓦兒歌 - 經典童謠 - 卡通動畫 - 最好的儿歌39M • 11y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=gnD1zHblo0Q) [19:21\\\nTry Not to Sing Challenge 🎤 | Best Songs from Sing & Sing 2 | Tune KidsTUNE: Kids1.3M • 2mo agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=FQpew6XI9SM) [2:26\\\nFamily Members Song | 家庭成员歌 | Fun Chinese Kids Song - Nursery RhymesCarol Hu Yingzi-Mandarin Teacher13K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=xvj6yiuWqmY)\n\n# Hello! (你好！) | Learning Songs 1 | Chinese song | By Little Fox\n2,879,259 views2.8M views\n\nJan 9, 2017\n\n9.6K\n\nShare\n\nDownload\n\nDownload\n\nSave\n\nComments are turned off. [Learn more](https://support.google.com/youtube/answer/9706180?hl=en)\n\n## Video details\nDate\n\nJan 9, 2017\n\nViews\n\n2,879,259\n\nLikes\n\n9,648\n\n[![](https://i.ytimg.com/vi/c06HlhucAwk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCWcWPgS7WmRQexVEKS9mXHQkbZUQ)\\\n\\\n0:57](https://www.youtube.com/watch?v=c06HlhucAwk&list=RDc06HlhucAwk&start_radio=1&pp=oAcB)\n\n### [早安歌 l 普通話 l Putonghua l Super Happy Songs](https://www.youtube.com/watch?v=pYIrTOdZ_vc&list=RDpYIrTOdZ_vc&start_radio=1&pp=oAcB)\nSuperHappySongs\n\n3.2K2w ago\n\n[![](https://i.ytimg.com/vi/uhmjwL3Xpt0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDI6j9S2Ei3g7_jXT5cWR4kP68Mjw)\\\n\\\n1:52](https://www.youtube.com/watch?v=uhmjwL3Xpt0&list=RDuhmjwL3Xpt0&start_radio=1&pp=oAcB0gcJCTcMAYcqIYzv)\n\n### [Learn Chinese with Peppa Pig (cn version) | Mandarin Lesson](https://www.youtube.com/watch?v=zFHNV3HBBwM)\n[![](https://i.ytimg.com/vi/s_gm_ZTHTPQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1nxswNAerZj9xg5cFhev4Kth7LA)\\\n\\\n6:35](https://www.youtube.com/watch?v=s_gm_ZTHTPQ)\n\n### [Hello Hello 你好你好｜中文启蒙儿歌｜好习惯养成歌|幼儿园必学｜Nursery Rhymes for Kids｜Chinese greeting song](https://www.youtube.com/watch?v=e6bCx90jqrc&list=RDe6bCx90jqrc&start_radio=1&pp=oAcB)\nMs.Tingting - Chinese Learning Videos For Kids\n\n57K9mo ago\n\n[3:17](https://www.youtube.com/watch?v=EFsKB-_816o)"
+      },
+      {
+        "title": "你好- Hello - Traditional Chinese word mnemonic - HanziHero",
+        "path": "https://hanzihero.com/traditional/words/%E4%BD%A0%E5%A5%BD",
+        "kind": "external",
+        "source": "Web",
+        "url": "https://hanzihero.com/traditional/words/%E4%BD%A0%E5%A5%BD",
+        "snippet": "[nǐhǎo\\\n\\\n你好\\\n\\\nhello](https://hanzihero.com/traditional/words/%E4%BD%A0%E5%A5%BD)\n\n[你好](https://hanzihero.com/traditional/words/%E4%BD%A0%E5%A5%BD)\n\n## Character Composition\n### Characters\n[hǎo\\\n\\\n好\\\n\\\ngood](https://hanzihero.com/traditional/characters/%E5%A5%BD)\n\n[好](https://hanzihero.com/traditional/characters/%E5%A5%BD)\n\n### Pinyin\n• nǐhǎo\n\n## Mnemonic\nIf someone wants to say 你好 hello to you in Chinese, they simply ask if 你 you if things have been 好 good.\n\n## Usage\n你好， 我 是 凱文，很 高興 認識 你！\n\n你好，你 好 嗎？"
+      }
+    ],
+    "agentSteps": [
+      {
+        "id": "backend-0-skills.load-completed",
+        "type": "tool_result",
+        "tool": "project_file_read",
+        "message": "101 skill(s) available",
+        "status": "success"
+      },
+      {
+        "id": "backend-1-web.search-available",
+        "type": "tool_result",
+        "tool": "web_search",
+        "message": "Web search is enabled for this turn. Router decides whether to execute it immediately.",
+        "status": "skipped"
+      },
+      {
+        "id": "backend-2-deep_research.run-started",
+        "type": "tool_call",
+        "tool": "project_file_read",
+        "message": "你好",
+        "status": "running"
+      },
+      {
+        "id": "backend-3-source.search-started",
+        "type": "tool_call",
+        "tool": "project_file_read",
+        "message": "你好",
+        "status": "running"
+      },
+      {
+        "id": "backend-4-source.search-completed",
+        "type": "tool_result",
+        "tool": "project_file_read",
+        "message": "2 result(s)",
+        "status": "success"
+      },
+      {
+        "id": "backend-5-web.search-started",
+        "type": "tool_call",
+        "tool": "web_search",
+        "message": "你好",
+        "status": "running"
+      },
+      {
+        "id": "backend-6-web.search-completed",
+        "type": "tool_result",
+        "tool": "web_search",
+        "message": "8 result(s)",
+        "status": "success"
+      },
+      {
+        "id": "backend-7-deep_research.run-completed",
+        "type": "tool_result",
+        "tool": "project_file_read",
+        "message": "10 reference(s)",
+        "status": "success"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+---
+type: query
+title: Semantica 能力、API 与推理边界待核验
+tags: [Semantica, API, ASR, Star, 规则推理, 外部核验]
+related: [semantica, 规则引擎推导, 来源溯源, 企业级检索服务部署要求]
+sources: ["3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 10 集｜09-本体问答开发：Semantica检索服务与应用架构.md"]
+evidence_status: unknown
+created: 2026-10-11
+updated: 2026-10-11
+---
+
+# Semantica 能力、API 与推理边界待核验
+
+## 问题
+
+Semantica 的正式项目身份、当前能力和接口是什么？视频中的检索、规则推导、来源追溯和工作台描述，哪些能由官方源码或文档确认？本体与知识图谱的推理边界应如何准确表述？
+
+## 当前已知
+
+本地 ASR 将 Semantica 描述为覆盖数据处理、本体构建、三类检索和应用接入的开源框架，并提到 `ask`、`retriever query with reasoning`、`context.context_retriever`、`Person SDK`、`MTP`、`Explore` 等名称。除 Semantica、OWL、React、CLI、REST API、MCP 等上下文较明确的术语外，后半段名称存在明显 ASR 不确定性。
+
+作者还给出“经理也是员工”的规则推导示例，并据此强调本体可以推出知识图谱中没有直接记录的关系。这个例子不能独立证明 Semantica 的实现，也不能支持“知识图谱只能查询”的普遍结论。
+
+## 冲突和缺口
+
+- 本系列第 1 集口播称 Semantica 有“13000 多”Star，本集称“14k”。两者都是作者口播，可能存在时间差或近似表达，当前无法判断。
+- 来源没有给出 Semantica 官方仓库地址、版本、许可证、源码片段、API 文档或可复核返回数据。
+- 来源没有说明规则与事实冲突、多个来源文件冲突、权限过滤和规则版本管理。
+- 来源没有给出工作台的真实前后端框架清单；“发词 EPI”可能是 ASR 误识别，不能直接改写为 FastAPI。
+
+## 建议搜索式
+
+- `Semantica GitHub ontology graph retrieval framework`
+- `Semantica retriever query with reasoning API rule engine`
+- `ontology reasoning versus knowledge graph query semantics`
+
+## 下一步研究动作
+
+1. 查找 Semantica 的官方仓库和版本文档，确认项目身份、许可证、Star 数和部署方式。
+2. 在源码或 API 文档中核对检索器、SDK、`ask`、规则引擎和来源返回字段。
+3. 查找规则推理、OWL 推理和知识图谱查询的权威资料，重新表述本体与知识图谱之间的边界。
+4. 若能取得演示项目源码，记录真实目录结构、参数名、返回契约和冲突处理行为。

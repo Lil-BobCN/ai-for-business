@@ -1,0 +1,139 @@
+BPI Challenge 2019 (OCEL) (dataset)
+Log in
+About your Data
+Getting started
+Manage & Share
+Publish & Cite
+Find & Re-use
+Scientific Visualisation
+NetCDF & OPeNDAP
+CODECHECK
+Image interoperability with IIIF
+RO-CRATE
+IGSN
+4TU.ResearchData
+Organisation
+Policies & Guidelines
+Team & Contact
+Frequently Asked Questions
+Strategy 2025 – 2029
+Branding
+Our Community
+Join our community
+Community members
+Community groups
+FAIR Data Fund
+Training
+Training
+Introduction to Version Control with Git
+Introduction to programming in research with Python
+Efficient Research Workflows with the UNIX Shell
+Materials
+Collaborations
+Collaborations
+Digital Capacity for NES
+Call 1: Instructors
+Call for Lesson Dev
+Open Call: Instructor Training
+News
+Latest news
+Use cases
+Subscribe to newsletter
+Log in & Upload Data
+About Log in / Sign up
+Log in (Data Repository)
+Log in (Community)
+BPI Challenge 2019 (OCEL)
+DOI:
+10.4121/46a7e15b-10c7-4ab2-988d-ee67d8ea515a.v1
+The DOI displayed above is for this specific version of this dataset, which is currently the latest. Newer versions may be published in the future.
+            For a link that will always point to the latest version, please use
+DOI:
+10.4121/46a7e15b-10c7-4ab2-988d-ee67d8ea515a
+Cite
+Datacite citation style
+Khayatbashi, Shahrzad; Hartig, Olaf; Jalali, Amin (2023): BPI Challenge 2019 (OCEL). Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/46a7e15b-10c7-4ab2-988d-ee67d8ea515a.v1
+Other citation styles (APA, Harvard, MLA, Vancouver, Chicago, IEEE) available at Datacite
+Dataset
+Usage statistics
+868
+views
+463
+downloads
+Categories
+Data Format
+Information Systems
+Information and Computing Sciences
+Computation Theory and Mathematics
+Keywords
+BPI
+BPI Challenge
+BPIC
+Business Process Intelligence (BPI)
+Event Knowledge Graph
+IEEE Task Force on Process Mining
+Knowledge Graph
+Object-Centric Event Log
+OCEL
+Process Mining
+Real life event logs
+Licence
+CC BY 4.0
+Interoperability
+RO-Crate Metadata
+Export as
+RefWorks
+BibTeX
+Reference Manager
+Endnote
+DataCite
+NLM
+DC
+CFF
+by
+Shahrzad Khayatbashi
+,
+Olaf Hartig
+,
+Amin Jalali
+This dataset contains the result of transforming the BPI Challenge 2019 event log from
+Event Graph
+format to Object-Centric Event Log (OCEL) format. The transformation is defined in the "Transforming Event Knowledge Graph to Object-Centric Event Logs: A Comparative Study for Multi-dimensional Process Analysis" paper.
+History
+2023-08-31 first online, published, posted
+Publisher
+4TU.ResearchData
+Format
+Object-Centric Event Log, *.jsonocel
+Derived from
+https://doi.org/10.4121/14169614.v1
+Funding
+(grant code 2019-05655)
+Vetenskapsrådet
+Organizations
+Linköping University, Department of Computer and Information Science (IDA);
+Stockholm University, Department of Computer and Systems Sciences
+Data
+Files (2)
+6,880 bytes
+MD5:
+dbeaee7d39351b9293b833cdc1d0d4b5
+README.txt
+68,251,991 bytes
+MD5:
+6890a7ff8d9af6b40c343489f39ddbbd
+BPIC19.zip
+download all files (zip)
+68,258,871 bytes unzipped
+Getting started
+|
+Contact
+|
+Data Collection Policy
+|
+Privacy Policy
+|
+Terms of Use
+|
+Source code
+Djehuty v26.8

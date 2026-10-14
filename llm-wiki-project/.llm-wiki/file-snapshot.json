@@ -1,0 +1,3656 @@
+{
+  "version": 1,
+  "updatedAt": 1791792407932,
+  "files": {
+    "purpose.md": {
+      "hash": "7f6c3dc3118d1e1b188a9b1a0c26cabe",
+      "size": 2817,
+      "mtimeMs": 1791679867414
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 1 集｜9月30日-FDE-木羽B站.md": {
+      "hash": "12897492cf52972cdb8b9ab6eb11dd52",
+      "size": 12443,
+      "mtimeMs": 1791675849000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 10 集｜09-本体问答开发：Semantica检索服务与应用架构.md": {
+      "hash": "a522172048c8f541b142cc8de213947b",
+      "size": 27960,
+      "mtimeMs": 1791676011000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 11 集｜10-Agent业务集成：工具调用与订单客服问答.md": {
+      "hash": "c398c7f7c76e120fa11e459d2d88917d",
+      "size": 66192,
+      "mtimeMs": 1791676011000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 12 集｜11-RAG知识增强：本体事实与文档证据融合.md": {
+      "hash": "6cac2f8c21b270b9ea279b9b218fae4c",
+      "size": 28015,
+      "mtimeMs": 1791675960000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 13 集｜12-人机协同流程：LangGraph审核恢复与业务验收.md": {
+      "hash": "68486ccde326811ec6c446fd004fa25e",
+      "size": 43281,
+      "mtimeMs": 1791675900000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 2 集｜01-课程导学：FDE学习路径与订单客服实战目标.md": {
+      "hash": "b92bb95ede8fa87e46bf4e4b3e5fd2d9",
+      "size": 19004,
+      "mtimeMs": 1791675875000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 3 集｜02-FDE岗位认知：行业趋势与核心能力要求.md": {
+      "hash": "5681b5399e16fe0e03067ad2e08e47c6",
+      "size": 16321,
+      "mtimeMs": 1791676130000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 4 集｜03-FDE交付方法：从业务需求到AI应用落地.md": {
+      "hash": "0fa2cf08924cf938ebb1c48675237e93",
+      "size": 25822,
+      "mtimeMs": 1791675520000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 5 集｜04-业务本体入门：Ontology与Agent业务上下文.md": {
+      "hash": "bfbfe2a51aaa776d420cbb47f52c216b",
+      "size": 33023,
+      "mtimeMs": 1791676198000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 6 集｜05-本体建模方法：业务定义、数据映射与关系校验.md": {
+      "hash": "8533aef13cd94abcbeae0948f1bc437d",
+      "size": 18633,
+      "mtimeMs": 1791675342000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 7 集｜06-本体模型表达：OWL、Schema与语义约束.md": {
+      "hash": "b8ca3e95804fdd519d506cdc9d6356ea",
+      "size": 19794,
+      "mtimeMs": 1791675889000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 8 集｜07-订单本体构建实战：Codex建模、OWL生成与导入.md": {
+      "hash": "de18511476fff697f7d65c2a5c7e1a2b",
+      "size": 38643,
+      "mtimeMs": 1791675930000
+    },
+    "raw/sources/3小时零基础入门FDE！Ontology业务本体原理精讲与项目实战教学，理清知识图谱、RAG与Agent协同，从零搭建企业AI客服中台【附全部源码】/文章/第 9 集｜08-本体检索机制：结构化查询、图遍历与语义检索.md": {
+      "hash": "b59e1d919cd01321f30b42554e16f55f",
+      "size": 36145,
+      "mtimeMs": 1791675554000
+    },
+    "raw/sources/Ontology：AI Coding 在本体中的建模和实战/文章/Ontology：AI Coding 在本体中的建模和实战.md": {
+      "hash": "8975200accc5f1208baaf74fdf86575f",
+      "size": 95387,
+      "mtimeMs": 1791676945000
+    },
+    "raw/sources/palantir研究/央国企一把手听懂Palantir.md": {
+      "hash": "00d2c516a8f7e0a3744e141d958994dd",
+      "size": 18388,
+      "mtimeMs": 1791790600499
+    },
+    "raw/sources/架构师阿Q/00-系列索引.md": {
+      "hash": "fd39342df61987a6f65627125d274598",
+      "size": 8543,
+      "mtimeMs": 1791790773631
+    },
+    "raw/sources/架构师阿Q/第 1 集｜互联网架构就这？1个故事讲清楚.md": {
+      "hash": "7673cf26ebd3149a1b4896edbce05f20",
+      "size": 25226,
+      "mtimeMs": 1791790395603
+    },
+    "raw/sources/架构师阿Q/第 2 集｜应用架构就这？1个故事讲透企业应用架构演进史.md": {
+      "hash": "ffcf872f19157d7224aeaff413ec0d7c",
+      "size": 22037,
+      "mtimeMs": 1791790692881
+    },
+    "raw/sources/架构师阿Q/第 3 集｜一口气讲透大数据、数据库、数据仓库、数据湖、数据中台的底层原理.md": {
+      "hash": "46b6b496ab951d71340e4e30eea32ee9",
+      "size": 25081,
+      "mtimeMs": 1791790733097
+    },
+    "raw/sources/架构师阿Q/第 4 集｜容灾，我用一个故事讲清楚.md": {
+      "hash": "f3b2ac12a4b3a3fe36d576d0fb08f635",
+      "size": 21079,
+      "mtimeMs": 1791790649428
+    },
+    "raw/sources/架构师阿Q/第 5 集｜负载均衡是什么？LVS的三种模式有什么区别？.md": {
+      "hash": "6045031a893cbb5eed54b7a2d4c38270",
+      "size": 16858,
+      "mtimeMs": 1791790758497
+    },
+    "raw/sources/标准数字化/00 先读我.md": {
+      "hash": "4edad7025a8c2468e3b367bd184311c7",
+      "size": 4697,
+      "mtimeMs": 1791784472635
+    },
+    "raw/sources/标准数字化/01 检索记录与来源说明.md": {
+      "hash": "18f8a8fcb104d4bb1d50b53a5456cd3e",
+      "size": 12097,
+      "mtimeMs": 1791784483723
+    },
+    "raw/sources/标准数字化/02 标准族总览与关系.md": {
+      "hash": "6588f0b07fd7b18d480be588ef7c06a4",
+      "size": 13781,
+      "mtimeMs": 1791782906842
+    },
+    "raw/sources/标准数字化/1 标准档案/10 GB-T-48000.1-2025 标准数字化 第1部分：通用指南.md": {
+      "hash": "4d6d83a06988a61e1dfe8343a235cf8a",
+      "size": 8550,
+      "mtimeMs": 1791779226786
+    },
+    "raw/sources/标准数字化/1 标准档案/11 GB-T-48000.2-2026 标准数字化 第2部分：参考架构模型.md": {
+      "hash": "784e1152497389104054b05f010ad4fb",
+      "size": 9152,
+      "mtimeMs": 1791784467564
+    },
+    "raw/sources/标准数字化/1 标准档案/12 GB-T-48000.3-2026 标准数字化 第3部分：本体建模要求.md": {
+      "hash": "49889d3085bc8ac103ec4a859f6a47b2",
+      "size": 8490,
+      "mtimeMs": 1791784467564
+    },
+    "raw/sources/标准数字化/1 标准档案/13 GB-T-48000.4-2026 标准数字化 第4部分：协同制定要求.md": {
+      "hash": "f409072cea58d46cb72dca0603f06183",
+      "size": 8017,
+      "mtimeMs": 1791784467564
+    },
+    "raw/sources/标准数字化/1 标准档案/14 GB-T-47012.1-2026 标准数字化平台 第1部分：系统架构.md": {
+      "hash": "855105f9552daca193c768651fbd03fd",
+      "size": 8903,
+      "mtimeMs": 1791784467564
+    },
+    "raw/sources/标准数字化/1 标准档案/15 GB-T-46917.1-2026 标准语义知识库 第1部分：标准内容语义化表达通用要求.md": {
+      "hash": "af4b3eff16406127c8c363b0c6314551",
+      "size": 7495,
+      "mtimeMs": 1791784467564
+    },
+    "raw/sources/标准数字化/1 标准档案/16 GB-T-46917.2-2026 标准语义知识库 第2部分：数据接口要求.md": {
+      "hash": "57d4b5f8257221f4d0a5217866a491c4",
+      "size": 7460,
+      "mtimeMs": 1791784467563
+    },
+    "raw/sources/标准数字化/1 标准档案/17 GB-T-46917.3-2026 标准语义知识库 第3部分：语义集成技术要求.md": {
+      "hash": "3e862cfcfd7aa53b5c87d5a2b5a71568",
+      "size": 6624,
+      "mtimeMs": 1791779226788
+    },
+    "raw/sources/标准数字化/1 标准档案/18 YC-Z-650-2026 烟草企业标准数字化指南.md": {
+      "hash": "15986be6ec8f3abd41c04d4d30198869",
+      "size": 2149,
+      "mtimeMs": 1791779226788
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/0 公开征求意见函（扫描件，无文本层）.pdf": {
+      "hash": "ec9f4d9b335329c17d45a5c58bae0dd7",
+      "size": 2039121,
+      "mtimeMs": 1791779226793
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/1 GB-T-48000.2-2026 参考架构模型/征求意见稿及编制说明.pdf": {
+      "hash": "5d0d2b077427c90bda32d8af7b5bb1b5",
+      "size": 2503997,
+      "mtimeMs": 1791779226794
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/1 GB-T-48000.2-2026 参考架构模型/标准正文（文本版）.md": {
+      "hash": "fa5d9bd3bb62aafea4aabf6680aa8fa3",
+      "size": 50094,
+      "mtimeMs": 1791784459546
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/1 GB-T-48000.2-2026 参考架构模型/编制说明（文本版）.md": {
+      "hash": "3e6b8c856e1248a8692118977ec4a4cc",
+      "size": 22585,
+      "mtimeMs": 1791784459546
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/2 GB-T-48000.3-2026 本体建模要求/征求意见稿及编制说明.pdf": {
+      "hash": "7e90c2647209e15388f015d02c8f89af",
+      "size": 2230628,
+      "mtimeMs": 1791779226798
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/2 GB-T-48000.3-2026 本体建模要求/标准正文（文本版）.md": {
+      "hash": "1460fd074c86f713554a4386569a89ae",
+      "size": 60514,
+      "mtimeMs": 1791784459547
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/2 GB-T-48000.3-2026 本体建模要求/编制说明（文本版）.md": {
+      "hash": "13442775a41a9745a8dcc888b0bfef54",
+      "size": 19239,
+      "mtimeMs": 1791784459547
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/3 GB-T-48000.4-2026 协同制定要求/征求意见稿及编制说明.pdf": {
+      "hash": "265f98eed4432f84b122ab67ce227487",
+      "size": 1121217,
+      "mtimeMs": 1791779226799
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/3 GB-T-48000.4-2026 协同制定要求/标准正文（文本版）.md": {
+      "hash": "7f87d0fa4ceda9ae28a82b7e5ec2270b",
+      "size": 29397,
+      "mtimeMs": 1791784459547
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/3 GB-T-48000.4-2026 协同制定要求/编制说明（文本版）.md": {
+      "hash": "612feaa794a156cd66196e0112118964",
+      "size": 14303,
+      "mtimeMs": 1791784459547
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/征求意见稿及编制说明.pdf": {
+      "hash": "d9285282dd022de4d0dae1a7a9de3af4",
+      "size": 1390458,
+      "mtimeMs": 1791779226806
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/标准正文（文本版）.md": {
+      "hash": "d1b574f51af500ea2faac8969948c34a",
+      "size": 48094,
+      "mtimeMs": 1791784459548
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/4 GB-T-47012.1-2026 系统架构/编制说明（文本版）.md": {
+      "hash": "5a8271bc40bbec8b2a497324a0d2c3dd",
+      "size": 33193,
+      "mtimeMs": 1791784459548
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/5 GB-T-46917.1-2026 语义化表达通用要求/征求意见稿及编制说明.pdf": {
+      "hash": "c737f8960a3f1a520d0e42679b40b2a2",
+      "size": 2596952,
+      "mtimeMs": 1791779226801
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/5 GB-T-46917.1-2026 语义化表达通用要求/标准正文（文本版）上-第1至7章.md": {
+      "hash": "8d6f42d1b63f99ba53de3e3c90c69895",
+      "size": 29293,
+      "mtimeMs": 1791784459549
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/5 GB-T-46917.1-2026 语义化表达通用要求/标准正文（文本版）下-第8至10章及附录.md": {
+      "hash": "c5fd3ae7852f2f2329e33bfd20c71249",
+      "size": 62620,
+      "mtimeMs": 1791784459549
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/5 GB-T-46917.1-2026 语义化表达通用要求/编制说明（文本版）.md": {
+      "hash": "acc907b7d8986473c393a850c5e3716b",
+      "size": 16753,
+      "mtimeMs": 1791784459549
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/6 GB-T-46917.2-2026 数据接口要求/征求意见稿及编制说明.pdf": {
+      "hash": "32f71703111202fba4037e80707e4980",
+      "size": 801934,
+      "mtimeMs": 1791779226803
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/6 GB-T-46917.2-2026 数据接口要求/标准正文（文本版）.md": {
+      "hash": "9adf397c5fc1f00514f7683e6042093a",
+      "size": 27559,
+      "mtimeMs": 1791784459549
+    },
+    "raw/sources/标准数字化/2 征求意见稿（草案全文）/6 GB-T-46917.2-2026 数据接口要求/编制说明（文本版）.md": {
+      "hash": "be6d68d050eac65c5758da4cdc81dcbb",
+      "size": 16018,
+      "mtimeMs": 1791784459549
+    },
+    "raw/sources/零点未来：AI+企业/第 1 集｜10分钟企业Agentic Workflow落地：Palantir & Ontology.md": {
+      "hash": "71e2f9673d889e3e5131e74b087c16f2",
+      "size": 17393,
+      "mtimeMs": 1791675191000
+    },
+    "raw/sources/零点未来：AI+企业/第 10 集｜6分钟 Agent落地故事：从员工中培养自己的 FDE.md": {
+      "hash": "69c78cb86dba72de74c4bf99ea8a6bc7",
+      "size": 17043,
+      "mtimeMs": 1791675884000
+    },
+    "raw/sources/零点未来：AI+企业/第 11 集｜10分钟企业上 AI，到底用 Function、Workflow，还是 Agent？.md": {
+      "hash": "83f5891437bc89c0f6a6571fb6e7f70d",
+      "size": 22610,
+      "mtimeMs": 1791675882000
+    },
+    "raw/sources/零点未来：AI+企业/第 12 集｜9分钟OpenAI这次卖的不只是模型.md": {
+      "hash": "c7feb4bc6ecc452ec4c40d18d7101971",
+      "size": 21334,
+      "mtimeMs": 1791675957000
+    },
+    "raw/sources/零点未来：AI+企业/第 2 集｜12分钟学习LLM驱动Ontology构建.md": {
+      "hash": "5b0462d466f906dc8bfc61fa60dac65f",
+      "size": 25029,
+      "mtimeMs": 1791675761000
+    },
+    "raw/sources/零点未来：AI+企业/第 3 集｜11分钟搞清楚2026年最火的岗位AI FDE.md": {
+      "hash": "ac380d58e880bde6c07cf749bc424463",
+      "size": 22935,
+      "mtimeMs": 1791675787000
+    },
+    "raw/sources/零点未来：AI+企业/第 4 集｜14分钟揭秘Palantir一堆文件如何变成Ontology.md": {
+      "hash": "4602806cadd6d42c20bc1dd4e2d9f7b2",
+      "size": 26015,
+      "mtimeMs": 1791675809000
+    },
+    "raw/sources/零点未来：AI+企业/第 5 集｜19分钟揭秘Palantir Agent和Ontology如何交互.md": {
+      "hash": "423dd667a3e6902b4bb75640336593d7",
+      "size": 33615,
+      "mtimeMs": 1791675840000
+    },
+    "raw/sources/零点未来：AI+企业/第 6 集｜6分钟聊聊本体Ontology和Agent那些事.md": {
+      "hash": "478fb0ab14c5d561087b161eb0d39d0c",
+      "size": 15451,
+      "mtimeMs": 1791675735000
+    },
+    "raw/sources/零点未来：AI+企业/第 7 集｜15分钟解读Palantir 本体设计原则和行业实践分享.md": {
+      "hash": "b7c370378bdef9ceabec16a5a8208718",
+      "size": 27843,
+      "mtimeMs": 1791675784000
+    },
+    "raw/sources/零点未来：AI+企业/第 8 集｜8分钟7种Agent系统设计模式拆解.md": {
+      "hash": "2b41b34cc92eed2ce2a6bba4e5ef6981",
+      "size": 18993,
+      "mtimeMs": 1791675793000
+    },
+    "raw/sources/零点未来：AI+企业/第 9 集｜ontology, knowledge graph, context graph, code graph&graph engineering一次性搞懂.md": {
+      "hash": "dd059c281aca213e25899b07f82e4332",
+      "size": 24039,
+      "mtimeMs": 1791675846000
+    },
+    "schema.md": {
+      "hash": "b749b08d954ec80b692a6c4afbbe97fd",
+      "size": 3335,
+      "mtimeMs": 1791679867414
+    },
+    "wiki/comparisons/mapreduce-spark-flink-批处理与流式计算对比.md": {
+      "hash": "cf10e4b9ce5adfbfa109d36e80c007ff",
+      "size": 2942,
+      "mtimeMs": 1791791379790
+    },
+    "wiki/comparisons/三条演进线对照-互联网-企业应用-数据.md": {
+      "hash": "66f2b67155a30905aa7ab1c13a8aef75",
+      "size": 2839,
+      "mtimeMs": 1791791528811
+    },
+    "wiki/comparisons/单agent与多agent选型比较.md": {
+      "hash": "5bed06af37e34dfda506798a916d088c",
+      "size": 2510,
+      "mtimeMs": 1791725393688
+    },
+    "wiki/comparisons/工具调用-mcp-sub-agents-skills-任务组织比较.md": {
+      "hash": "1b7b90fa4265b1f4d4bbf671251f956b",
+      "size": 3043,
+      "mtimeMs": 1791686771238
+    },
+    "wiki/comparisons/标准本体建模要求与palantir-ontology比较.md": {
+      "hash": "81c81666e7fd09908426e3a8dbda96dd",
+      "size": 2622,
+      "mtimeMs": 1791782863028
+    },
+    "wiki/comparisons/自建agent运行时与平台托管运行时.md": {
+      "hash": "1f053fc6e4b35a12f521a8fb6c0c1428",
+      "size": 2400,
+      "mtimeMs": 1791725601318
+    },
+    "wiki/comparisons/面向制品与面向角色的拆解比较.md": {
+      "hash": "c6d6738fbbaf2a808042e1ff4d0586d4",
+      "size": 2528,
+      "mtimeMs": 1791725676950
+    },
+    "wiki/concepts/action-pipeline-automation-function工具分工.md": {
+      "hash": "c9f4a23c02eeb44e36b9cecb35e33cac",
+      "size": 2669,
+      "mtimeMs": 1791725333778
+    },
+    "wiki/concepts/action分级与确认机制.md": {
+      "hash": "8edd0f40f5f0a2818b88c8990f60357a",
+      "size": 3083,
+      "mtimeMs": 1791725240743
+    },
+    "wiki/concepts/agent-api与模型-api的分界.md": {
+      "hash": "7a35854a510d01c9493aa3cf68904977",
+      "size": 2419,
+      "mtimeMs": 1791725601310
+    },
+    "wiki/concepts/agent-framework下沉.md": {
+      "hash": "11d22513172c06e16d36337d7611d126",
+      "size": 2053,
+      "mtimeMs": 1791725601317
+    },
+    "wiki/concepts/agent-os.md": {
+      "hash": "3a1b2d7cfcea17a392ee8fca1ff31e11",
+      "size": 3526,
+      "mtimeMs": 1791725279203
+    },
+    "wiki/concepts/agent-反馈闭环与自我进化.md": {
+      "hash": "031fd337eac47415bc1d9dd09ccb60c1",
+      "size": 2346,
+      "mtimeMs": 1791725491442
+    },
+    "wiki/concepts/agent与ontology五层交互架构.md": {
+      "hash": "6a5cd3f55bc5a6e034f4de84af219365",
+      "size": 4556,
+      "mtimeMs": 1791725240739
+    },
+    "wiki/concepts/agent中断条件与检查点.md": {
+      "hash": "5ef3d749690190484e33aa4700c9fc4a",
+      "size": 3614,
+      "mtimeMs": 1791725013478
+    },
+    "wiki/concepts/agent可解释性不可信与可审计三元组.md": {
+      "hash": "35241fd13df38ca6307d34cc66f0682d",
+      "size": 2405,
+      "mtimeMs": 1791725547427
+    },
+    "wiki/concepts/agent选型三原则与anthropic三条铁律.md": {
+      "hash": "c1f3c9d2e3103f9a1e4216f206227ec4",
+      "size": 2810,
+      "mtimeMs": 1791725393687
+    },
+    "wiki/concepts/agent验收指标清单.md": {
+      "hash": "3dfa89d210dd46a6ba2b3f4f2543aea4",
+      "size": 2242,
+      "mtimeMs": 1791725547427
+    },
+    "wiki/concepts/code-first升级阶梯与l0-l4成熟度模型.md": {
+      "hash": "e1a15706a179c3b26cb6277b71b8d43b",
+      "size": 3371,
+      "mtimeMs": 1791725547426
+    },
+    "wiki/concepts/dns负载均衡.md": {
+      "hash": "a962091e18dba8c29bd6a033cef7464b",
+      "size": 2929,
+      "mtimeMs": 1791791470465
+    },
+    "wiki/concepts/etl.md": {
+      "hash": "7ba99e5cdf8cf5056903d2ea825c94d7",
+      "size": 2738,
+      "mtimeMs": 1791791379781
+    },
+    "wiki/concepts/fde交付方法.md": {
+      "hash": "25eba6c0699ee30e17b0930162429e29",
+      "size": 10374,
+      "mtimeMs": 1791718623954
+    },
+    "wiki/concepts/fde四项能力框架.md": {
+      "hash": "6d304e494c96d435eb29cae0eed1b141",
+      "size": 2672,
+      "mtimeMs": 1791725768411
+    },
+    "wiki/concepts/fde完整工作闭环.md": {
+      "hash": "4d8c5b8c7ef3381e09412bbc48ba859f",
+      "size": 2486,
+      "mtimeMs": 1791725768412
+    },
+    "wiki/concepts/fde适用三条件.md": {
+      "hash": "86151383dcf2b7db1b7d11a66891ef77",
+      "size": 2534,
+      "mtimeMs": 1791725116797
+    },
+    "wiki/concepts/function-workflow-agent三分法与组合.md": {
+      "hash": "7371d73cc85d301456c3ee1aa65eb84b",
+      "size": 3086,
+      "mtimeMs": 1791725547424
+    },
+    "wiki/concepts/harness与sandbox解耦.md": {
+      "hash": "585bb0da15d441c6e627c0f68a1541a5",
+      "size": 2864,
+      "mtimeMs": 1791725601316
+    },
+    "wiki/concepts/llm建本体的四道坎.md": {
+      "hash": "d3b472f79c98a062b4985397faf97233",
+      "size": 2570,
+      "mtimeMs": 1791725055485
+    },
+    "wiki/concepts/llm驱动本体构建五种流派.md": {
+      "hash": "4233b9842570d652814a619c4f3d471c",
+      "size": 4458,
+      "mtimeMs": 1791725055483
+    },
+    "wiki/concepts/lvs-dr模式.md": {
+      "hash": "af059fbf557b738599927c10d7900c36",
+      "size": 3050,
+      "mtimeMs": 1791791470467
+    },
+    "wiki/concepts/lvs-nat模式.md": {
+      "hash": "88e89da2c2eec0a4051c9e3c8e508d55",
+      "size": 2659,
+      "mtimeMs": 1791791470467
+    },
+    "wiki/concepts/lvs-tun模式.md": {
+      "hash": "2a9ef5b0eddf48548a3eb0038755df1e",
+      "size": 2623,
+      "mtimeMs": 1791791470468
+    },
+    "wiki/concepts/ontology-是操作层还是知识图谱.md": {
+      "hash": "946e2e061fb56af464b2c31fd7162e73",
+      "size": 529,
+      "mtimeMs": 1791789646956
+    },
+    "wiki/concepts/ontology与数据库schema的三点差异.md": {
+      "hash": "2ee33bea5e7279ac5c35311367dc31bb",
+      "size": 2241,
+      "mtimeMs": 1791725176424
+    },
+    "wiki/concepts/owl-rdf语义建模.md": {
+      "hash": "fd2600466d6dfa3a2c79876691bb9849",
+      "size": 2372,
+      "mtimeMs": 1791784742563
+    },
+    "wiki/concepts/programmatic-tool-calling.md": {
+      "hash": "1e2caa0f1af6fa4c373446b7ff85022f",
+      "size": 1932,
+      "mtimeMs": 1791725601315
+    },
+    "wiki/concepts/rag三种实现路径.md": {
+      "hash": "d8f2a20ab3fa5d90ca43fbc9e403dd5d",
+      "size": 3145,
+      "mtimeMs": 1791724867506
+    },
+    "wiki/concepts/rto与rpo.md": {
+      "hash": "e742de0dea443a8a94fed993b1a13b2d",
+      "size": 2256,
+      "mtimeMs": 1791791205938
+    },
+    "wiki/concepts/smart标准概念模型.md": {
+      "hash": "4a826d4e46dfff4c61135b430c8f4bd4",
+      "size": 2237,
+      "mtimeMs": 1791784742564
+    },
+    "wiki/concepts/token经济与ai-agent成本结构.md": {
+      "hash": "72c74a920ff614cecc6dfaab08600ec5",
+      "size": 2659,
+      "mtimeMs": 1791725116796
+    },
+    "wiki/concepts/tool-search与工具目录治理.md": {
+      "hash": "11546f11ee8abfa7e8da768715d0bb24",
+      "size": 2404,
+      "mtimeMs": 1791725601314
+    },
+    "wiki/concepts/workflow-定义可能与既有页面冲突.md": {
+      "hash": "5dad9675138459b7dd2164d0e84a3c98",
+      "size": 510,
+      "mtimeMs": 1791790332002
+    },
+    "wiki/concepts/workflow与agent的分界.md": {
+      "hash": "09ef96afeeb7505c231ae1f257a549ba",
+      "size": 3279,
+      "mtimeMs": 1791725393683
+    },
+    "wiki/concepts/一号位工程.md": {
+      "hash": "57dde9a654740e338f353ec1a21ad464",
+      "size": 2570,
+      "mtimeMs": 1791725279205
+    },
+    "wiki/concepts/三元组语义结构.md": {
+      "hash": "379a15df4eca4baf8b9986f41320ead3",
+      "size": 2201,
+      "mtimeMs": 1791782867982
+    },
+    "wiki/concepts/三条架构思维.md": {
+      "hash": "facab213b2c7a2c92f3950e84ee494ba",
+      "size": 2719,
+      "mtimeMs": 1791790956026
+    },
+    "wiki/concepts/三条清洗路径.md": {
+      "hash": "c57f04bc8d3da31c3766ebd1c4089a09",
+      "size": 2395,
+      "mtimeMs": 1791725176420
+    },
+    "wiki/concepts/三次法则与概念去重.md": {
+      "hash": "550b7c449e06adad5a979643c83214b0",
+      "size": 2332,
+      "mtimeMs": 1791725333780
+    },
+    "wiki/concepts/三段式本体建模节奏.md": {
+      "hash": "9e3eadb46f50c16bca7859fe08abf219",
+      "size": 3818,
+      "mtimeMs": 1791724772925
+    },
+    "wiki/concepts/上下文压缩.md": {
+      "hash": "2250b1bd2b26822c229e530c20c3b301",
+      "size": 2212,
+      "mtimeMs": 1791725601313
+    },
+    "wiki/concepts/上下文图谱-context-graph.md": {
+      "hash": "e3bedfc517a0a4385e5c57924c1cd28e",
+      "size": 4437,
+      "mtimeMs": 1791725443683
+    },
+    "wiki/concepts/专用语义化表达单元.md": {
+      "hash": "f977a5e0e2675cf75167440e1b87a275",
+      "size": 4411,
+      "mtimeMs": 1791785066798
+    },
+    "wiki/concepts/业务中台与数据中台.md": {
+      "hash": "2bc2e9ae0414db4e3fdd6f2e10a04543",
+      "size": 2316,
+      "mtimeMs": 1791791270394
+    },
+    "wiki/concepts/业务验收指标口径.md": {
+      "hash": "f4ac4263c899d425d0b209026625c361",
+      "size": 2660,
+      "mtimeMs": 1791725013479
+    },
+    "wiki/concepts/两种起步模板-事件触发与定时运行.md": {
+      "hash": "ee102c4a19e1b2653a98a3af0b322e0e",
+      "size": 2169,
+      "mtimeMs": 1791725491441
+    },
+    "wiki/concepts/个人提效级与业务域级-agent.md": {
+      "hash": "df411a78306070d640b87ad01dd0e18b",
+      "size": 2602,
+      "mtimeMs": 1791725279204
+    },
+    "wiki/concepts/主数据管理与esb集成.md": {
+      "hash": "a12d51fc0812404e1dcec41bdc6e7229",
+      "size": 2474,
+      "mtimeMs": 1791791270392
+    },
+    "wiki/concepts/主题宽表.md": {
+      "hash": "9f2929b49c57e5e77667d2500d3f012f",
+      "size": 2467,
+      "mtimeMs": 1791791379783
+    },
+    "wiki/concepts/互联网架构演进线.md": {
+      "hash": "6f2821581b0b1b25d5f2c98fa0e9eb93",
+      "size": 4033,
+      "mtimeMs": 1791790956025
+    },
+    "wiki/concepts/五个工作流设计模式.md": {
+      "hash": "09c3a20b0b6a0cdfd5a35ec17444dc48",
+      "size": 3896,
+      "mtimeMs": 1791725393683
+    },
+    "wiki/concepts/五图两类框架.md": {
+      "hash": "c1071e6659e9857bb59b62c14a0d5a58",
+      "size": 4851,
+      "mtimeMs": 1791725443686
+    },
+    "wiki/concepts/交易与分析分离.md": {
+      "hash": "b5426e5df44ce90399a7ebd366e32001",
+      "size": 3092,
+      "mtimeMs": 1791791379780
+    },
+    "wiki/concepts/从业务员工中培养自己的-fde.md": {
+      "hash": "a952cf93a1748054b8567a4b772030d3",
+      "size": 3189,
+      "mtimeMs": 1791725491440
+    },
+    "wiki/concepts/代码图谱-code-graph.md": {
+      "hash": "b6b86970e18bdeef5bce23f7dd5b870f",
+      "size": 2592,
+      "mtimeMs": 1791725443684
+    },
+    "wiki/concepts/任务调度.md": {
+      "hash": "572797cbd09278bb8d9963d7fd152620",
+      "size": 2153,
+      "mtimeMs": 1791791379785
+    },
+    "wiki/concepts/企业-ai的data-logic-action三层模型.md": {
+      "hash": "52ef5c73767e78b32bb53650ed016d71",
+      "size": 2729,
+      "mtimeMs": 1791710746480
+    },
+    "wiki/concepts/企业应用架构六阶段演进线.md": {
+      "hash": "88e9ba81ca36394d199635ca5b99021b",
+      "size": 3570,
+      "mtimeMs": 1791791270390
+    },
+    "wiki/concepts/企业级检索服务部署要求.md": {
+      "hash": "a32d88eecff957210fde7f7a3c3ec253",
+      "size": 3403,
+      "mtimeMs": 1791686974962
+    },
+    "wiki/concepts/信息孤岛是组织孤岛的投影.md": {
+      "hash": "16e3fe9ca36d050269bf4d56e22ffc44",
+      "size": 2591,
+      "mtimeMs": 1791791270391
+    },
+    "wiki/concepts/六大基础服务平台.md": {
+      "hash": "c0c272bb47f990bda23f743a4d8c6e9d",
+      "size": 2861,
+      "mtimeMs": 1791791270393
+    },
+    "wiki/concepts/写冲突与时钟不可靠.md": {
+      "hash": "5a44414ac550d41522ee75e7dc1d7d4f",
+      "size": 2030,
+      "mtimeMs": 1791791205941
+    },
+    "wiki/concepts/写回能力.md": {
+      "hash": "2258a0f1d6779585c08400384d8188ee",
+      "size": 2227,
+      "mtimeMs": 1791791154794
+    },
+    "wiki/concepts/出版方转录.md": {
+      "hash": "3fcfeda1f0d22c147bad4e78c68544ab",
+      "size": 2649,
+      "mtimeMs": 1791786868532
+    },
+    "wiki/concepts/判断计算执行三分法.md": {
+      "hash": "7ee9a624fccb1fdfbac1cb707c8f436f",
+      "size": 1715,
+      "mtimeMs": 1791725601315
+    },
+    "wiki/concepts/制品即说明书.md": {
+      "hash": "a08e04d734f446f7f033fcaf4f98fe9d",
+      "size": 1859,
+      "mtimeMs": 1791725676949
+    },
+    "wiki/concepts/功能级权限与数据级权限.md": {
+      "hash": "c83dd545a7ebb5ff5f966ab986930479",
+      "size": 2453,
+      "mtimeMs": 1791782867986
+    },
+    "wiki/concepts/动态调度与静态规划.md": {
+      "hash": "2b803eefdeed1ef771526df72e105834",
+      "size": 1859,
+      "mtimeMs": 1791791154793
+    },
+    "wiki/concepts/协作协议优先于编程能力.md": {
+      "hash": "ccc6f2e80c04f175a20f1be622591d1a",
+      "size": 2086,
+      "mtimeMs": 1791725491443
+    },
+    "wiki/concepts/协同制定过程九阶段.md": {
+      "hash": "4bb01e6b2c55c6face6c3799c21d646e",
+      "size": 4355,
+      "mtimeMs": 1791784820588
+    },
+    "wiki/concepts/协调性易用性实用性编制原则.md": {
+      "hash": "2e62f02cadaec7768167b42c8f31c101",
+      "size": 2251,
+      "mtimeMs": 1791785489713
+    },
+    "wiki/concepts/单agent循环与两个敌人.md": {
+      "hash": "11a0f83bfbf0661cff1baf7fece4a6bf",
+      "size": 2663,
+      "mtimeMs": 1791725393684
+    },
+    "wiki/concepts/只读世界.md": {
+      "hash": "904605866bbe6a393919590bf59004e6",
+      "size": 2275,
+      "mtimeMs": 1791791154788
+    },
+    "wiki/concepts/可形式化验证.md": {
+      "hash": "c772253e5a99c9ee24ea352e6907b9d1",
+      "size": 2714,
+      "mtimeMs": 1791725676945
+    },
+    "wiki/concepts/名词动词框架.md": {
+      "hash": "a1a679a8a8d5cad8d25f2e899bbbae05",
+      "size": 2747,
+      "mtimeMs": 1791791154790
+    },
+    "wiki/concepts/向量检索与图扩展.md": {
+      "hash": "a5785a2956f65caca47053397b2051ad",
+      "size": 1966,
+      "mtimeMs": 1791685982038
+    },
+    "wiki/concepts/四层与七层负载均衡.md": {
+      "hash": "74720dd732a883d3002445653009f32e",
+      "size": 2585,
+      "mtimeMs": 1791791470466
+    },
+    "wiki/concepts/图谱健康度检测-黑洞孤岛循环依赖.md": {
+      "hash": "e7591f9c604a4de99e8fda16ae53c42a",
+      "size": 2033,
+      "mtimeMs": 1791725676948
+    },
+    "wiki/concepts/图谱工程-graph-engineering.md": {
+      "hash": "8084a161991eb2226382759713f656c4",
+      "size": 3295,
+      "mtimeMs": 1791725443685
+    },
+    "wiki/concepts/图遍历与bfs扩展.md": {
+      "hash": "9a4a4f0a420eda448e813b3f9ae60e55",
+      "size": 1983,
+      "mtimeMs": 1791685982038
+    },
+    "wiki/concepts/土路与柏油高速路.md": {
+      "hash": "6941effa66e2b4107af3aa88a719af61",
+      "size": 2904,
+      "mtimeMs": 1791725116795
+    },
+    "wiki/concepts/场景数量乘单点专家的瓶颈.md": {
+      "hash": "9301375a3e62e7601a8af7e0b4abd51a",
+      "size": 2268,
+      "mtimeMs": 1791725491444
+    },
+    "wiki/concepts/基础接口与高级接口.md": {
+      "hash": "7a034234c32fe991a27f77c00143b351",
+      "size": 3083,
+      "mtimeMs": 1791785436840
+    },
+    "wiki/concepts/增量更新三层与两个坑.md": {
+      "hash": "ed97635a415014755575fb8cc62fd0a5",
+      "size": 2492,
+      "mtimeMs": 1791725176422
+    },
+    "wiki/concepts/多agent两种架构-经理模式与交接制.md": {
+      "hash": "f66a316534a957c25247aeef9d9bd402",
+      "size": 2682,
+      "mtimeMs": 1791725393686
+    },
+    "wiki/concepts/存算管用四格框架.md": {
+      "hash": "c35e61e062381667825eb3710e20804f",
+      "size": 3468,
+      "mtimeMs": 1791791379779
+    },
+    "wiki/concepts/实体三分类业务过程结果.md": {
+      "hash": "8ec429311b5f944d3c46e1f8073d3e97",
+      "size": 2112,
+      "mtimeMs": 1791725333779
+    },
+    "wiki/concepts/实体类型定义方式.md": {
+      "hash": "69f0d7fa852edb437da7f82f507b135e",
+      "size": 2967,
+      "mtimeMs": 1791784694903
+    },
+    "wiki/concepts/容灾等级演进线.md": {
+      "hash": "015702aa9b8c4ac3f7665d38bfb5f919",
+      "size": 3281,
+      "mtimeMs": 1791791205939
+    },
+    "wiki/concepts/宽表拆分规则.md": {
+      "hash": "960bf0b708a774330a4ad517aaf4b07b",
+      "size": 2713,
+      "mtimeMs": 1791725176423
+    },
+    "wiki/concepts/属性定义方式.md": {
+      "hash": "457db47d4b14aa4a69c97476e0f1b444",
+      "size": 3051,
+      "mtimeMs": 1791784694904
+    },
+    "wiki/concepts/岗位评价标准迁移.md": {
+      "hash": "0474c481537d5b1a5f669efd77728311",
+      "size": 2239,
+      "mtimeMs": 1791725768413
+    },
+    "wiki/concepts/工作流与人工介入.md": {
+      "hash": "e6ba379b104202f0589c4ff16fff7d9c",
+      "size": 4247,
+      "mtimeMs": 1791716820991
+    },
+    "wiki/concepts/工具调用.md": {
+      "hash": "caa7de93e732ce6a49e54c1fa08e1a88",
+      "size": 3480,
+      "mtimeMs": 1791716802064
+    },
+    "wiki/concepts/工程建设标准内容语义化表达模型.md": {
+      "hash": "6d41571d2d3ae53e652c9d465b5f9e52",
+      "size": 6494,
+      "mtimeMs": 1791785220593
+    },
+    "wiki/concepts/干净表到本体的映射.md": {
+      "hash": "d3fda3e58c68b4579e65c93fbcac2c1a",
+      "size": 2295,
+      "mtimeMs": 1791725176421
+    },
+    "wiki/concepts/平台保障架构.md": {
+      "hash": "c8df7c8b86902da6b7100b97b2e86dd2",
+      "size": 4147,
+      "mtimeMs": 1791782862592
+    },
+    "wiki/concepts/平台实施架构与部署方式.md": {
+      "hash": "1c0d263dcf77ad1b1a00aeaca41350ae",
+      "size": 4551,
+      "mtimeMs": 1791782867989
+    },
+    "wiki/concepts/应用层级五层.md": {
+      "hash": "cf23d2d9598eabc5e3dc4f3719c43d0f",
+      "size": 4783,
+      "mtimeMs": 1791784547708
+    },
+    "wiki/concepts/应用数字化.md": {
+      "hash": "51894951fbba47b4e3fbc2ab6d622a95",
+      "size": 2010,
+      "mtimeMs": 1791782867989
+    },
+    "wiki/concepts/强制力四层排序.md": {
+      "hash": "e836705df451b57ca5d6cba82f95d618",
+      "size": 2939,
+      "mtimeMs": 1791725676946
+    },
+    "wiki/concepts/归口组织转化.md": {
+      "hash": "b15aa8baba165695260106d52594ac20",
+      "size": 3901,
+      "mtimeMs": 1791782885361
+    },
+    "wiki/concepts/成功率连乘与单步确定性.md": {
+      "hash": "76a4adf8c9ffec913cebe053d78f679c",
+      "size": 2168,
+      "mtimeMs": 1791725676946
+    },
+    "wiki/concepts/把-agent-当软件管理.md": {
+      "hash": "6a17c16cdb94702ad42fa8d85c4b8ff8",
+      "size": 2534,
+      "mtimeMs": 1791725491441
+    },
+    "wiki/concepts/拓扑子图作为检索单元.md": {
+      "hash": "20db29eb1519d06381b6c052e74767c2",
+      "size": 2500,
+      "mtimeMs": 1791725676948
+    },
+    "wiki/concepts/接口管理要求.md": {
+      "hash": "2d39947916fc87b931f36daa0dad70e2",
+      "size": 3546,
+      "mtimeMs": 1791785436842
+    },
+    "wiki/concepts/接口返回状态码.md": {
+      "hash": "6543b1dadc60421bde0d86fcdcc7def5",
+      "size": 2997,
+      "mtimeMs": 1791782867991
+    },
+    "wiki/concepts/控制权边界.md": {
+      "hash": "2c0639e67d045d4daa22253d3fa057b1",
+      "size": 2195,
+      "mtimeMs": 1791791470468
+    },
+    "wiki/concepts/控制面与数据面分离.md": {
+      "hash": "6118853236b3abd6acc80a47e0ba0977",
+      "size": 2270,
+      "mtimeMs": 1791791470469
+    },
+    "wiki/concepts/数字标准.md": {
+      "hash": "731fba857ea3e9b3a16fb46647fb340e",
+      "size": 3464,
+      "mtimeMs": 1791782867992
+    },
+    "wiki/concepts/数据-信息-知识-判断四层框架.md": {
+      "hash": "9a27c7553aa8650ace4de035ae632981",
+      "size": 2345,
+      "mtimeMs": 1791725676945
+    },
+    "wiki/concepts/数据中台资产化与服务化.md": {
+      "hash": "b5ffb1ccda22a95107bb9ace0fc72127",
+      "size": 3430,
+      "mtimeMs": 1791791379784
+    },
+    "wiki/concepts/数据仓库.md": {
+      "hash": "7746e38f364821b22582ef098c9e1104",
+      "size": 2695,
+      "mtimeMs": 1791791379782
+    },
+    "wiki/concepts/数据协同要求.md": {
+      "hash": "aeaf36dc63d3230ffa077dbcffb07ffb",
+      "size": 4362,
+      "mtimeMs": 1791784820591
+    },
+    "wiki/concepts/数据属性与关系属性.md": {
+      "hash": "d084e7bb3a8aee580ba443b2a94a22eb",
+      "size": 3624,
+      "mtimeMs": 1791784694904
+    },
+    "wiki/concepts/数据库分类-按范围与用途.md": {
+      "hash": "b8f5012ca0440d6f8f17f608d050cacb",
+      "size": 3534,
+      "mtimeMs": 1791782867992
+    },
+    "wiki/concepts/数据接口建设与应用原则.md": {
+      "hash": "f5a762a2207b19239bdb7717eadd4001",
+      "size": 1886,
+      "mtimeMs": 1791785489713
+    },
+    "wiki/concepts/数据治理.md": {
+      "hash": "ebb453fdaf441729ba1f44a490ca27f9",
+      "size": 2439,
+      "mtimeMs": 1791791379785
+    },
+    "wiki/concepts/数据湖与数据沼泽.md": {
+      "hash": "0a82d821501f49e3a3533bd14d4a1f95",
+      "size": 3627,
+      "mtimeMs": 1791791379783
+    },
+    "wiki/concepts/数据移动成本视角.md": {
+      "hash": "3be19760e8ffbdaec9eaec0e0e64e154",
+      "size": 2598,
+      "mtimeMs": 1791791379786
+    },
+    "wiki/concepts/数据装配线.md": {
+      "hash": "ce46a8612e17cbded33411b0c6809e23",
+      "size": 1982,
+      "mtimeMs": 1791791154785
+    },
+    "wiki/concepts/文件到本体的五阶段链路.md": {
+      "hash": "fd7e55811159ac8ae34046ae844063d6",
+      "size": 2597,
+      "mtimeMs": 1791725176419
+    },
+    "wiki/concepts/文件格式与业务模型分离.md": {
+      "hash": "fe907cbaeb7148c41d9b61ec60cb498a",
+      "size": 2811,
+      "mtimeMs": 1791724772926
+    },
+    "wiki/concepts/最小闭环与组织治理基础.md": {
+      "hash": "3d33cbb41d7e63727feba62680b394da",
+      "size": 3381,
+      "mtimeMs": 1791725547426
+    },
+    "wiki/concepts/本体schema与实例事实.md": {
+      "hash": "a80e47ee0b0917dd031a3e478a35d21d",
+      "size": 2835,
+      "mtimeMs": 1791721214453
+    },
+    "wiki/concepts/本体三要素对象属性关系.md": {
+      "hash": "2765a571f0e76b8f183a9263e3033689",
+      "size": 3460,
+      "mtimeMs": 1791725820324
+    },
+    "wiki/concepts/本体与agent协同.md": {
+      "hash": "89435b29b2362f4cee8163b99d70cf31",
+      "size": 9551,
+      "mtimeMs": 1791724943026
+    },
+    "wiki/concepts/本体作为约束层.md": {
+      "hash": "965f6174aeae050cb60e8eec834c698b",
+      "size": 3160,
+      "mtimeMs": 1791724867505
+    },
+    "wiki/concepts/本体公理.md": {
+      "hash": "ec1c9af996606c95cbfbf9a2dc7c6a29",
+      "size": 2448,
+      "mtimeMs": 1791782867994
+    },
+    "wiki/concepts/本体四个结构设计模式.md": {
+      "hash": "9971e3282b6f569c2fef558b398f4c13",
+      "size": 3509,
+      "mtimeMs": 1791725333776
+    },
+    "wiki/concepts/本体建模业务定义数据映射与关系校验.md": {
+      "hash": "b75a225e2d755fbee3a7d1807d99c9a7",
+      "size": 6712,
+      "mtimeMs": 1791720704473
+    },
+    "wiki/concepts/本体扩展原则.md": {
+      "hash": "1c2c3325034f651747b2ebfe38fc4ad2",
+      "size": 2418,
+      "mtimeMs": 1791784694906
+    },
+    "wiki/concepts/本体构建选型双轴.md": {
+      "hash": "f68fe09fadbd287118f91f5a3d37985b",
+      "size": 2225,
+      "mtimeMs": 1791725055486
+    },
+    "wiki/concepts/本体校验与持续演化.md": {
+      "hash": "4cc91d69bafaa0cfaba3616454f0ac41",
+      "size": 5396,
+      "mtimeMs": 1791720704474
+    },
+    "wiki/concepts/本体检索策略选型.md": {
+      "hash": "81edbcf3e97d2035db6c3883bdc5121e",
+      "size": 3311,
+      "mtimeMs": 1791724818473
+    },
+    "wiki/concepts/本体约束的分层与生效时机.md": {
+      "hash": "752dc50ec8d953ab5748a01aff5f5a0b",
+      "size": 3120,
+      "mtimeMs": 1791721214454
+    },
+    "wiki/concepts/本体给事实-rag给依据.md": {
+      "hash": "ba39f3516232cdac52323076bb279fa6",
+      "size": 2920,
+      "mtimeMs": 1791724867504
+    },
+    "wiki/concepts/本体设计四类反模式.md": {
+      "hash": "138610cd6004a2217b73a025ee62f879",
+      "size": 3620,
+      "mtimeMs": 1791725333777
+    },
+    "wiki/concepts/本体设计四项核心原则.md": {
+      "hash": "e0917cbed56c0defb48e0ea0fcb0c6db",
+      "size": 5053,
+      "mtimeMs": 1791725333775
+    },
+    "wiki/concepts/条款内关系挖掘.md": {
+      "hash": "ac2b9cf730de6ec985411ea8004f7cd2",
+      "size": 2608,
+      "mtimeMs": 1791782867997
+    },
+    "wiki/concepts/来源溯源.md": {
+      "hash": "f5c30267667a12129b55acaa9b212f4b",
+      "size": 6558,
+      "mtimeMs": 1791724896069
+    },
+    "wiki/concepts/标准信息单元.md": {
+      "hash": "131ed8d11f08e43956d2262866e649d9",
+      "size": 1849,
+      "mtimeMs": 1791784547709
+    },
+    "wiki/concepts/标准信息模型.md": {
+      "hash": "6005f49af5fe8424055740f028b11d57",
+      "size": 1919,
+      "mtimeMs": 1791784547709
+    },
+    "wiki/concepts/标准内容专用语义化表达单元.md": {
+      "hash": "6c385731c5a1394089034321e6431522",
+      "size": 5722,
+      "mtimeMs": 1791785214371
+    },
+    "wiki/concepts/标准内容数字化.md": {
+      "hash": "109df0d3a6366a630403ed111cd703f4",
+      "size": 2074,
+      "mtimeMs": 1791782867998
+    },
+    "wiki/concepts/标准内容语义化概念可能重叠.md": {
+      "hash": "80a4458193b6b5db30f521a7de4a6a7b",
+      "size": 401,
+      "mtimeMs": 1791790437781
+    },
+    "wiki/concepts/标准内容语义化表达.md": {
+      "hash": "b2a81085c731fd2ca0a613e522ad316f",
+      "size": 2293,
+      "mtimeMs": 1791786628203
+    },
+    "wiki/concepts/标准内容语义化表达总体原则.md": {
+      "hash": "a3834f41b8abfcf8531da167b77cabb8",
+      "size": 2393,
+      "mtimeMs": 1791785066800
+    },
+    "wiki/concepts/标准内容通用语义化表达单元.md": {
+      "hash": "2bd02ee4d1003eb39ffc0cedc77f4400",
+      "size": 9014,
+      "mtimeMs": 1791785214370
+    },
+    "wiki/concepts/标准化项目管理五化.md": {
+      "hash": "ea5104b450e39e45be91bdbe9a761b18",
+      "size": 2476,
+      "mtimeMs": 1791784926000
+    },
+    "wiki/concepts/标准库知识库数据库构成.md": {
+      "hash": "f0c73a322f676b705201c8e1e598eb35",
+      "size": 4731,
+      "mtimeMs": 1791784926000
+    },
+    "wiki/concepts/标准数字化业务管理六项能力.md": {
+      "hash": "f7015e096dce118ed34fc348f5d120b1",
+      "size": 3689,
+      "mtimeMs": 1791784925999
+    },
+    "wiki/concepts/标准数字化参考架构模型.md": {
+      "hash": "9d8f8c9aeaf845b9dff60a5681dbd9f6",
+      "size": 5912,
+      "mtimeMs": 1791785912804
+    },
+    "wiki/concepts/标准数字化平台业务架构三业务关系.md": {
+      "hash": "68a41a942a5578823f79091ded2e1abe",
+      "size": 4441,
+      "mtimeMs": 1791782867999
+    },
+    "wiki/concepts/标准数字化平台十一项功能要求.md": {
+      "hash": "7853399a96b8d0637d0d2da37e119e07",
+      "size": 3398,
+      "mtimeMs": 1791782867999
+    },
+    "wiki/concepts/标准数字化平台四层系统架构.md": {
+      "hash": "9884c2f915fa73a0be1a7114bc206e31",
+      "size": 2498,
+      "mtimeMs": 1791784460777
+    },
+    "wiki/concepts/标准数字化平台总体原则.md": {
+      "hash": "6cecd972159f6bf8769f5a9f5f6d7eca",
+      "size": 4387,
+      "mtimeMs": 1791784460624
+    },
+    "wiki/concepts/标准数字化平台资源架构.md": {
+      "hash": "951bcae6494e96bd7a2c3af5b07d79ce",
+      "size": 2151,
+      "mtimeMs": 1791786379248
+    },
+    "wiki/concepts/标准本体.md": {
+      "hash": "c17cbc26d111f9a5924aef2ce1efeadf",
+      "size": 4377,
+      "mtimeMs": 1791784694902
+    },
+    "wiki/concepts/标准本体关系类型体系.md": {
+      "hash": "859a84d417937cced04ebe49a404a3c1",
+      "size": 4851,
+      "mtimeMs": 1791784694905
+    },
+    "wiki/concepts/标准本体建模要求.md": {
+      "hash": "a9242c294df241d92b5e340823897b3b",
+      "size": 3509,
+      "mtimeMs": 1791786294853
+    },
+    "wiki/concepts/标准档案与标准正文的区分.md": {
+      "hash": "302fa00dc0b278fb9fe5bda22698d843",
+      "size": 3931,
+      "mtimeMs": 1791786831256
+    },
+    "wiki/concepts/标准检索证据分层.md": {
+      "hash": "59f99b08e9b3be0076239d6cfe2c5eac",
+      "size": 4452,
+      "mtimeMs": 1791783983250
+    },
+    "wiki/concepts/标准正文获取三态.md": {
+      "hash": "53080581f4fb0d033d012610dd6c44de",
+      "size": 6348,
+      "mtimeMs": 1791787175444
+    },
+    "wiki/concepts/标准生命周期九阶段.md": {
+      "hash": "542a1e614dcc887c81dbaf6274ebdee9",
+      "size": 2428,
+      "mtimeMs": 1791784926001
+    },
+    "wiki/concepts/标准语义知识库数据接口总体框架.md": {
+      "hash": "7d499d359708b24d61f1a35bc96a946d",
+      "size": 2832,
+      "mtimeMs": 1791785436839
+    },
+    "wiki/concepts/标准需求捕获场景.md": {
+      "hash": "49cef9203fec60f3fdbae636fb2602a7",
+      "size": 2468,
+      "mtimeMs": 1791784547710
+    },
+    "wiki/concepts/模糊关键词命中与分词误命中.md": {
+      "hash": "f502b6e629fe57efed4d4d308d813483",
+      "size": 5712,
+      "mtimeMs": 1791786077524
+    },
+    "wiki/concepts/流程协同要求.md": {
+      "hash": "f37834716067788a1a7c5ad5fd70d979",
+      "size": 3898,
+      "mtimeMs": 1791784820593
+    },
+    "wiki/concepts/湖仓一体.md": {
+      "hash": "ed4c3f1d6c58a2e670fc03b0a3d1903d",
+      "size": 2906,
+      "mtimeMs": 1791791379784
+    },
+    "wiki/concepts/物理下限约束.md": {
+      "hash": "7a8ce1f528e65b39984d1da2e8e7437c",
+      "size": 2062,
+      "mtimeMs": 1791791205941
+    },
+    "wiki/concepts/瓶颈命名解法叙事模板.md": {
+      "hash": "ae24ea7089950cb0b12a0cc4037b3175",
+      "size": 2564,
+      "mtimeMs": 1791791528810
+    },
+    "wiki/concepts/生产级agent五件事.md": {
+      "hash": "077e4f9d3a710fe5e208d51a5f6d1d18",
+      "size": 2917,
+      "mtimeMs": 1791725393687
+    },
+    "wiki/concepts/生命周期四阶段.md": {
+      "hash": "56b9d97bbb14745adcb5f80bd7b5a90f",
+      "size": 3811,
+      "mtimeMs": 1791784547707
+    },
+    "wiki/concepts/用业务约束换技术简化.md": {
+      "hash": "d0d3cc0e9b8934efd4bbb105d52ef0cf",
+      "size": 2543,
+      "mtimeMs": 1791791205940
+    },
+    "wiki/concepts/看全局试影响下指令.md": {
+      "hash": "59b398416276e00eae3b6c75749b31b2",
+      "size": 1611,
+      "mtimeMs": 1791791154792
+    },
+    "wiki/concepts/硬件负载均衡.md": {
+      "hash": "d804ae587460264e50497b8f513d1a30",
+      "size": 1860,
+      "mtimeMs": 1791791470465
+    },
+    "wiki/concepts/确定性走context探索走query.md": {
+      "hash": "cbb3b655008817398685ffd0d77cf42a",
+      "size": 2849,
+      "mtimeMs": 1791725240742
+    },
+    "wiki/concepts/神经符号.md": {
+      "hash": "f3ff9a46832e14d4e7e9a7b75197d00d",
+      "size": 1998,
+      "mtimeMs": 1791725676947
+    },
+    "wiki/concepts/经营沙盘.md": {
+      "hash": "4fa5ac4d8929c331c22e847dae220c3e",
+      "size": 2241,
+      "mtimeMs": 1791791154791
+    },
+    "wiki/concepts/结构化查询.md": {
+      "hash": "48c4cd32e4be16eb6eb3f116e5a28553",
+      "size": 3507,
+      "mtimeMs": 1791686786199
+    },
+    "wiki/concepts/能力特征五等级.md": {
+      "hash": "af1dfc71e964c241f590a030a7b9a45e",
+      "size": 4404,
+      "mtimeMs": 1791784547707
+    },
+    "wiki/concepts/自主权判据.md": {
+      "hash": "048e1d361fc2470ab6e62b48a0b92ba6",
+      "size": 2357,
+      "mtimeMs": 1791725547425
+    },
+    "wiki/concepts/自愈成功率与报错引导修复.md": {
+      "hash": "74ac1be2c66ad04ab8348753114de9b8",
+      "size": 2236,
+      "mtimeMs": 1791725676950
+    },
+    "wiki/concepts/行式存储与列式存储.md": {
+      "hash": "cdf9310a7500733ee49462c8358d198c",
+      "size": 2872,
+      "mtimeMs": 1791791379781
+    },
+    "wiki/concepts/表达顺序性与语义完整性.md": {
+      "hash": "7a988591695d54cce415c08c74587cd7",
+      "size": 4137,
+      "mtimeMs": 1791785220590
+    },
+    "wiki/concepts/规则引擎推导.md": {
+      "hash": "0656cd842ac688f5062ff03572e06ff4",
+      "size": 3943,
+      "mtimeMs": 1791686828106
+    },
+    "wiki/concepts/规范先行实现后置.md": {
+      "hash": "80828c70617b666ebb7097d0ad6cd7e9",
+      "size": 2979,
+      "mtimeMs": 1791782885361
+    },
+    "wiki/concepts/角色仿真与推理过程可视化.md": {
+      "hash": "668807c112ef97ee30078be364876380",
+      "size": 3077,
+      "mtimeMs": 1791725240744
+    },
+    "wiki/concepts/角色权限矩阵.md": {
+      "hash": "b336e1323afe72e95af85fc742b9d5cd",
+      "size": 4609,
+      "mtimeMs": 1791784820589
+    },
+    "wiki/concepts/语义元素与动态元素两分法.md": {
+      "hash": "c5b2734ba39623312311fc82b7009f0d",
+      "size": 3246,
+      "mtimeMs": 1791725240741
+    },
+    "wiki/concepts/语义化表达单元存储要求.md": {
+      "hash": "905f1e5923d3d7e0cdd1515b098cb399",
+      "size": 3863,
+      "mtimeMs": 1791785220591
+    },
+    "wiki/concepts/语义化表达规则.md": {
+      "hash": "e9ef4330b2386f31e86655b88ae6a0ec",
+      "size": 6354,
+      "mtimeMs": 1791785220587
+    },
+    "wiki/concepts/语义跨度.md": {
+      "hash": "673ca2a6d898faf1d18bd9db38334c40",
+      "size": 3390,
+      "mtimeMs": 1791725676944
+    },
+    "wiki/concepts/语义集成技术要求.md": {
+      "hash": "24b149c9c03841697c1ac91ec8993e89",
+      "size": 2614,
+      "mtimeMs": 1791782868003
+    },
+    "wiki/concepts/语法语义语用三阶段.md": {
+      "hash": "f62e503d99c84acd54ecad479a6bd250",
+      "size": 2549,
+      "mtimeMs": 1791782868005
+    },
+    "wiki/concepts/读与写分离.md": {
+      "hash": "56e0cb80807ba85ace8b17899220acef",
+      "size": 2403,
+      "mtimeMs": 1791791154789
+    },
+    "wiki/concepts/负载均衡.md": {
+      "hash": "376eb1aa621a8e45dcffeb3ec173337c",
+      "size": 2712,
+      "mtimeMs": 1791791470464
+    },
+    "wiki/concepts/软件负载均衡.md": {
+      "hash": "7785d2525bbc984b42338577f85f578b",
+      "size": 2358,
+      "mtimeMs": 1791791470466
+    },
+    "wiki/concepts/过程数字化.md": {
+      "hash": "2d4fe0b98b016aa0ee1994a3719b7e41",
+      "size": 1974,
+      "mtimeMs": 1791782868006
+    },
+    "wiki/concepts/选型两轴与一条红线.md": {
+      "hash": "f8cd5c2f8ba3381d5fe428de983cc2c0",
+      "size": 3284,
+      "mtimeMs": 1791725547425
+    },
+    "wiki/concepts/通用语义化表达单元必备与可选划分.md": {
+      "hash": "7b2d41e9b530a91d4c6dd59a435f0fd4",
+      "size": 2983,
+      "mtimeMs": 1791782868010
+    },
+    "wiki/concepts/长任务agent五项基础设施.md": {
+      "hash": "acce4b71960c97932c40f306477dbcc5",
+      "size": 2358,
+      "mtimeMs": 1791725601311
+    },
+    "wiki/concepts/防幻觉的架构化机制.md": {
+      "hash": "d341be071c2c0c2a613c66d37321119c",
+      "size": 3284,
+      "mtimeMs": 1791725240743
+    },
+    "wiki/concepts/面向制品与面向角色.md": {
+      "hash": "e7c10cd72235d71edda90439bfac5479",
+      "size": 2284,
+      "mtimeMs": 1791725676947
+    },
+    "wiki/entities/abc-legal.md": {
+      "hash": "f33d9afbb966d8e1c067596b5e48210d",
+      "size": 3690,
+      "mtimeMs": 1791725491438
+    },
+    "wiki/entities/ai-coding-本体系统.md": {
+      "hash": "7fb1621f6ea969e2b6b6cfc7bdca59fd",
+      "size": 3159,
+      "mtimeMs": 1791725676943
+    },
+    "wiki/entities/aip-document-intelligence.md": {
+      "hash": "bd310b89ccefabaf18569b50f098c562",
+      "size": 2682,
+      "mtimeMs": 1791725176417
+    },
+    "wiki/entities/aip.md": {
+      "hash": "a61cbb1dd278944f004aa0b988738aaf",
+      "size": 2276,
+      "mtimeMs": 1791710745471
+    },
+    "wiki/entities/airflow.md": {
+      "hash": "8b69fa8c6d2145294e02baa50bda75e6",
+      "size": 2168,
+      "mtimeMs": 1791791379789
+    },
+    "wiki/entities/anthropic.md": {
+      "hash": "f8c5300fc875c7f5dd7cce68b0f3a3a7",
+      "size": 2345,
+      "mtimeMs": 1791725393682
+    },
+    "wiki/entities/apache-iceberg.md": {
+      "hash": "35a1f30630ba3d4bab879547d09ed33c",
+      "size": 2237,
+      "mtimeMs": 1791791379790
+    },
+    "wiki/entities/atlan.md": {
+      "hash": "20a9ac6134a70eef79da5a99527194c8",
+      "size": 1666,
+      "mtimeMs": 1791725443687
+    },
+    "wiki/entities/bian.md": {
+      "hash": "b6596c0bebd10842f590cbd1049fca53",
+      "size": 1396,
+      "mtimeMs": 1791725279206
+    },
+    "wiki/entities/catface996.md": {
+      "hash": "774ad2156b7f51853a301175b84f4481",
+      "size": 2423,
+      "mtimeMs": 1791725676943
+    },
+    "wiki/entities/claude-code.md": {
+      "hash": "4430538df95075b455784c7671c4bbe2",
+      "size": 2207,
+      "mtimeMs": 1791725491439
+    },
+    "wiki/entities/codex.md": {
+      "hash": "e3034fa032fe2a66ef0462b53f54af2d",
+      "size": 3932,
+      "mtimeMs": 1791718696053
+    },
+    "wiki/entities/crm.md": {
+      "hash": "ae17ccd2e99b1280fd3de9438e919651",
+      "size": 2334,
+      "mtimeMs": 1791791270395
+    },
+    "wiki/entities/datahub.md": {
+      "hash": "6c08900b735157c6b530c9796656cf28",
+      "size": 1705,
+      "mtimeMs": 1791725443687
+    },
+    "wiki/entities/echo-team-命名与既有双团队模型口径待核验.md": {
+      "hash": "1bc9272b2bd934e8c685b5f57e0ecfa7",
+      "size": 472,
+      "mtimeMs": 1791790394358
+    },
+    "wiki/entities/echo与delta双团队模型.md": {
+      "hash": "6d1f42d0b8b2293dcdecbb978882e3be",
+      "size": 2897,
+      "mtimeMs": 1791725116797
+    },
+    "wiki/entities/erp.md": {
+      "hash": "32f48404d942328948442e61415c1fb0",
+      "size": 2404,
+      "mtimeMs": 1791791270394
+    },
+    "wiki/entities/fde-ai-应用开发实战课.md": {
+      "hash": "e43095e2d95fb02b043cf8a83539ce59",
+      "size": 4222,
+      "mtimeMs": 1791712145348
+    },
+    "wiki/entities/fde-本体应用工作台.md": {
+      "hash": "ed8e35387ee9445df85c5a02caf2a361",
+      "size": 3449,
+      "mtimeMs": 1791724818461
+    },
+    "wiki/entities/fdeforward-deployed-engineer前线部署工程师.md": {
+      "hash": "b6f2f3a158c74730dd37d297ce996d3b",
+      "size": 7708,
+      "mtimeMs": 1791725116794
+    },
+    "wiki/entities/fhir.md": {
+      "hash": "fbb0df30ac5f6d106dc2d5aaf9264b2a",
+      "size": 1455,
+      "mtimeMs": 1791725443689
+    },
+    "wiki/entities/fibo.md": {
+      "hash": "fa18e69c9da5019e3852c37eed19d8fc",
+      "size": 1354,
+      "mtimeMs": 1791725443688
+    },
+    "wiki/entities/flink.md": {
+      "hash": "5e9323928a5f897f9a268387c326be75",
+      "size": 2200,
+      "mtimeMs": 1791791379788
+    },
+    "wiki/entities/gb-t-18391-3-元数据注册系统.md": {
+      "hash": "dfd892e32de6de522e80c12271eef605",
+      "size": 1996,
+      "mtimeMs": 1791782868032
+    },
+    "wiki/entities/gb-t-20001-标准编写规则系列.md": {
+      "hash": "15522e63d5a86b8b0b4773476a05ab0f",
+      "size": 3179,
+      "mtimeMs": 1791785214369
+    },
+    "wiki/entities/gb-t-22373-2021-标准文献元数据.md": {
+      "hash": "f0d68867fc3c692f91d8ea69241dde10",
+      "size": 3034,
+      "mtimeMs": 1791785214368
+    },
+    "wiki/entities/gb-t-38672-2020-大数据接口基本要求.md": {
+      "hash": "f971d0443475d289406252490df5f707",
+      "size": 2407,
+      "mtimeMs": 1791782868038
+    },
+    "wiki/entities/gb-t-42131-2022-人工智能-知识图谱技术框架.md": {
+      "hash": "2c5012a1d2a9684bf39eccdda01af879",
+      "size": 1798,
+      "mtimeMs": 1791784925998
+    },
+    "wiki/entities/gb-t-45256-2025-知识本体构建流程.md": {
+      "hash": "ae6a94b324f3c43b2009195bf81ac478",
+      "size": 1696,
+      "mtimeMs": 1791782868038
+    },
+    "wiki/entities/gb-t-45508-2025-机器可读标准能力等级模型与评估.md": {
+      "hash": "7a24811a5acdd17763521dffdb7d9e58",
+      "size": 2444,
+      "mtimeMs": 1791784605830
+    },
+    "wiki/entities/gb-t-46917-1-2026-标准内容语义化表达通用要求.md": {
+      "hash": "65d78cdf057232957eb354de84dddcaa",
+      "size": 16332,
+      "mtimeMs": 1791789158759
+    },
+    "wiki/entities/gb-t-46917-2-2026-数据接口要求.md": {
+      "hash": "b6d0793deabd817590f56bf5827fffd1",
+      "size": 21014,
+      "mtimeMs": 1791786787076
+    },
+    "wiki/entities/gb-t-46917-3-2026-语义集成技术要求.md": {
+      "hash": "7136c3af1ead1fcbe8b45009f36cbd31",
+      "size": 7115,
+      "mtimeMs": 1791787158240
+    },
+    "wiki/entities/gb-t-46917-标准语义知识库系列.md": {
+      "hash": "7f672b669ab796ff62feee87142e2b66",
+      "size": 4990,
+      "mtimeMs": 1791786525808
+    },
+    "wiki/entities/gb-t-47012-1-2026-系统架构.md": {
+      "hash": "c67ecff2faebd3935411d75434f76a1f",
+      "size": 5558,
+      "mtimeMs": 1791786379245
+    },
+    "wiki/entities/gb-t-47012-标准数字化平台系列标准.md": {
+      "hash": "1b1fd33647b1adf421f433f8800a0b51",
+      "size": 1910,
+      "mtimeMs": 1791783813752
+    },
+    "wiki/entities/gb-t-48000-1-2025-通用指南.md": {
+      "hash": "15e3b7b3fb0cbe0f5ea6f9089832faa8",
+      "size": 5150,
+      "mtimeMs": 1791782868041
+    },
+    "wiki/entities/gb-t-48000-2-2026-参考架构模型.md": {
+      "hash": "822f84652295f942b3e55f6e1cae0e10",
+      "size": 5266,
+      "mtimeMs": 1791785556463
+    },
+    "wiki/entities/gb-t-48000-3-2026-本体建模要求.md": {
+      "hash": "e4a5e01d06c1f2a5f55014093fb934a5",
+      "size": 18092,
+      "mtimeMs": 1791786232352
+    },
+    "wiki/entities/gb-t-48000-4-2026-协同制定要求.md": {
+      "hash": "4b63b6572f04124513288dcd3145085d",
+      "size": 4543,
+      "mtimeMs": 1791786334396
+    },
+    "wiki/entities/gb-t-48000-标准数字化系列标准.md": {
+      "hash": "8ca8227d29d6fbe0b2c3ba7821f426bb",
+      "size": 6822,
+      "mtimeMs": 1791784460641
+    },
+    "wiki/entities/gb-t-xxxx-标准知识图谱-第1部分.md": {
+      "hash": "b67632593717005489bbc9b2f3074949",
+      "size": 2326,
+      "mtimeMs": 1791784694906
+    },
+    "wiki/entities/gbt-48000-系列部分数量五与六不一致.md": {
+      "hash": "9cf1862ce103377d0d0a5a3fba213816",
+      "size": 458,
+      "mtimeMs": 1791790639346
+    },
+    "wiki/entities/graphdb.md": {
+      "hash": "a672a83a4122e4a3d520deda5c7d7177",
+      "size": 2057,
+      "mtimeMs": 1791686771228
+    },
+    "wiki/entities/hdfs.md": {
+      "hash": "d49d65a7235cafb18338323c0283d6c2",
+      "size": 3106,
+      "mtimeMs": 1791791379787
+    },
+    "wiki/entities/ibm-doors.md": {
+      "hash": "5136888aef76b874917bbc0121ef1a40",
+      "size": 2316,
+      "mtimeMs": 1791784547711
+    },
+    "wiki/entities/iec-smb-sg12.md": {
+      "hash": "c6bf8d47d5317d9603b084c0615ad88b",
+      "size": 2271,
+      "mtimeMs": 1791784547710
+    },
+    "wiki/entities/ipvs.md": {
+      "hash": "555f45ab21ac5b584704fb3acf78926f",
+      "size": 2096,
+      "mtimeMs": 1791791470463
+    },
+    "wiki/entities/keepalived.md": {
+      "hash": "7a67784c860bc8faeda2be97334bdb13",
+      "size": 2172,
+      "mtimeMs": 1791791470463
+    },
+    "wiki/entities/langgraph.md": {
+      "hash": "107bedd82d41c52f40f0c1de0882a6d4",
+      "size": 2230,
+      "mtimeMs": 1791686771225
+    },
+    "wiki/entities/lvs.md": {
+      "hash": "577158f2810a1a803b67b1b5615f82f6",
+      "size": 3505,
+      "mtimeMs": 1791791470462
+    },
+    "wiki/entities/mapreduce.md": {
+      "hash": "af1cb9d81c36c4952cb721bc034917b1",
+      "size": 2685,
+      "mtimeMs": 1791791379787
+    },
+    "wiki/entities/mysql.md": {
+      "hash": "da58367c2a79ba67215219d929b26298",
+      "size": 2369,
+      "mtimeMs": 1791791379789
+    },
+    "wiki/entities/nginx.md": {
+      "hash": "9d6f09b5ec57809f696623e7bd6f8289",
+      "size": 1706,
+      "mtimeMs": 1791791528812
+    },
+    "wiki/entities/onto-plumpt-与-ontoprompt-是否同一项目.md": {
+      "hash": "7e6f1c3e4c57f5584b13435c9966eb47",
+      "size": 1626,
+      "mtimeMs": 1791740644344
+    },
+    "wiki/entities/ontology-mcp.md": {
+      "hash": "6273ac9db381654f27f16f5bae0a2707",
+      "size": 2598,
+      "mtimeMs": 1791725240746
+    },
+    "wiki/entities/ontoprompt.md": {
+      "hash": "bfb47f3e06519eacdad45fcabf20b506",
+      "size": 3048,
+      "mtimeMs": 1791725055487
+    },
+    "wiki/entities/openai.md": {
+      "hash": "edee6ecf1ce822bc42f40176f68dd662",
+      "size": 1653,
+      "mtimeMs": 1791716699019
+    },
+    "wiki/entities/opencode.md": {
+      "hash": "7c6f83248893764f27c468ac1a1539c4",
+      "size": 1579,
+      "mtimeMs": 1791725676944
+    },
+    "wiki/entities/owl.md": {
+      "hash": "9c0750c3d44306a026209f6b9c207c28",
+      "size": 2020,
+      "mtimeMs": 1791721214452
+    },
+    "wiki/entities/palantir-foundry.md": {
+      "hash": "a0fe20ccdfae83e84ea46b3d096906ca",
+      "size": 6634,
+      "mtimeMs": 1791791154783
+    },
+    "wiki/entities/palantir-mcp.md": {
+      "hash": "cb5138768d6afee1f916ea951f43c977",
+      "size": 2582,
+      "mtimeMs": 1791725240745
+    },
+    "wiki/entities/palantir.md": {
+      "hash": "e13ae6fea0f1ac94d4e26cdbc90bba9d",
+      "size": 5123,
+      "mtimeMs": 1791791080116
+    },
+    "wiki/entities/rami-4-0.md": {
+      "hash": "eb97a90c5e15288f113466506ce5d7ed",
+      "size": 2564,
+      "mtimeMs": 1791784605829
+    },
+    "wiki/entities/sam模型.md": {
+      "hash": "8d886a340f7db26a8d214f73ad7c9597",
+      "size": 2097,
+      "mtimeMs": 1791784547711
+    },
+    "wiki/entities/semantica-评价与既有页面可能冲突.md": {
+      "hash": "479aa0442572425c4d7795de86c4037e",
+      "size": 593,
+      "mtimeMs": 1791778970881
+    },
+    "wiki/entities/semantica.md": {
+      "hash": "e76d390f4863c58632e76f8ca7ca7ff0",
+      "size": 8773,
+      "mtimeMs": 1791724981119
+    },
+    "wiki/entities/spark.md": {
+      "hash": "e84a6ec2ec62f52616b96e9a3cb6b1dd",
+      "size": 2240,
+      "mtimeMs": 1791791379788
+    },
+    "wiki/entities/wikidata.md": {
+      "hash": "3af59a3f18152975143764a90cd07d21",
+      "size": 1782,
+      "mtimeMs": 1791725055487
+    },
+    "wiki/entities/yc-z-650-2026-烟草企业标准数字化指南.md": {
+      "hash": "9448194fd30c06dd6409a7eb9f97fffd",
+      "size": 3328,
+      "mtimeMs": 1791787158253
+    },
+    "wiki/entities/上海美嘉林科技股份有限公司.md": {
+      "hash": "800512399fe3c2b7ba3e4ddceb2abff9",
+      "size": 1282,
+      "mtimeMs": 1791783889145
+    },
+    "wiki/entities/中国标准化研究院.md": {
+      "hash": "48cbd4381de55a359833e1f0f72788e9",
+      "size": 8240,
+      "mtimeMs": 1791786628199
+    },
+    "wiki/entities/中国标准在线服务网.md": {
+      "hash": "80c427559106b89b9f49f3e5139f60ce",
+      "size": 5076,
+      "mtimeMs": 1791785587933
+    },
+    "wiki/entities/全国标准信息公共服务平台.md": {
+      "hash": "f4965b4d19d89df7e456d07ed51c3d89",
+      "size": 5380,
+      "mtimeMs": 1791785754316
+    },
+    "wiki/entities/全国标准数字化标准化技术委员会.md": {
+      "hash": "c8acce81817b6b17d83de309bb9972ed",
+      "size": 7061,
+      "mtimeMs": 1791786555771
+    },
+    "wiki/entities/华南理工大学.md": {
+      "hash": "094243f9b3912126c938ffa61281ffee",
+      "size": 1775,
+      "mtimeMs": 1791782868056
+    },
+    "wiki/entities/南方电网标准中台.md": {
+      "hash": "e8fa41fbc11b20e2479715b6e6cf0a43",
+      "size": 1727,
+      "mtimeMs": 1791785489712
+    },
+    "wiki/entities/南网科研院.md": {
+      "hash": "30ed93b4a70b469942b214785359f461",
+      "size": 3710,
+      "mtimeMs": 1791785869688
+    },
+    "wiki/entities/团体标准信息平台.md": {
+      "hash": "7e56e48a2b7b441588fee15cc381b5ee",
+      "size": 1765,
+      "mtimeMs": 1791782882965
+    },
+    "wiki/entities/国家标准全文公开系统.md": {
+      "hash": "0474beffad75d987751983a8f742cf17",
+      "size": 4471,
+      "mtimeMs": 1791785730996
+    },
+    "wiki/entities/国家电网公司数字标准馆.md": {
+      "hash": "5c58d622ebab3d4457e705ef3463c065",
+      "size": 2139,
+      "mtimeMs": 1791784547712
+    },
+    "wiki/entities/在线标准制定osd平台.md": {
+      "hash": "47176e0bee86b51cefcdaf0d8f233d67",
+      "size": 2767,
+      "mtimeMs": 1791784864622
+    },
+    "wiki/entities/太阳石大模型.md": {
+      "hash": "a3065959cacbec9bdd734362d1bfdd1e",
+      "size": 1972,
+      "mtimeMs": 1791784547712
+    },
+    "wiki/entities/山东省计算中心-国家超级计算济南中心.md": {
+      "hash": "1bfc3404d834393518362e79766be1b9",
+      "size": 4781,
+      "mtimeMs": 1791787158247
+    },
+    "wiki/entities/广东省标准化研究院.md": {
+      "hash": "d4fae07b7466585f5b13b07948d2f788",
+      "size": 1745,
+      "mtimeMs": 1791783889135
+    },
+    "wiki/entities/木羽cheney.md": {
+      "hash": "99d26327ee97ebd1b653cb502daf1a72",
+      "size": 2663,
+      "mtimeMs": 1791725820323
+    },
+    "wiki/entities/本体-第2部分-质量要求-20265040-z-907.md": {
+      "hash": "1fb32850912ee55d22c8141aba615f5e",
+      "size": 2093,
+      "mtimeMs": 1791782863029
+    },
+    "wiki/entities/本体-第3部分-应用要求-20265039-z-907.md": {
+      "hash": "4e26359168d3f68f37cada12d936ed75",
+      "size": 2093,
+      "mtimeMs": 1791782863029
+    },
+    "wiki/entities/本体构建-agent-skills.md": {
+      "hash": "5bd17ebf715623292ca7f08570d38aec",
+      "size": 3911,
+      "mtimeMs": 1791724772924
+    },
+    "wiki/entities/本体设计四项核心原则-与-本体建模业务定义数据映射与关系校验-可能重叠.md": {
+      "hash": "b2e3779b51d1f477fbf16dcc33e1710f",
+      "size": 1668,
+      "mtimeMs": 1791781036306
+    },
+    "wiki/entities/本体问答-agent-skills.md": {
+      "hash": "207a579a0a327c79854c7caecf8a20cb",
+      "size": 2751,
+      "mtimeMs": 1791724818470
+    },
+    "wiki/entities/杭州恒增科技公司.md": {
+      "hash": "cbf97884390d4a048a51532c9952c50c",
+      "size": 1334,
+      "mtimeMs": 1791783889147
+    },
+    "wiki/entities/架构和原理合集.md": {
+      "hash": "3e023667133be9af6c763a316e46d6ef",
+      "size": 2921,
+      "mtimeMs": 1791791528809
+    },
+    "wiki/entities/架构师阿Q.md": {
+      "hash": "793ed1155ba67d2d4664bf48062ef057",
+      "size": 2126,
+      "mtimeMs": 1791790956025
+    },
+    "wiki/entities/浙江大学.md": {
+      "hash": "c6a4865d3b02ac711acdf1f9c65ca277",
+      "size": 1077,
+      "mtimeMs": 1791783845055
+    },
+    "wiki/entities/西门子（中国）有限公司.md": {
+      "hash": "c83521bfc5b5a6b3fe70af9c1d648a55",
+      "size": 1345,
+      "mtimeMs": 1791785869692
+    },
+    "wiki/entities/订单客服本体.md": {
+      "hash": "35fc843c1bef150228b77c7cc64d2a2e",
+      "size": 2722,
+      "mtimeMs": 1791724818471
+    },
+    "wiki/index.md": {
+      "hash": "35224d7d2925bc5ab66900b848e2bcee",
+      "size": 22068,
+      "mtimeMs": 1791791528817
+    },
+    "wiki/log.md": {
+      "hash": "86f80a793784bbc90c1ec98b243e0719",
+      "size": 18763,
+      "mtimeMs": 1791791528813
+    },
+    "wiki/overview.md": {
+      "hash": "0c36a19868ed906049214038281adc21",
+      "size": 3372,
+      "mtimeMs": 1791781660794
+    },
+    "wiki/queries/47012-1起草单位署名两组口径差异待核验.md": {
+      "hash": "c8f1bb322a11dc9fab4ededd6ea3d063",
+      "size": 2410,
+      "mtimeMs": 1791782868059
+    },
+    "wiki/queries/9项标准中3项无公开草案的条款内容获取路径待核验.md": {
+      "hash": "9ce22befacabc987e9fd5f5fef885553",
+      "size": 2517,
+      "mtimeMs": 1791786831257
+    },
+    "wiki/queries/agent-os工具与开源状态待核验.md": {
+      "hash": "25d5f3f72c57326a42ed474dd71c0a77",
+      "size": 2480,
+      "mtimeMs": 1791725279207
+    },
+    "wiki/queries/agent七模式命名与anthropic原文对应待核验.md": {
+      "hash": "8748354aa8cc4b22ca5510da863f2210",
+      "size": 2312,
+      "mtimeMs": 1791725393688
+    },
+    "wiki/queries/ai-coding本体规模数字不自洽待核验.md": {
+      "hash": "2428e50fcc0492937a3dfa91fe73edd4",
+      "size": 1772,
+      "mtimeMs": 1791725676951
+    },
+    "wiki/queries/aip-document-intelligence流程与mockdown库待核验.md": {
+      "hash": "eabeca95fbf9a49d5e5dcd4573f09f47",
+      "size": 1572,
+      "mtimeMs": 1791725176429
+    },
+    "wiki/queries/airflow-与-apache-iceberg-名称-asr-转写待核验.md": {
+      "hash": "20fc9c022b0b6d6c7fc8e8a20dea2b4e",
+      "size": 2042,
+      "mtimeMs": 1791791379791
+    },
+    "wiki/queries/anthropic三条铁律与团队合作结论原文待核验.md": {
+      "hash": "ee095719e37cfe265f73fed75166ec14",
+      "size": 1978,
+      "mtimeMs": 1791725393690
+    },
+    "wiki/queries/arp-ignore与arp-announce参数asr疑误待核验.md": {
+      "hash": "063d24a0c74fb96455f18e8b39bf0df3",
+      "size": 1554,
+      "mtimeMs": 1791791470472
+    },
+    "wiki/queries/bob-mcgrew身份与fde定义原文待核验.md": {
+      "hash": "35c6826fb22ac8c1fbbbd81ca26af940",
+      "size": 2604,
+      "mtimeMs": 1791725116799
+    },
+    "wiki/queries/bob-michael身份与agent-os规模化说法待核验.md": {
+      "hash": "78d1cce8ff33c4bafabe76aeb1c7c8e5",
+      "size": 2240,
+      "mtimeMs": 1791725279208
+    },
+    "wiki/queries/context-graph三方定义冲突待核验.md": {
+      "hash": "3474c26fcc12b57326665de721474e2f",
+      "size": 2407,
+      "mtimeMs": 1791725443689
+    },
+    "wiki/queries/context-graph学术论文出处待核验.md": {
+      "hash": "0a6fe58a48979162155b539d6e188a7a",
+      "size": 2224,
+      "mtimeMs": 1791725443690
+    },
+    "wiki/queries/dns负载均衡只支持轮询主张待核验.md": {
+      "hash": "eb33ee6676633f3de8dd24ab25d27e3d",
+      "size": 1572,
+      "mtimeMs": 1791791470471
+    },
+    "wiki/queries/dr模式特点被误记为nat模式口误待核验.md": {
+      "hash": "6c5826d829d6b77e772f0309d27e6fea",
+      "size": 1603,
+      "mtimeMs": 1791791470470
+    },
+    "wiki/queries/fde上线后迭代责任边界待核验.md": {
+      "hash": "ad4d67f7138ae6c55602d09be0882b96",
+      "size": 1908,
+      "mtimeMs": 1791725768415
+    },
+    "wiki/queries/fde与咨询公司分界线的衡量方法待核验.md": {
+      "hash": "d4bec4ef06b66b473aa85cdcb49a415f",
+      "size": 2191,
+      "mtimeMs": 1791725116800
+    },
+    "wiki/queries/fde岗位定义与palantir-openai实践待核验.md": {
+      "hash": "e7c55561b9b8c9375382a6cb836ab861",
+      "size": 3515,
+      "mtimeMs": 1791716670402
+    },
+    "wiki/queries/fde岗位数字与薪酬口径待核验.md": {
+      "hash": "39eb81a201f33c0c595d328432969dc0",
+      "size": 2850,
+      "mtimeMs": 1791725116798
+    },
+    "wiki/queries/fde政策比例目标与共建基地说法待核验.md": {
+      "hash": "7a10603638451fc5b0dadb31b1bf798f",
+      "size": 2304,
+      "mtimeMs": 1791725768414
+    },
+    "wiki/queries/fde相关数字原音与统计口径待核验.md": {
+      "hash": "0e3ea20c1bf1eb780d689db4443ce498",
+      "size": 3057,
+      "mtimeMs": 1791716685285
+    },
+    "wiki/queries/fhir是否属于开源本体待核验.md": {
+      "hash": "f9ecd1cafc648acd65da65058749baf7",
+      "size": 1877,
+      "mtimeMs": 1791725443691
+    },
+    "wiki/queries/foundry连接器数量与拉取方式待核验.md": {
+      "hash": "73b5e1de2148d491cfb5db14e60e52d7",
+      "size": 1429,
+      "mtimeMs": 1791725176427
+    },
+    "wiki/queries/gb-t-46917-1封面英文名称截断待核验.md": {
+      "hash": "0b30150fd78536cac047f3354bbc49c9",
+      "size": 1375,
+      "mtimeMs": 1791785066801
+    },
+    "wiki/queries/gb-t-46917-1正式版与2025-04征求意见稿差异待核验.md": {
+      "hash": "7a2387780229593e235d932584245458",
+      "size": 2150,
+      "mtimeMs": 1791787175437
+    },
+    "wiki/queries/gb-t-46917-1系列构成前言与引言口径矛盾待核验.md": {
+      "hash": "822a4bade11cf737603f51b842cb8b21",
+      "size": 2243,
+      "mtimeMs": 1791785066800
+    },
+    "wiki/queries/gb-t-46917-1编制说明起草过程日期2025年12月-2月异常待核验.md": {
+      "hash": "9a9ff76042b4eefb0d16512a0ca60d86",
+      "size": 2306,
+      "mtimeMs": 1791785316372
+    },
+    "wiki/queries/gb-t-46917-1起草单位与主要起草人留空待核验.md": {
+      "hash": "0ecb4a99c2858a988bfe4cee5b4bf1b0",
+      "size": 1457,
+      "mtimeMs": 1791785066801
+    },
+    "wiki/queries/gb-t-46917-1起草单位署名两组口径差异待核验.md": {
+      "hash": "bf2343f58806d5e59759825b038a4590",
+      "size": 2384,
+      "mtimeMs": 1791782868066
+    },
+    "wiki/queries/gb-t-46917-2前言已发布部分表述待核验.md": {
+      "hash": "931d7045beb8924a2f409bac0b1b4ef8",
+      "size": 1508,
+      "mtimeMs": 1791785436845
+    },
+    "wiki/queries/gb-t-46917-2国际领先主张待核验.md": {
+      "hash": "657a063a0ae0e2d251e4a61e2c45c2c9",
+      "size": 2549,
+      "mtimeMs": 1791785489714
+    },
+    "wiki/queries/gb-t-46917-2标准编号与发布状态待核验.md": {
+      "hash": "a8c06bc5bb7a404e8839343db800d67d",
+      "size": 1594,
+      "mtimeMs": 1791784215183
+    },
+    "wiki/queries/gb-t-46917-2正式版与2025-04征求意见稿差异待核验.md": {
+      "hash": "4c0ad40bbe8c5d69fa90f1471bf6f581",
+      "size": 2728,
+      "mtimeMs": 1791786787079
+    },
+    "wiki/queries/gb-t-46917-2起草单位署名两组口径差异待核验.md": {
+      "hash": "3c1307182ed988f02310ce17b7419189",
+      "size": 2097,
+      "mtimeMs": 1791786787080
+    },
+    "wiki/queries/gb-t-46917-3正式版与征求意见稿差异待核验.md": {
+      "hash": "5123b2c38cc33fa4e87775be024164f3",
+      "size": 1726,
+      "mtimeMs": 1791782863734
+    },
+    "wiki/queries/gb-t-46917-3起草单位署名两组口径差异待核验.md": {
+      "hash": "6dfe7fa5e368cf98d82652f44f000c7e",
+      "size": 1701,
+      "mtimeMs": 1791782863734
+    },
+    "wiki/queries/gb-t-47012-1正式版与2025-04征求意见稿差异待核验.md": {
+      "hash": "fcf63126e960a6f8207609de3d5f3c36",
+      "size": 2057,
+      "mtimeMs": 1791784089332
+    },
+    "wiki/queries/gb-t-47012-1起草单位署名两组口径差异待核验.md": {
+      "hash": "05c58a95be7fca072274001b762a8ca6",
+      "size": 2229,
+      "mtimeMs": 1791784089330
+    },
+    "wiki/queries/gb-t-47012系列后续部分待核验.md": {
+      "hash": "1f635a44bbabde32de628fc64941b9a9",
+      "size": 1531,
+      "mtimeMs": 1791784089333
+    },
+    "wiki/queries/gb-t-48000-1-2025正文三条主线定义待核验.md": {
+      "hash": "991cbbf6d2fddbee0c46aff01fa8af02",
+      "size": 2304,
+      "mtimeMs": 1791782868068
+    },
+    "wiki/queries/gb-t-48000-2-与-gb-t-45508-2025-范围重叠待核验.md": {
+      "hash": "412677e5b4254713d9aad4367dfbb7fd",
+      "size": 2302,
+      "mtimeMs": 1791784605831
+    },
+    "wiki/queries/gb-t-48000-2应用效果缺乏量化数据待核验.md": {
+      "hash": "3c2edcb96978255b764f17e57b0fb281",
+      "size": 3603,
+      "mtimeMs": 1791782868069
+    },
+    "wiki/queries/gb-t-48000-2正式发布版与2025-04征求意见稿差异待核验.md": {
+      "hash": "195dd988abacad450ac9c5e9025d280f",
+      "size": 2523,
+      "mtimeMs": 1791786077530
+    },
+    "wiki/queries/gb-t-48000-2规范性引用文件编号占位符重复待核验.md": {
+      "hash": "13721f0f0190c968da8055f1a1fb3941",
+      "size": 2736,
+      "mtimeMs": 1791782861797
+    },
+    "wiki/queries/gb-t-48000-2起草单位署名两组口径差异待核验.md": {
+      "hash": "062528e7121e743657f25cdbf294c9eb",
+      "size": 2288,
+      "mtimeMs": 1791786077528
+    },
+    "wiki/queries/gb-t-48000-3-2026-正式版与征求意见稿差异待核验.md": {
+      "hash": "6514b19a81e31edb56d8305a5e664094",
+      "size": 2559,
+      "mtimeMs": 1791787175429
+    },
+    "wiki/queries/gb-t-48000-3起草单位署名两组口径差异待核验.md": {
+      "hash": "8db951e18fc95bc99ed427d55cfb419c",
+      "size": 2217,
+      "mtimeMs": 1791783709140
+    },
+    "wiki/queries/gb-t-48000-4正式版与2025-04征求意见稿差异待核验.md": {
+      "hash": "c3f1a60cf059e31938a3408b7bf3c5f6",
+      "size": 2010,
+      "mtimeMs": 1791782868070
+    },
+    "wiki/queries/gb-t-48000-4起草单位与主要起草人留空待核验.md": {
+      "hash": "f6247fef0538013a132887a6a0eb4043",
+      "size": 1904,
+      "mtimeMs": 1791784820594
+    },
+    "wiki/queries/gb-t-48000-4起草单位署名两组口径差异待核验.md": {
+      "hash": "fff0be4f58cca8a4072c4331f3c01814",
+      "size": 2129,
+      "mtimeMs": 1791783744834
+    },
+    "wiki/queries/honest-hunnies-harness术语身份待核验.md": {
+      "hash": "b3ca55c978a59867b96a56b984c7e1d3",
+      "size": 1665,
+      "mtimeMs": 1791725601319
+    },
+    "wiki/queries/iso-iec五阶段与能力特征五等级内涵一致性待核验.md": {
+      "hash": "1a80ffc950af5887375b29ada4c9d73e",
+      "size": 2106,
+      "mtimeMs": 1791784742564
+    },
+    "wiki/queries/l0-l4成熟度模型出处待核验.md": {
+      "hash": "72a46b8b21c0afd242b49c6bd75876c3",
+      "size": 1366,
+      "mtimeMs": 1791725547429
+    },
+    "wiki/queries/lvs三种模式性能对比缺乏量级数据待核验.md": {
+      "hash": "8be49affff65ac40665d3fa0c21db697",
+      "size": 1639,
+      "mtimeMs": 1791791470469
+    },
+    "wiki/queries/lvs性能是软件负载均衡中最高主张待核验.md": {
+      "hash": "c966efb99999d33d0e229e46dad58557",
+      "size": 1822,
+      "mtimeMs": 1791791470471
+    },
+    "wiki/queries/ontology-oval-agent与document-resolution名称待核验.md": {
+      "hash": "afccd6b8add0d38145d8b2cf2becdac6",
+      "size": 1491,
+      "mtimeMs": 1791725240750
+    },
+    "wiki/queries/ontoplome与ontoprompt是否同一项目待核验.md": {
+      "hash": "e081f47a921f6c708797d7ccfe8aecee",
+      "size": 1803,
+      "mtimeMs": 1791725176426
+    },
+    "wiki/queries/openai-agent-api发布事实待核验.md": {
+      "hash": "ffc548eccbd4912ad10df3c18c908d2c",
+      "size": 1755,
+      "mtimeMs": 1791725601319
+    },
+    "wiki/queries/openai-agent四件套提出者身份待核验.md": {
+      "hash": "6a4fb12769281c61dcacad42ed8a5564",
+      "size": 1761,
+      "mtimeMs": 1791725393689
+    },
+    "wiki/queries/orchestrator-workers约束边界原文待核验.md": {
+      "hash": "cbce48aff957f2f5fbce210181d5e1b2",
+      "size": 1606,
+      "mtimeMs": 1791725547428
+    },
+    "wiki/queries/owl表达与跨系统互操作待核验.md": {
+      "hash": "67eecfa2e2056582af0588553f93c98f",
+      "size": 2573,
+      "mtimeMs": 1791721214455
+    },
+    "wiki/queries/palantir-foundry写回与权限审计能力待核验.md": {
+      "hash": "86d10e88218dcf060cc6a9bd351562c2",
+      "size": 2044,
+      "mtimeMs": 1791791154795
+    },
+    "wiki/queries/pdf路径抽样核查样本量与判定标准待核验.md": {
+      "hash": "400e63ddf64e47a21a7c4823c9a8c688",
+      "size": 1501,
+      "mtimeMs": 1791725176434
+    },
+    "wiki/queries/research-6-项标准正式发布版条款获取与草案比对-2026-10-12-073105-research-126.md": {
+      "hash": "3c943eaae13664c946eefefb0d3dc1e1",
+      "size": 13290,
+      "mtimeMs": 1791790265377
+    },
+    "wiki/queries/research-context-graph-学术论文出处与三方定义冲突的联网核验-2026-10-11-144442-research-32.md": {
+      "hash": "39b2422fa02e6e1f66f4f2955e38a42b",
+      "size": 13849,
+      "mtimeMs": 1791729882728
+    },
+    "wiki/queries/research-fde-岗位形态固定职位还是能力组合-2026-10-11-144910-research-40.md": {
+      "hash": "3e7f45d59169758aac3269f3b82082a6",
+      "size": 10172,
+      "mtimeMs": 1791730150560
+    },
+    "wiki/queries/research-fde-政策数字与-jd-样本的外部核验-2026-10-11-144854-research-39.md": {
+      "hash": "5a34c802f4147c9a06622468ada770e3",
+      "size": 18071,
+      "mtimeMs": 1791730134426
+    },
+    "wiki/queries/research-fde-现场业务建模职责与客户确认机制-2026-10-11-143700-research-19.md": {
+      "hash": "4c9a6e76325f89e2773242a4bd8fc1d4",
+      "size": 16318,
+      "mtimeMs": 1791729420106
+    },
+    "wiki/queries/research-fhir-与-fibo-是否同属开源本体的归类核验-2026-10-11-144515-research-33.md": {
+      "hash": "63bf640c6f5e5d5600e33321a544b752",
+      "size": 10079,
+      "mtimeMs": 1791729915028
+    },
+    "wiki/queries/research-gbt-42131-2022-人工智能-知识图谱技术框架-术语来源核验-2026-10-12-053922-research-100.md": {
+      "hash": "3a39553c75851ef5d80e7eba9ab8fe35",
+      "size": 10964,
+      "mtimeMs": 1791784460796
+    },
+    "wiki/queries/research-gbt-42131-术语来源标准-2026-10-12-051236-research-63.md": {
+      "hash": "4a0c0a4c3faa8536e6a3839c33e99df3",
+      "size": 8492,
+      "mtimeMs": 1791782868073
+    },
+    "wiki/queries/research-gbt-46917-与-gbt-47012gbt-48000-系列标准体系关系-2026-10-12-053142-research-91.md": {
+      "hash": "c54fc6b1562dbfc7def10299248d02ea",
+      "size": 14648,
+      "mtimeMs": 1791783102900
+    },
+    "wiki/queries/research-gbt-469171-与-gbt-480003-本体建模要求关系-2026-10-12-051444-research-68.md": {
+      "hash": "167f85696bdc029e07fc9b511ce8c473",
+      "size": 10198,
+      "mtimeMs": 1791782868074
+    },
+    "wiki/queries/research-gbt-469172-与-gbt-38672-2020-接口要求比较-2026-10-12-072743-research-118.md": {
+      "hash": "063c22fc21774def72bf19110303a351",
+      "size": 11452,
+      "mtimeMs": 1791790063075
+    },
+    "wiki/queries/research-gbt-469172-与-gbt-38672-2020iso-10303-22-接-2026-10-12-071901-research-102.md": {
+      "hash": "8dd279ac50dc45ca6f53de4dc9631144",
+      "size": 10939,
+      "mtimeMs": 1791789542003
+    },
+    "wiki/queries/research-gbt-469172-与-gbt-47012gbt-48000-系列标准体系关系待-2026-10-12-052029-research-79.md": {
+      "hash": "869882a33de81b599c47275612649140",
+      "size": 13912,
+      "mtimeMs": 1791782868075
+    },
+    "wiki/queries/research-gbt-470121-正式发布版全文获取路径与条款级比对-2026-10-12-073057-research-125.md": {
+      "hash": "e6c08a84ba522594c01df52f1fb0b6d7",
+      "size": 11365,
+      "mtimeMs": 1791790257148
+    },
+    "wiki/queries/research-gbt-470121-正式版全文获取与条款级比对-2026-10-12-071850-research-105.md": {
+      "hash": "626b3958c4c61ef91d4ff8bd7736a26e",
+      "size": 7209,
+      "mtimeMs": 1791789530246
+    },
+    "wiki/queries/research-gbt-470121-正式版全文获取路径与差异比对方法-2026-10-12-051736-research-76.md": {
+      "hash": "96231310fd959390ca5eefadcecf8e7e",
+      "size": 12085,
+      "mtimeMs": 1791782868075
+    },
+    "wiki/queries/research-gbt-470124800046917-三系列标准体系关系-2026-10-12-052041-research-77.md": {
+      "hash": "dbb648db3fae08cf4d519893d1719cf4",
+      "size": 15658,
+      "mtimeMs": 1791782868076
+    },
+    "wiki/queries/research-gbt-480001-2025-正式文本获取与三条主线条款级核验-2026-10-12-051641-research-73.md": {
+      "hash": "7f2b0378aec2b2e19f226a007edaf5bb",
+      "size": 8617,
+      "mtimeMs": 1791782868077
+    },
+    "wiki/queries/research-gbt-480002-2026-与-gbt-45508-2025-范围重叠界定-2026-10-12-072956-research-122.md": {
+      "hash": "b2d8642f9bbd2f31077050956d57fc21",
+      "size": 14105,
+      "mtimeMs": 1791790196448
+    },
+    "wiki/queries/research-graphrag-尚无独立页面-2026-10-11-143952-research-24.md": {
+      "hash": "3f6e424b572b769078b644ac35d95cbf",
+      "size": 9824,
+      "mtimeMs": 1791729592744
+    },
+    "wiki/queries/research-isoiec-osd-平台外部核验-2026-10-12-072417-research-113.md": {
+      "hash": "508fcd44b312f6456ec2d6db12489dc1",
+      "size": 9221,
+      "mtimeMs": 1791789857188
+    },
+    "wiki/queries/research-ontology-关系进入-agent-上下文前的验证与执行门控-2026-10-11-143739-research-20.md": {
+      "hash": "756b7c93566376477cffaef3a0349302",
+      "size": 11677,
+      "mtimeMs": 1791729459416
+    },
+    "wiki/queries/research-ontology实例数据与本体版本的边界及冲突裁定-2026-10-11-143644-research-18.md": {
+      "hash": "5ab9620a330cf90fdc658bb2c7023e75",
+      "size": 13397,
+      "mtimeMs": 1791729404768
+    },
+    "wiki/queries/research-owl-语义数据校验与业务规则的执行边界-2026-10-11-124707-research-5.md": {
+      "hash": "b9040adb58f1fee066d136792ea33099",
+      "size": 14069,
+      "mtimeMs": 1791722827536
+    },
+    "wiki/queries/research-三条主线与既有概念参考架构三维模型生命周期四阶段内容语义化的映射核验-2026-10-12-051651-research-74.md": {
+      "hash": "2dc0de5ec1a91465c4ec48c2a3ed6549",
+      "size": 8890,
+      "mtimeMs": 1791782868078
+    },
+    "wiki/queries/research-上下文替代模型能力边界待核验-2026-10-11-144911-research-42.md": {
+      "hash": "f3d50f110497d0ebee2cec9760754865",
+      "size": 10190,
+      "mtimeMs": 1791730151522
+    },
+    "wiki/queries/research-业务员工自建-agent-的治理成本与适用边界-2026-10-11-144643-research-35.md": {
+      "hash": "3af5b74fe75843c59498a8a0b2b01877",
+      "size": 13145,
+      "mtimeMs": 1791730003974
+    },
+    "wiki/queries/research-中国标准在线服务网与国家标准全文公开系统页面补充-2026-10-12-072809-research-120.md": {
+      "hash": "88cf31555c252a89db6d967c3915346d",
+      "size": 9463,
+      "mtimeMs": 1791790089418
+    },
+    "wiki/queries/research-五种流派论文清单与专名核验-2026-10-11-144050-research-26.md": {
+      "hash": "d52d534c0f10f272e4a00d5e679d76af",
+      "size": 12557,
+      "mtimeMs": 1791729650953
+    },
+    "wiki/queries/research-公开征求意见函扫描件-ocr-处理与内容归属核验-2026-10-12-051135-research-60.md": {
+      "hash": "d65ab42f801e26f2c4612c9a8e71d843",
+      "size": 10215,
+      "mtimeMs": 1791782868080
+    },
+    "wiki/queries/research-关键-asr-存疑术语对本体知识图谱与知识库边界的影响-2026-10-11-143900-research-21.md": {
+      "hash": "d83f9a7a802678e5bd36f680f19f5680",
+      "size": 14381,
+      "mtimeMs": 1791729540131
+    },
+    "wiki/queries/research-其他行业标准数字化同类标准横向比较-2026-10-12-052402-research-84.md": {
+      "hash": "6c2c884a2a9555b14ceb9f41540063c3",
+      "size": 14316,
+      "mtimeMs": 1791782868081
+    },
+    "wiki/queries/research-分别定义订单状态答复与延迟归因的验收标准-2026-10-11-143215-research-9.md": {
+      "hash": "39c3272ac8e62092682703c846306786",
+      "size": 14523,
+      "mtimeMs": 1791729135333
+    },
+    "wiki/queries/research-判定电商客服业务模型与-ontology-的边界-2026-10-11-143444-research-15.md": {
+      "hash": "bccb348af25e0ad1b90b5774501c6118",
+      "size": 12962,
+      "mtimeMs": 1791729284348
+    },
+    "wiki/queries/research-协同制定安全管理要求概念页缺失-2026-10-12-073053-research-124.md": {
+      "hash": "534c14a85b39f953da0eb0979187691c",
+      "size": 6820,
+      "mtimeMs": 1791790253107
+    },
+    "wiki/queries/research-南方电网标准中台一手资料核验-2026-10-12-053308-research-95.md": {
+      "hash": "72400f459785082085eda5fadfc6ec42",
+      "size": 11800,
+      "mtimeMs": 1791783188966
+    },
+    "wiki/queries/research-南方电网标准中台接口实践案例待补充一手证据-2026-10-12-051522-research-71.md": {
+      "hash": "41cba8fc303071995f37a5a29cec6744",
+      "size": 7939,
+      "mtimeMs": 1791782868082
+    },
+    "wiki/queries/research-厂商自验证证据强度评估方法-2026-10-12-054126-research-101.md": {
+      "hash": "35fb33709c063b95cc3a8a21620fcce7",
+      "size": 14851,
+      "mtimeMs": 1791784460800
+    },
+    "wiki/queries/research-参考架构术语reference-architecture-2026-10-12-053800-research-97.md": {
+      "hash": "7261a6db8a7df3fa6d2232116f5b2d7b",
+      "size": 11128,
+      "mtimeMs": 1791784460801
+    },
+    "wiki/queries/research-双重验证规则来源与自证风险-2026-10-11-144100-research-28.md": {
+      "hash": "7877e7dd3f30de683f993402d4c8f2e1",
+      "size": 11230,
+      "mtimeMs": 1791729660619
+    },
+    "wiki/queries/research-发起-palantir-官方文档外部研究-2026-10-11-144238-research-29.md": {
+      "hash": "09f607b6ec2f553d406c7ad1045abde4",
+      "size": 14106,
+      "mtimeMs": 1791729758317
+    },
+    "wiki/queries/research-四层架构是分工还是施工顺序的核验-2026-10-11-144513-research-34.md": {
+      "hash": "0b26033bbc8eaf0a4d82c473decfdbb0",
+      "size": 13520,
+      "mtimeMs": 1791729913154
+    },
+    "wiki/queries/research-复现-ontologyagent-与-rag-的实际接入契约-2026-10-11-174205-research-45.md": {
+      "hash": "61b0ca496f0d24936223b23a67ec7be0",
+      "size": 13180,
+      "mtimeMs": 1791740525287
+    },
+    "wiki/queries/research-外资企业参与中国标准数字化系列标准的分布情况-2026-10-12-071725-research-104.md": {
+      "hash": "dc0d364aa49d6258ccb9c0db310e7a65",
+      "size": 8401,
+      "mtimeMs": 1791789445353
+    },
+    "wiki/queries/research-建立企业-agent-高风险动作的控制证据-2026-10-11-143601-research-17.md": {
+      "hash": "96914346d9e2fa9d4e6554a92851b69a",
+      "size": 14005,
+      "mtimeMs": 1791729361590
+    },
+    "wiki/queries/research-按接口协议与任务组织重新比较四种接入形态-2026-10-11-143136-research-8.md": {
+      "hash": "8edb7f3a2c30a50dadefa7afb767fd46",
+      "size": 14353,
+      "mtimeMs": 1791729096064
+    },
+    "wiki/queries/research-接口interface术语定义页-2026-10-12-072540-research-117.md": {
+      "hash": "dd0b12316e0e5bba23777348e903ccb7",
+      "size": 8621,
+      "mtimeMs": 1791789940875
+    },
+    "wiki/queries/research-接口方法名与参数名规范性强度待核验-2026-10-12-051500-research-69.md": {
+      "hash": "f84d15568c5e2cd2559c76cdb4b38d25",
+      "size": 9487,
+      "mtimeMs": 1791782868084
+    },
+    "wiki/queries/research-控制权边界与控制面与数据面分离是否长期保留为独立概念页-2026-10-12-080048-research-129.md": {
+      "hash": "d0b28f9b009c9561d3cb4b66829d639e",
+      "size": 11201,
+      "mtimeMs": 1791792048340
+    },
+    "wiki/queries/research-是否发起-anthropic-与-openai-两处权威的外部研究-2026-10-11-144312-research-30.md": {
+      "hash": "37fe0fe849a42d34c582cacc82a0ef60",
+      "size": 14660,
+      "mtimeMs": 1791729792251
+    },
+    "wiki/queries/research-是否抓取-gbt-469172-2026-正式发布版全文以完成条款级比对-2026-10-12-072125-research-108.md": {
+      "hash": "62ad005fc0a6cec59fc13731b7b625de",
+      "size": 15850,
+      "mtimeMs": 1791789685844
+    },
+    "wiki/queries/research-更新既有-gbt-46917-系列与第1部分页面-2026-10-12-053148-research-94.md": {
+      "hash": "aa13f10879053a80935db7bd751278a4",
+      "size": 9189,
+      "mtimeMs": 1791783108335
+    },
+    "wiki/queries/research-本体事实与-rag-依据冲突裁决值得外部核验-2026-10-11-143958-research-25.md": {
+      "hash": "a4b1077e50e6450ff5261bcb5d639d89",
+      "size": 14600,
+      "mtimeMs": 1791729598324
+    },
+    "wiki/queries/research-本体完整度验收口径业务问题覆盖-vs-schema-严谨-2026-10-11-143932-research-23.md": {
+      "hash": "f5fe40ca80410ae8e860445b5b39db99",
+      "size": 12977,
+      "mtimeMs": 1791729572285
+    },
+    "wiki/queries/research-本体平台开源现状待核验-2026-10-11-145001-research-43.md": {
+      "hash": "9a6c0c9b013dacd083fcc846f8262be1",
+      "size": 9268,
+      "mtimeMs": 1791730201301
+    },
+    "wiki/queries/research-本体构建-agent-skills-的提示词原文与模板核验-2026-10-11-143843-research-22.md": {
+      "hash": "0b20d91f83945970921e0c0c50544a88",
+      "size": 13276,
+      "mtimeMs": 1791729523599
+    },
+    "wiki/queries/research-本体质量度量与流派对照实验口径-2026-10-11-144128-research-27.md": {
+      "hash": "3534b77cc3fa956d0d6ac7c638fc2ee2",
+      "size": 13584,
+      "mtimeMs": 1791729688812
+    },
+    "wiki/queries/research-本体链路冲突消解规则待核验-2026-10-11-145027-research-44.md": {
+      "hash": "b27c100820ae880923ad506ed8510260",
+      "size": 11344,
+      "mtimeMs": 1791730227527
+    },
+    "wiki/queries/research-本来源与零点未来系列是否归入同一-synthesis-2026-10-11-144611-research-36.md": {
+      "hash": "7fd6820fcf3f4083d22ef005f9af8a37",
+      "size": 11289,
+      "mtimeMs": 1791729971404
+    },
+    "wiki/queries/research-本标准与-owlrdfskos-关系的外部研究-2026-10-12-072949-research-123.md": {
+      "hash": "ab30e0569e646bd7a3af3e7bbfb4e91a",
+      "size": 11355,
+      "mtimeMs": 1791790189661
+    },
+    "wiki/queries/research-本集通用-agent-工程视角与-wiki-主线的衔接方式-2026-10-11-144350-research-31.md": {
+      "hash": "013d36c457c385b37a6c097c3cb6e5b2",
+      "size": 17866,
+      "mtimeMs": 1791729830539
+    },
+    "wiki/queries/research-条款内关系挖掘的-nlp-方法可行性-2026-10-12-051336-research-66.md": {
+      "hash": "4f69cc3bdc2d2cddff53bbb811037bfe",
+      "size": 10705,
+      "mtimeMs": 1791782868087
+    },
+    "wiki/queries/research-架构师阿q-系列后续集数与收录范围确认-2026-10-12-080040-research-127.md": {
+      "hash": "22c96b38262c52e0231c597ecfa594cb",
+      "size": 6975,
+      "mtimeMs": 1791792040124
+    },
+    "wiki/queries/research-架构演进可逆性与复杂度回退机制待外部核验-2026-10-12-080106-research-128.md": {
+      "hash": "dc4715ca09824072d443df612e39cc4c",
+      "size": 9351,
+      "mtimeMs": 1791792066879
+    },
+    "wiki/queries/research-标准内容模块化系列标准-2026-10-12-051103-research-61.md": {
+      "hash": "10ab7dbf5d240d4b2c8b937c1cc15313",
+      "size": 8318,
+      "mtimeMs": 1791782868088
+    },
+    "wiki/queries/research-标准内容语义化与既有知识化阶段的边界-2026-10-12-053040-research-92.md": {
+      "hash": "f96b9690fc642593af3010ce6c393a23",
+      "size": 9008,
+      "mtimeMs": 1791783040275
+    },
+    "wiki/queries/research-标准内容语义化表达与-rag-chunk-切分的关系待外部核验-2026-10-12-072017-research-107.md": {
+      "hash": "592ebe4987c0f479a4a5b69e39ec20b1",
+      "size": 11243,
+      "mtimeMs": 1791789617637
+    },
+    "wiki/queries/research-标准数字化与既有语义层本体页面的官方口径对照-2026-10-12-052902-research-86.md": {
+      "hash": "f959a7f49b1ec9e6a46fc529b199f28a",
+      "size": 13985,
+      "mtimeMs": 1791784460805
+    },
+    "wiki/queries/research-标准数字化参考架构模型三维度与-sam-模型三维度内涵比对-2026-10-12-073005-research-121.md": {
+      "hash": "4e62118a657dbb888132317a46785b03",
+      "size": 11519,
+      "mtimeMs": 1791790205681
+    },
+    "wiki/queries/research-标准数字化平台与-iso-osdiec-平台系统化程度比较-2026-10-12-072539-research-114.md": {
+      "hash": "0d24fccf2458a21fe9eb083330ac19ff",
+      "size": 13684,
+      "mtimeMs": 1791789939206
+    },
+    "wiki/queries/research-标准数字化平台与-iso-osdiec-的条款级对比-2026-10-12-072742-research-116.md": {
+      "hash": "328800ac4fffbad9f50d8a0636b6b569",
+      "size": 19529,
+      "mtimeMs": 1791790062654
+    },
+    "wiki/queries/research-标准数字化平台数据层与语义层主题关联-2026-10-12-053042-research-90.md": {
+      "hash": "cbaedc5eeeee53c9c37b301c38105a38",
+      "size": 13293,
+      "mtimeMs": 1791783042340
+    },
+    "wiki/queries/research-标准数字化平台系列标准第234部分在研状态核验-2026-10-12-053930-research-99.md": {
+      "hash": "36e9775a4aaa8b4505e6a30a93444b6b",
+      "size": 13799,
+      "mtimeMs": 1791784460805
+    },
+    "wiki/queries/research-标准数字化平台系统架构与企业语义层分层架构比较-2026-10-12-051711-research-75.md": {
+      "hash": "b8020d4c52831158482058e77bcab09b",
+      "size": 12179,
+      "mtimeMs": 1791782868089
+    },
+    "wiki/queries/research-标准数字化平台试验验证的独立性与覆盖范围-2026-10-12-072410-research-115.md": {
+      "hash": "9a7ad20366ce7c1a1b549ff688730714",
+      "size": 10667,
+      "mtimeMs": 1791789850042
+    },
+    "wiki/queries/research-标准数字化总体原则与基本框架-2026-10-12-051620-research-72.md": {
+      "hash": "811623dd5e308f0555e18323b6d96ca8",
+      "size": 9821,
+      "mtimeMs": 1791782868089
+    },
+    "wiki/queries/research-标准数字化相关团体标准与企业标准覆盖缺口-2026-10-12-072306-research-112.md": {
+      "hash": "96ee9bd20ee18bf88fc364662a800c48",
+      "size": 11149,
+      "mtimeMs": 1791789786571
+    },
+    "wiki/queries/research-标准数字化系列标准正式发布版条款级比对方法-2026-10-12-072244-research-111.md": {
+      "hash": "1045f9995783e00495a8053f710480a9",
+      "size": 14606,
+      "mtimeMs": 1791789764660
+    },
+    "wiki/queries/research-标准数字化资料组锚点与官方口径对照-2026-10-12-052727-research-85.md": {
+      "hash": "b112811ffe6120e27a6d8ab6783b146f",
+      "size": 9250,
+      "mtimeMs": 1791782868090
+    },
+    "wiki/queries/research-标准本体-iri-命名空间与占位符规范-2026-10-12-051355-research-65.md": {
+      "hash": "beac534e244720bd9e3d9a63baefef73",
+      "size": 11125,
+      "mtimeMs": 1791782868091
+    },
+    "wiki/queries/research-标准本体与-agent-约束层的关联研究-2026-10-12-052908-research-88.md": {
+      "hash": "83685de7e682a9ab5056223e111eda73",
+      "size": 9734,
+      "mtimeMs": 1791784460808
+    },
+    "wiki/queries/research-标准本体与既有企业本体框架的映射研究-2026-10-12-052805-research-87.md": {
+      "hash": "ca89d72b68bae8cd751e93aeaacb60d1",
+      "size": 15151,
+      "mtimeMs": 1791784460808
+    },
+    "wiki/queries/research-标准本体约束逻辑与-agent-约束层的关联研究-2026-10-12-052911-research-89.md": {
+      "hash": "d203baa619c61ac6687572e4ccd2ecb1",
+      "size": 10961,
+      "mtimeMs": 1791782951815
+    },
+    "wiki/queries/research-标准知识图谱第1部分实现指南关系类型选取依据-2026-10-12-051227-research-64.md": {
+      "hash": "ee7c3d346490d8fc3190c0d2d504f559",
+      "size": 8120,
+      "mtimeMs": 1791782868091
+    },
+    "wiki/queries/research-标准语义知识库接口与-gbt-38672-2020-接口框架的对比-2026-10-12-051010-research-59.md": {
+      "hash": "356b6be625220aa6aff294870b3a11c1",
+      "size": 10457,
+      "mtimeMs": 1791782868092
+    },
+    "wiki/queries/research-标准语义知识库接口与-restfulopenapi-工程实践对照-2026-10-12-072725-research-119.md": {
+      "hash": "421bdd6a99a5cda9b2e84423dbba861f",
+      "size": 14176,
+      "mtimeMs": 1791790045657
+    },
+    "wiki/queries/research-标准语义知识库数据接口与-json-ldasset-administration--2026-10-12-051520-research-70.md": {
+      "hash": "d384d4372a981ae26430795670425331",
+      "size": 12604,
+      "mtimeMs": 1791782868092
+    },
+    "wiki/queries/research-标准语义知识库数据接口与-json-ldasset-administration--2026-10-12-053356-research-96.md": {
+      "hash": "e83064ece66593786e3a43737b6bdfcd",
+      "size": 12043,
+      "mtimeMs": 1791783236815
+    },
+    "wiki/queries/research-标准语义知识库系列三部分分工比较页缺失-2026-10-12-072032-research-106.md": {
+      "hash": "70e2a0fe77cec828acf0ef3a47a44ba0",
+      "size": 11230,
+      "mtimeMs": 1791789632256
+    },
+    "wiki/queries/research-核验-ontology-是否表达知识更新状态-2026-10-11-174136-research-46.md": {
+      "hash": "5ef50597279e9b95b4fde7e62088ff33",
+      "size": 10997,
+      "mtimeMs": 1791740496971
+    },
+    "wiki/queries/research-核验-palantir-与-openai-的-fde-原始定义及14-年出处-2026-10-11-143442-research-14.md": {
+      "hash": "64184af736130439548a25e1e4b8bc47",
+      "size": 12153,
+      "mtimeMs": 1791729282939
+    },
+    "wiki/queries/research-核验-palantir-与-openai-的-fde-岗位定义-2026-10-11-143241-research-11.md": {
+      "hash": "f2b39b0f9fd25c9b729d0602ed38859e",
+      "size": 12090,
+      "mtimeMs": 1791729161758
+    },
+    "wiki/queries/research-核验-semantica-的官方项目与当前-api-2026-10-11-110857-research-3.md": {
+      "hash": "0ef1a57676bf7c579d09ad1373301025",
+      "size": 1913,
+      "mtimeMs": 1791716937071
+    },
+    "wiki/queries/research-核验-semantica-的官方项目与当前-api-2026-10-12-080647-research-131.md": {
+      "hash": "bc86f300b66cbc33d9f0c51c33a99072",
+      "size": 9612,
+      "mtimeMs": 1791792407214
+    },
+    "wiki/queries/research-核验客服查单案例的真实性与业务效果-2026-10-11-143443-research-16.md": {
+      "hash": "7c587d7d2c3adb00382b1fa8e3ed9340",
+      "size": 9014,
+      "mtimeMs": 1791729283789
+    },
+    "wiki/queries/research-检索稳定性作为可测量工程指标-2026-10-11-144711-research-38.md": {
+      "hash": "0e43710e737e64d24701ae19c61884f5",
+      "size": 11093,
+      "mtimeMs": 1791730031572
+    },
+    "wiki/queries/research-检索链接命中-17-条的外部证据登记待确认-2026-10-12-072151-research-110.md": {
+      "hash": "2003feaa8594fe8e3b1d1473d10e8e23",
+      "size": 9399,
+      "mtimeMs": 1791789711290
+    },
+    "wiki/queries/research-正式发布版全文获取与条款差异核验-2026-10-12-051857-research-78.md": {
+      "hash": "86e8d0c354ddae5bc3fa537e5e46c211",
+      "size": 11053,
+      "mtimeMs": 1791782868094
+    },
+    "wiki/queries/research-正式发布版全文获取路径与条款级比对方法-2026-10-12-071905-research-103.md": {
+      "hash": "9af3e7ea68e275cffecc55b23b999db8",
+      "size": 13107,
+      "mtimeMs": 1791789545069
+    },
+    "wiki/queries/research-正式发布版条款补齐路径待确认-2026-10-12-072121-research-109.md": {
+      "hash": "b60348290ae228fed016ff39e969187c",
+      "size": 11914,
+      "mtimeMs": 1791789681249
+    },
+    "wiki/queries/research-用一手资料校准-fde-交付方法与-ai-协作岗位定义-2026-10-11-143312-research-10.md": {
+      "hash": "5d63fe91c27e548ac2641fcefb0cb717",
+      "size": 13601,
+      "mtimeMs": 1791729192863
+    },
+    "wiki/queries/research-编制说明第-6-章依据表述与正文差异-2026-10-12-053918-research-98.md": {
+      "hash": "5223350d27a312504b2aff349f719e33",
+      "size": 12416,
+      "mtimeMs": 1791784460811
+    },
+    "wiki/queries/research-行业级标准数字化落地概念页-2026-10-12-052259-research-83.md": {
+      "hash": "12d8e8d9a73996f1c522f5b6dcf74d28",
+      "size": 10012,
+      "mtimeMs": 1791782868095
+    },
+    "wiki/queries/research-补齐-graphdb-与-palantir-接入主张的一手出处-2026-10-11-143153-research-7.md": {
+      "hash": "730a9442fa5cef876f67281c41b20af6",
+      "size": 10078,
+      "mtimeMs": 1791729113723
+    },
+    "wiki/queries/research-表达单元模型与本体建模方法学的映射-2026-10-12-053222-research-93.md": {
+      "hash": "c68e457a149e208aacdfec9638700e42",
+      "size": 13796,
+      "mtimeMs": 1791783142022
+    },
+    "wiki/queries/research-语义层数据接口契约与上层应用消费边界-2026-10-12-052111-research-80.md": {
+      "hash": "e90e78536b75b7e8172306859afdf535",
+      "size": 15436,
+      "mtimeMs": 1791782868096
+    },
+    "wiki/queries/research-语义跨度-可形式化程度二维任务分类-2026-10-11-144656-research-37.md": {
+      "hash": "1252bba4f2d90108c855554dcf77f094",
+      "size": 11623,
+      "mtimeMs": 1791730016210
+    },
+    "wiki/queries/research-语义集成技术要求与-gbt-480003gbt-470121-的技术分工待厘清-2026-10-12-052301-research-81.md": {
+      "hash": "49c5ea6f7e2c083dfab4b19cb7c22d1a",
+      "size": 14223,
+      "mtimeMs": 1791782868097
+    },
+    "wiki/queries/research-语义集成技术要求与企业语义层集成问题的对应关系待外部佐证-2026-10-12-052153-research-82.md": {
+      "hash": "c2e45278f99521bd9899cdf7360c8c52",
+      "size": 11894,
+      "mtimeMs": 1791782868098
+    },
+    "wiki/queries/research-负载均衡器自身高可用机制待补充-2026-10-12-080345-research-130.md": {
+      "hash": "96ed9bc067656585718f292dc317d300",
+      "size": 7246,
+      "mtimeMs": 1791792225956
+    },
+    "wiki/queries/research-通用语义化表达单元与专用语义化表达单元比较页-2026-10-12-051347-research-67.md": {
+      "hash": "7aa7e8231332661cc6e708340cd14851",
+      "size": 7813,
+      "mtimeMs": 1791782868098
+    },
+    "wiki/queries/research-锁定订单演示源码并复核实际执行链路-2026-10-11-143119-research-6.md": {
+      "hash": "1afb33faa23106a8a42871ccc157b470",
+      "size": 10522,
+      "mtimeMs": 1791729079226
+    },
+    "wiki/queries/research-附录-a-五个领域应用示例的独立案例页-2026-10-12-051303-research-62.md": {
+      "hash": "46a10c35ae463a0ec6f47c0fcaed0503",
+      "size": 10872,
+      "mtimeMs": 1791782868099
+    },
+    "wiki/queries/research-驻场交付的可迁移性与职业路径对比-2026-10-11-144813-research-41.md": {
+      "hash": "8400bd5b555943ed3f46199c18476894",
+      "size": 11388,
+      "mtimeMs": 1791730093081
+    },
+    "wiki/queries/rto-rpo英文全称asr转写错误待核验.md": {
+      "hash": "0155d5d6aa6748c356f32858cff110d7",
+      "size": 1184,
+      "mtimeMs": 1791791205943
+    },
+    "wiki/queries/sam模型三维度与本文件三维度内涵一致性待核验.md": {
+      "hash": "e9b69850fd17474ecc00903ba1703307",
+      "size": 1979,
+      "mtimeMs": 1791784547713
+    },
+    "wiki/queries/semantica能力-api与推理边界待核验.md": {
+      "hash": "e8452c1411067fd7def7d7838e366d07",
+      "size": 4380,
+      "mtimeMs": 1791707283487
+    },
+    "wiki/queries/smart五层次与sam模型关系及既有页面口径一致性待核验.md": {
+      "hash": "79937099ebbaf8f75000d759a8fee532",
+      "size": 2964,
+      "mtimeMs": 1791785316371
+    },
+    "wiki/queries/tc626正式成立日期与swg29注销状态待核验.md": {
+      "hash": "2ed00b277cd3fc92dbcf5e4d8dad62ef",
+      "size": 2720,
+      "mtimeMs": 1791784295758
+    },
+    "wiki/queries/workflow定义与既有页面口径冲突待核验.md": {
+      "hash": "92eeaa52fc8c09519a9f08c3c056e154",
+      "size": 1984,
+      "mtimeMs": 1791725393691
+    },
+    "wiki/queries/yc-z-650-2026标准正文与发布信息待核验.md": {
+      "hash": "293ab2d1e6123ad69329097b32587ab7",
+      "size": 2231,
+      "mtimeMs": 1791782868100
+    },
+    "wiki/queries/一个object-type只能对应一张表规则待核验.md": {
+      "hash": "e1dea5841e63207fdb45ef2ab3098a11",
+      "size": 1489,
+      "mtimeMs": 1791725176430
+    },
+    "wiki/queries/上下文压缩的合规边界待核验.md": {
+      "hash": "c1415dd25350602dff93b0c7edba6773",
+      "size": 1548,
+      "mtimeMs": 1791725601321
+    },
+    "wiki/queries/上下文质量与模型规模贡献待核验.md": {
+      "hash": "a7e8d6b0d04fb32d623aeafe983f2340",
+      "size": 2760,
+      "mtimeMs": 1791724818474
+    },
+    "wiki/queries/两套mcp能力边界待核验.md": {
+      "hash": "f9f976b84ccb15a948b8159c60776542",
+      "size": 1874,
+      "mtimeMs": 1791725240748
+    },
+    "wiki/queries/中台一词在第2集与第3集含义冲突待核验.md": {
+      "hash": "8f9279ffbb01d0d8bfc2fe24d196091c",
+      "size": 2281,
+      "mtimeMs": 1791791528812
+    },
+    "wiki/queries/五层架构官方命名与划分待核验.md": {
+      "hash": "600f292688c62a2f44fc845e7c499b8a",
+      "size": 1846,
+      "mtimeMs": 1791725240747
+    },
+    "wiki/queries/五种流派论文与案例待核验.md": {
+      "hash": "855926e31e58d957548bb7bfdddc8cd4",
+      "size": 2210,
+      "mtimeMs": 1791725055488
+    },
+    "wiki/queries/交易与分析分离与读写分离口径一致性待核验.md": {
+      "hash": "47854b66d71199fb41a6a75d77a6e30b",
+      "size": 2190,
+      "mtimeMs": 1791791379792
+    },
+    "wiki/queries/人机协同留痕与快照时效待核验.md": {
+      "hash": "dc1612cb2a6f72cac8de4a4b14c3122b",
+      "size": 2524,
+      "mtimeMs": 1791725013480
+    },
+    "wiki/queries/企业工具数量量级待核验.md": {
+      "hash": "fc30e9b66b067adca78021eb429e6a5b",
+      "size": 1321,
+      "mtimeMs": 1791725601320
+    },
+    "wiki/queries/企业应用架构六阶段划分出处待核验.md": {
+      "hash": "2ba594df88ad134d2b77e02c45bdc680",
+      "size": 1397,
+      "mtimeMs": 1791791270397
+    },
+    "wiki/queries/传统数据库不支持写回是能力限制还是治理边界待核验.md": {
+      "hash": "0943a81beef6fba7457bcf5f3d1f3c88",
+      "size": 1699,
+      "mtimeMs": 1791791154797
+    },
+    "wiki/queries/作者github七模式示例代码定位待核验.md": {
+      "hash": "a8c986992f0abad82076994f284c9a37",
+      "size": 1692,
+      "mtimeMs": 1791725393690
+    },
+    "wiki/queries/全国标准数字化标准化技术委员会与sac-swg29关系待核验.md": {
+      "hash": "561a8b28bebd05b2cbb89738a3a143cc",
+      "size": 2220,
+      "mtimeMs": 1791782868102
+    },
+    "wiki/queries/关系名称重复歧义待核验.md": {
+      "hash": "9ca36b89f8d816f41d02a618b91388eb",
+      "size": 2231,
+      "mtimeMs": 1791784694907
+    },
+    "wiki/queries/协同制定范围条款出版方转录与正式正文差异待核验.md": {
+      "hash": "f346ed721ed157c97f63bfe07e6b8f65",
+      "size": 1945,
+      "mtimeMs": 1791786334396
+    },
+    "wiki/queries/协同制定过程九阶段与生命周期四阶段关系待核验.md": {
+      "hash": "fcb7051542836c2c4f9781a28c0761a0",
+      "size": 1930,
+      "mtimeMs": 1791784820596
+    },
+    "wiki/queries/协同制定过程章节号引用6-2-1表1待核验.md": {
+      "hash": "6960281807c8792fb56deeefde30eb6f",
+      "size": 1977,
+      "mtimeMs": 1791782868102
+    },
+    "wiki/queries/可拓展能力等级定义缺失待核验.md": {
+      "hash": "839b321225411c4ae21fbbfc30384752",
+      "size": 1947,
+      "mtimeMs": 1791784547713
+    },
+    "wiki/queries/同城双活写主机房是否等同放弃双写待核验.md": {
+      "hash": "864e8ead6a40b1a08ee73f36214666bf",
+      "size": 1598,
+      "mtimeMs": 1791791205942
+    },
+    "wiki/queries/四层架构是分工还是施工顺序待核验.md": {
+      "hash": "c2f8a5e6e7f1ab90fd90f7ab3e8e69c9",
+      "size": 2157,
+      "mtimeMs": 1791725443691
+    },
+    "wiki/queries/团体标准库防火墙拦截与覆盖缺口待核验.md": {
+      "hash": "7c6812c2cdfb15324d580410abc4d052",
+      "size": 1822,
+      "mtimeMs": 1791782883001
+    },
+    "wiki/queries/国产开源与闭源sota差距判断待核验.md": {
+      "hash": "1e550f0a0cca40de3214b24799d4f4d4",
+      "size": 1436,
+      "mtimeMs": 1791725684929
+    },
+    "wiki/queries/国内-ram-研究几乎为零主张待核验.md": {
+      "hash": "37f9bb9c3ff35fafea9ba4a9edbd1bd9",
+      "size": 2508,
+      "mtimeMs": 1791784605832
+    },
+    "wiki/queries/国家标准计划库未查询与后续部分在研待核验.md": {
+      "hash": "d0765e7b37c88ea455ba704f1d292f5c",
+      "size": 1843,
+      "mtimeMs": 1791782883012
+    },
+    "wiki/queries/图10实施架构功能模型标题与内容错配待核验.md": {
+      "hash": "37bcec0ce20370a9cdbc7695ce4b8a39",
+      "size": 1933,
+      "mtimeMs": 1791784926002
+    },
+    "wiki/queries/图谱检索与向量检索稳定性对比待核验.md": {
+      "hash": "65cd06b576d47a048f6d5253fce8c03b",
+      "size": 1811,
+      "mtimeMs": 1791725684927
+    },
+    "wiki/queries/增量更新双写时间差裁决规则待核验.md": {
+      "hash": "7e73179705e1be848bd61af98b31f4e5",
+      "size": 1476,
+      "mtimeMs": 1791725176433
+    },
+    "wiki/queries/大厂共识优先最简单架构原文待核验.md": {
+      "hash": "c9e75833c8577a32aec82a359bfe33b5",
+      "size": 1776,
+      "mtimeMs": 1791725547428
+    },
+    "wiki/queries/好架构是演化出来的与规范先行实现后置张力待核验.md": {
+      "hash": "9223f9990f67784e08dc819acac2295f",
+      "size": 1868,
+      "mtimeMs": 1791791270396
+    },
+    "wiki/queries/容灾延迟数字30ms60ms2ms待核验.md": {
+      "hash": "aaa27c3693f7e4f9c50e154b5dd4fd33",
+      "size": 1468,
+      "mtimeMs": 1791791205942
+    },
+    "wiki/queries/宽表拆分规则能否产品化待核验.md": {
+      "hash": "6def5f6f38343487bdd0b856c7079e90",
+      "size": 1492,
+      "mtimeMs": 1791725176431
+    },
+    "wiki/queries/封面英文名称与标准名称占位符异常待核验.md": {
+      "hash": "484e28d6fda3918fb4314e8b99ae4ca8",
+      "size": 1861,
+      "mtimeMs": 1791784547714
+    },
+    "wiki/queries/属性定义域命名不一致待核验.md": {
+      "hash": "4f38875cf733c3f50e6ac55b515b7f91",
+      "size": 1563,
+      "mtimeMs": 1791782868105
+    },
+    "wiki/queries/工具数量阈值10的适用条件待核验.md": {
+      "hash": "3f0dd0b6af8a3c7f5688003931a57c91",
+      "size": 1729,
+      "mtimeMs": 1791725393690
+    },
+    "wiki/queries/托管sandbox合作方名称待核验.md": {
+      "hash": "be23b121b0ef645d67252ec377993511",
+      "size": 1125,
+      "mtimeMs": 1791725601320
+    },
+    "wiki/queries/报销单数字与制度真实性待核验.md": {
+      "hash": "36f6f62f0046ba7bb7cf7764b417a690",
+      "size": 1218,
+      "mtimeMs": 1791725547430
+    },
+    "wiki/queries/接口参数名status大小写不一致待核验.md": {
+      "hash": "93d6e4b2c3a8063e5d33857f2ea0b271",
+      "size": 1843,
+      "mtimeMs": 1791782868106
+    },
+    "wiki/queries/接口返回状态码章节引用错位待核验.md": {
+      "hash": "ece3e5e38ff6bab3fe7fd8c5c5bc4915",
+      "size": 1797,
+      "mtimeMs": 1791785436843
+    },
+    "wiki/queries/接管率作为升级依据的归因待核验.md": {
+      "hash": "3bcbff899ac4d190274da3586a9ffd60",
+      "size": 1535,
+      "mtimeMs": 1791725547431
+    },
+    "wiki/queries/收尾总结erp时代与excel时代口播冲突待核验.md": {
+      "hash": "e877f43feccab51f65ff6777a486b365",
+      "size": 1631,
+      "mtimeMs": 1791791270396
+    },
+    "wiki/queries/数据中台不是技术而是管理体系主张待核验.md": {
+      "hash": "4da418f45ceecd9767e5047f03800369",
+      "size": 2225,
+      "mtimeMs": 1791791379791
+    },
+    "wiki/queries/文件末尾10-4标题残留待核验.md": {
+      "hash": "c2222ab76b9c0e1ef7a6fad6e46fc78e",
+      "size": 1463,
+      "mtimeMs": 1791785436847
+    },
+    "wiki/queries/文件格式不决定业务模型与格式影响抽取质量的张力.md": {
+      "hash": "da9bf203699c0871575ef33760e63f46",
+      "size": 542,
+      "mtimeMs": 1791740441857
+    },
+    "wiki/queries/本体与agent接入边界待核验.md": {
+      "hash": "54dba0a7d454a1f3144b539d58087d91",
+      "size": 6337,
+      "mtimeMs": 1791718644665
+    },
+    "wiki/queries/本体与数据约束及版本演化待核验.md": {
+      "hash": "f9e2ac5584600fb4ebc150bbb24f1fd0",
+      "size": 4824,
+      "mtimeMs": 1791720704476
+    },
+    "wiki/queries/本体与知识图谱职责边界待核验.md": {
+      "hash": "7d0e3de8220bcee1e80bf00003fd481b",
+      "size": 4251,
+      "mtimeMs": 1791724955046
+    },
+    "wiki/queries/本体事实与rag依据冲突裁决待核验.md": {
+      "hash": "ce2911b6a58d5660d1dcd24301513d79",
+      "size": 1975,
+      "mtimeMs": 1791724943029
+    },
+    "wiki/queries/本体即动态数字孪生类比与官方定义差异待核验.md": {
+      "hash": "44ed2962c13c8c1dbcf0e15982a84da1",
+      "size": 1735,
+      "mtimeMs": 1791791154796
+    },
+    "wiki/queries/本体建模两条路径的验收标准待核验.md": {
+      "hash": "e8bb15f4f884ff8f7e3a46fe45fe0a94",
+      "size": 2882,
+      "mtimeMs": 1791724772926
+    },
+    "wiki/queries/本体建模成本收益边界待核验.md": {
+      "hash": "92bbeb9e8d59d6d0ab94fda7ce572259",
+      "size": 1549,
+      "mtimeMs": 1791725684928
+    },
+    "wiki/queries/本体操作层与知识图谱口径一致性待核验.md": {
+      "hash": "327704a17695c36c27d9d9abaf29fce3",
+      "size": 1912,
+      "mtimeMs": 1791791154797
+    },
+    "wiki/queries/本体质量度量口径待核验.md": {
+      "hash": "40be609af07974648a4e0e0b951ce6e7",
+      "size": 1675,
+      "mtimeMs": 1791725055489
+    },
+    "wiki/queries/本体验证规则来源与自证风险待核验.md": {
+      "hash": "7f75ea23965287325da35151ce6d6524",
+      "size": 1935,
+      "mtimeMs": 1791725055489
+    },
+    "wiki/queries/本集asr存疑专名待核验.md": {
+      "hash": "e30042dfdbd59a43bc0d6819dca4bec0",
+      "size": 3910,
+      "mtimeMs": 1791725684926
+    },
+    "wiki/queries/本集数字与量级估计待外部核验.md": {
+      "hash": "49d4338ab1881f27552c604b25f47a7a",
+      "size": 1903,
+      "mtimeMs": 1791791379792
+    },
+    "wiki/queries/架构师阿q合集集号与发布时间顺序不一致待核验.md": {
+      "hash": "6a83e5bafdeaef79db726a843d884c16",
+      "size": 2163,
+      "mtimeMs": 1791791528812
+    },
+    "wiki/queries/架构师阿q第1集与第2集三条核心思维一致性待核验.md": {
+      "hash": "622a2d56ab0f5eab4119f37fdcd1d5ba",
+      "size": 1463,
+      "mtimeMs": 1791791270397
+    },
+    "wiki/queries/某云clb用lvs加keepalived实现待核验.md": {
+      "hash": "98fcfe0a8ac389565fb4f8277ae66a7f",
+      "size": 1582,
+      "mtimeMs": 1791791470470
+    },
+    "wiki/queries/标准名称由标准内容数字化协同研制要求变更为协同制定要求的依据待核验.md": {
+      "hash": "a9c78b166327ebe8edbdba0f21ba05e0",
+      "size": 2510,
+      "mtimeMs": 1791784864623
+    },
+    "wiki/queries/标准数字化平台前言已发布部分表述待核验.md": {
+      "hash": "1723f5e5fa8c81e51b19a980a72267fd",
+      "size": 1489,
+      "mtimeMs": 1791782868110
+    },
+    "wiki/queries/标准数字化平台比iso-osd-iec更系统化主张待核验.md": {
+      "hash": "de38df9f9f0409127771d1732dbc6675",
+      "size": 2262,
+      "mtimeMs": 1791782868110
+    },
+    "wiki/queries/标准数字化平台第1部分标准编号与gb-t-47012-1关系待核验.md": {
+      "hash": "45e13a5c9170f5620814d34f9e279ceb",
+      "size": 2467,
+      "mtimeMs": 1791782868111
+    },
+    "wiki/queries/标准数字化标准族国际标准一致性程度待核验.md": {
+      "hash": "2258079aa34432297ba2f341f21705c2",
+      "size": 1970,
+      "mtimeMs": 1791784295758
+    },
+    "wiki/queries/标准数字化系列构成五部分与六部分矛盾待核验.md": {
+      "hash": "674d280e8fb6975d2ef90762b9cc08e2",
+      "size": 2301,
+      "mtimeMs": 1791784820593
+    },
+    "wiki/queries/标准数字化系列相近标准匹配非技术承接待核验.md": {
+      "hash": "a615a9b4da4becd92b9b2f4e381bb9b9",
+      "size": 1769,
+      "mtimeMs": 1791782863173
+    },
+    "wiki/queries/标准本体iri命名空间占位符待核验.md": {
+      "hash": "3d73d8d4beae0d8dea63668bd7691713",
+      "size": 1864,
+      "mtimeMs": 1791784694908
+    },
+    "wiki/queries/标准生命周期九阶段与既有四阶段概念关系待核验.md": {
+      "hash": "adfe6839ee91150f2573208db1a8eaba",
+      "size": 2024,
+      "mtimeMs": 1791784926002
+    },
+    "wiki/queries/标准起草者术语来源gb-t-20002-3错配待核验.md": {
+      "hash": "dbe2aa6cd997207c8fa1d4f0d2abd400",
+      "size": 1686,
+      "mtimeMs": 1791782868111
+    },
+    "wiki/queries/模型解释不可信研究出处待核验.md": {
+      "hash": "566508fd842461605e64f27c7655ef80",
+      "size": 1179,
+      "mtimeMs": 1791725547429
+    },
+    "wiki/queries/正式发布版全文未获取与条款级比对待启动.md": {
+      "hash": "a55552eb4fa0a8f4ecfae81ffa57d847",
+      "size": 1842,
+      "mtimeMs": 1791782883039
+    },
+    "wiki/queries/现行6项标准均不涉及本标准范围主张待核验.md": {
+      "hash": "221ed98e7ca9d37a71b9a9e58526b1e5",
+      "size": 2498,
+      "mtimeMs": 1791784742565
+    },
+    "wiki/queries/端到端链路数字不自洽待核验.md": {
+      "hash": "d374870e50865b7f5a0b72f5bd711745",
+      "size": 1796,
+      "mtimeMs": 1791725240748
+    },
+    "wiki/queries/第3部分本体建模规范与本体建模要求命名冲突待核验.md": {
+      "hash": "7458fd79090ab0e904fe31bf24553016",
+      "size": 2184,
+      "mtimeMs": 1791782868112
+    },
+    "wiki/queries/约束类型属性跨类语义漂移待核验.md": {
+      "hash": "93daad91c2ea3a9e24a68d438cc8ac7a",
+      "size": 2439,
+      "mtimeMs": 1791784694907
+    },
+    "wiki/queries/编制说明引用文件编号gb-t-xxxxx占位符待核验.md": {
+      "hash": "ef12016a8c343ccd301596e905eac0b2",
+      "size": 2070,
+      "mtimeMs": 1791784864623
+    },
+    "wiki/queries/编制说明日期与起草过程编号异常待核验.md": {
+      "hash": "2dc9c275c11f06236d37fa29d45e377c",
+      "size": 1281,
+      "mtimeMs": 1791782861958
+    },
+    "wiki/queries/编制说明标准化服资源务提供方笔误待核验.md": {
+      "hash": "f6b0b888fdfc272d51bc4aebcc09b9fd",
+      "size": 1422,
+      "mtimeMs": 1791782862446
+    },
+    "wiki/queries/编制说明第5掌笔误待核验.md": {
+      "hash": "facdd03aaffb7d5b87f3fe5ff994b5dd",
+      "size": 1335,
+      "mtimeMs": 1791782868113
+    },
+    "wiki/queries/编制说明第7章第8章节号引用错乱待核验.md": {
+      "hash": "045ae8b0d17264944e15d456c7391100",
+      "size": 2577,
+      "mtimeMs": 1791782862595
+    },
+    "wiki/queries/融合检索升级判据待核验.md": {
+      "hash": "6b19dc0bc3e6b0fb39e94e017bf46ba6",
+      "size": 1905,
+      "mtimeMs": 1791724943030
+    },
+    "wiki/queries/表2中文主题词重复项待核验.md": {
+      "hash": "712a423afea0837837ee9b46ec25d4ea",
+      "size": 1982,
+      "mtimeMs": 1791785220593
+    },
+    "wiki/queries/表2英文名称拼写异常待核验.md": {
+      "hash": "ebf0fb0aa4f0b49a4e4c49d80d2666a6",
+      "size": 1530,
+      "mtimeMs": 1791785220595
+    },
+    "wiki/queries/表2记录日期示例位数异常待核验.md": {
+      "hash": "5faf0b1eea10fa9ca3293035450553de",
+      "size": 1509,
+      "mtimeMs": 1791785220594
+    },
+    "wiki/queries/表9与正文表11编号错位待核验.md": {
+      "hash": "6c141f39fa56e4ad2f38bf59f4d1afaf",
+      "size": 1375,
+      "mtimeMs": 1791785436843
+    },
+    "wiki/queries/表号与正文引用错位待核验.md": {
+      "hash": "c91b2d50b120835b93b85d58c5aa347e",
+      "size": 1378,
+      "mtimeMs": 1791782861958
+    },
+    "wiki/queries/规范先行与语义先行论证路径差异待核验.md": {
+      "hash": "b7367e7257792f3dbb4061ea7ac1af2a",
+      "size": 2130,
+      "mtimeMs": 1791782885361
+    },
+    "wiki/queries/角色仿真数字来源待核验.md": {
+      "hash": "f0abdf445c5f6ddd31970179179c940e",
+      "size": 1775,
+      "mtimeMs": 1791725240750
+    },
+    "wiki/queries/订单客服流程中的人工审核与只能回复客户边界.md": {
+      "hash": "a0a8471270c880813a35ba3e1519f60e",
+      "size": 685,
+      "mtimeMs": 1791740454627
+    },
+    "wiki/queries/语义化表达单元与语义化要素术语混用待核验.md": {
+      "hash": "9a20d47cc1ce8cafc3ae45f273db036d",
+      "size": 1622,
+      "mtimeMs": 1791785436844
+    },
+    "wiki/queries/负载均衡器自身高可用本集未展开待补充.md": {
+      "hash": "2efe9542a612187a22ee665cabf18fd5",
+      "size": 1630,
+      "mtimeMs": 1791791470472
+    },
+    "wiki/queries/长任务五项基础设施与生产级五件事口径待核验.md": {
+      "hash": "22637bc66612d21965733f61ef0569fe",
+      "size": 1420,
+      "mtimeMs": 1791725601322
+    },
+    "wiki/queries/防幻觉机制层数与列举项待核验.md": {
+      "hash": "ab06ff7528e45ca540d1cee08091917d",
+      "size": 1442,
+      "mtimeMs": 1791725240749
+    },
+    "wiki/queries/附录a4图a10标题与图a9重复待核验.md": {
+      "hash": "1654256dbd9ebcf1f0de49520421d685",
+      "size": 2001,
+      "mtimeMs": 1791782868115
+    },
+    "wiki/queries/附录a末尾10-5标题残缺待核验.md": {
+      "hash": "da97d81c01dd2ceea7c758a8e3f175b3",
+      "size": 1535,
+      "mtimeMs": 1791785220596
+    },
+    "wiki/queries/附录a条文说明来源标注错配待核验.md": {
+      "hash": "99e04f065bbd3b23460229b2533e5c7e",
+      "size": 2165,
+      "mtimeMs": 1791782868115
+    },
+    "wiki/queries/附录a行业标准不完全适用本文件边界待核验.md": {
+      "hash": "cbe3692cf5369fea39d2120ee12e23a0",
+      "size": 2458,
+      "mtimeMs": 1791785220596
+    },
+    "wiki/queries/附录a问答接口示例json格式不规范待核验.md": {
+      "hash": "d4aebcddb1ec6ea44458185f6886da02",
+      "size": 1347,
+      "mtimeMs": 1791785436845
+    },
+    "wiki/queries/项目评审清单内容待核验.md": {
+      "hash": "a738a95209595a7764d5340909e6da8a",
+      "size": 1209,
+      "mtimeMs": 1791725547430
+    },
+    "wiki/sources/10-palantir研究--16-央国企一把手听懂palantir--9qrepm.md": {
+      "hash": "08158561e5a37a9a36013c2cc5c55b98",
+      "size": 8780,
+      "mtimeMs": 1791791027375
+    },
+    "wiki/sources/28-ontologyai-coding-在本体中的建模和实战--2-文章--28-ontologyai-coding-在本体中的建模和实战--154urc3.md": {
+      "hash": "51c6af4fa28f71d66642e418716a0df3",
+      "size": 8379,
+      "mtimeMs": 1791725676942
+    },
+    "wiki/sources/5-架构师阿q--16-第-4-集容灾我用一个故事讲清楚--11f4g2y.md": {
+      "hash": "9a21897c1275477d0812ef628176ddd4",
+      "size": 6107,
+      "mtimeMs": 1791791205937
+    },
+    "wiki/sources/5-架构师阿q--19-第-1-集互联网架构就这1个故事讲清楚--j8actw.md": {
+      "hash": "51f14954d266b60456dbee611e2d28e4",
+      "size": 6456,
+      "mtimeMs": 1791790956023
+    },
+    "wiki/sources/5-架构师阿q--25-第-5-集负载均衡是什么lvs的三种模式有什么区别--mxb374.md": {
+      "hash": "e7647e92effe660830370de2730f8e0f",
+      "size": 8284,
+      "mtimeMs": 1791791470460
+    },
+    "wiki/sources/5-架构师阿q--26-第-2-集应用架构就这1个故事讲透企业应用架构演进史--1mtz2nm.md": {
+      "hash": "52d3ea794301fd641eccda4e793248c6",
+      "size": 7810,
+      "mtimeMs": 1791791270388
+    },
+    "wiki/sources/5-架构师阿q--32-第-3-集一口气讲透大数据数据库数据仓库数据湖数据中台的底层原理--13hl5sh.md": {
+      "hash": "04d6a15ca6e80678fe83fac272229a22",
+      "size": 8988,
+      "mtimeMs": 1791791379778
+    },
+    "wiki/sources/5-架构师阿q--7-00-系列索引--1fl2d59.md": {
+      "hash": "4d182c270a612a6d2d88764848aff3a1",
+      "size": 13007,
+      "mtimeMs": 1791791528808
+    },
+    "wiki/sources/5-标准数字化--11-02-标准族总览与关系--59xm5m.md": {
+      "hash": "bb321c8e3c5e8bfa57ec684ab731fad9",
+      "size": 15799,
+      "mtimeMs": 1791784460820
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--16-0-公开征求意见函扫描件无文本层--okl278.md": {
+      "hash": "de6183a222a9e38bb7358c6c89942cd1",
+      "size": 3041,
+      "mtimeMs": 1791787158182
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--23-4-gb-t-470121-2026-系统架构--10-征求意见稿及编制说明--1mk60es.md": {
+      "hash": "7b496f1e9ccf52c673a7b49f85a24154",
+      "size": 18001,
+      "mtimeMs": 1791787158204
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--23-4-gb-t-470121-2026-系统架构--7-标准正文文本版--x2fh08.md": {
+      "hash": "8856b446938a94674f859093c6b5f508",
+      "size": 16207,
+      "mtimeMs": 1791784925997
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--23-4-gb-t-470121-2026-系统架构--7-编制说明文本版--1irj7bx.md": {
+      "hash": "2d1f90ff36f54705da203ef5020d9ef1",
+      "size": 31540,
+      "mtimeMs": 1791785005549
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-1-gb-t-480002-2026-参考架构模型--10-征求意见稿及编制说明--3dqqdn.md": {
+      "hash": "a71f1a9a607115bdf451e2d0d62130f2",
+      "size": 10256,
+      "mtimeMs": 1791787158233
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-1-gb-t-480002-2026-参考架构模型--7-标准正文文本版--jynf9n.md": {
+      "hash": "eae0cac9ab5b61b34b7660e92056664d",
+      "size": 12521,
+      "mtimeMs": 1791784547704
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-1-gb-t-480002-2026-参考架构模型--7-编制说明文本版--z8yan2.md": {
+      "hash": "203ec417ea860671524691f57a0598fc",
+      "size": 13835,
+      "mtimeMs": 1791784605828
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-2-gb-t-480003-2026-本体建模要求--10-征求意见稿及编制说明--9gc7zx.md": {
+      "hash": "84e7e55f1993dbc4e2d2ae622296109e",
+      "size": 15455,
+      "mtimeMs": 1791787158196
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-2-gb-t-480003-2026-本体建模要求--7-标准正文文本版--1km976h.md": {
+      "hash": "1f53c5da16d1e31853e3ec6c39bd18a5",
+      "size": 18504,
+      "mtimeMs": 1791784694901
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-2-gb-t-480003-2026-本体建模要求--7-编制说明文本版--1rj9ta8.md": {
+      "hash": "70e5bdaed36e3cb3a58ea3cfc32fec45",
+      "size": 10936,
+      "mtimeMs": 1791784742562
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-3-gb-t-480004-2026-协同制定要求--10-征求意见稿及编制说明--ygc0vs.md": {
+      "hash": "22cc51cb4114c1e12beff19f90383616",
+      "size": 13159,
+      "mtimeMs": 1791787158189
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-3-gb-t-480004-2026-协同制定要求--7-标准正文文本版--1mgty9w.md": {
+      "hash": "6d15f806a2a08ce7abdde3fb36a7f6e7",
+      "size": 31595,
+      "mtimeMs": 1791784820587
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-3-gb-t-480004-2026-协同制定要求--7-编制说明文本版--5l6up.md": {
+      "hash": "24670591a3ce6e9faa0424d86b2997da",
+      "size": 13277,
+      "mtimeMs": 1791784864621
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-6-gb-t-469172-2026-数据接口要求--10-征求意见稿及编制说明--1op29l5.md": {
+      "hash": "2eac198faf6e2983f8bb74ac46e62e99",
+      "size": 14683,
+      "mtimeMs": 1791787158218
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-6-gb-t-469172-2026-数据接口要求--7-标准正文文本版--1w22k59.md": {
+      "hash": "6c9a081dff6d2b9bd1a327475c3e9385",
+      "size": 14556,
+      "mtimeMs": 1791785384985
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--25-6-gb-t-469172-2026-数据接口要求--7-编制说明文本版--18zgs70.md": {
+      "hash": "29148fa373ba755b4c9aedd0bed2600c",
+      "size": 14106,
+      "mtimeMs": 1791785489710
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--28-5-gb-t-469171-2026-语义化表达通用要求--10-征求意见稿及编制说明--5x5cvj.md": {
+      "hash": "0e61775431b98517f9d65ebc3bc78ac1",
+      "size": 42648,
+      "mtimeMs": 1791787158226
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--28-5-gb-t-469171-2026-语义化表达通用要求--13-征求意见稿及编制说明文本版--1y8eqk8.md": {
+      "hash": "1421904654d59b2e3340bf0950d58fe4",
+      "size": 7212,
+      "mtimeMs": 1791789042387
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--28-5-gb-t-469171-2026-语义化表达通用要求--14-标准正文文本版上-第1至7章--y85fkz.md": {
+      "hash": "5cfdc0ebbf000dd4f2e436ef87ccdcdb",
+      "size": 22698,
+      "mtimeMs": 1791785066797
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--28-5-gb-t-469171-2026-语义化表达通用要求--18-标准正文文本版下-第8至10章及附录--ut4ki8.md": {
+      "hash": "0961767fff3cfd4b59e12506c31caa32",
+      "size": 16667,
+      "mtimeMs": 1791785174017
+    },
+    "wiki/sources/5-标准数字化--11-2-征求意见稿草案全文--28-5-gb-t-469171-2026-语义化表达通用要求--7-编制说明文本版--eaiezm.md": {
+      "hash": "8014060a65b0191ce24330cc4fd8d523",
+      "size": 14905,
+      "mtimeMs": 1791785267335
+    },
+    "wiki/sources/5-标准数字化--12-01-检索记录与来源说明--i3og4y.md": {
+      "hash": "437fbd6ea4b19e9cddf367c5400c56b1",
+      "size": 15444,
+      "mtimeMs": 1791786868531
+    },
+    "wiki/sources/5-标准数字化--4-标准条目--33-19-标准条目-yc-z-650-2026-烟草企业标准数字化指南--16wwzn8.md": {
+      "hash": "e713b227d708a4ef897cf31d02c45e4f",
+      "size": 4240,
+      "mtimeMs": 1791787158211
+    },
+    "wiki/sources/5-标准数字化--6-00-先读我--1qttsu9.md": {
+      "hash": "347329fede9a37b980d61f8237f98dfe",
+      "size": 11104,
+      "mtimeMs": 1791786831255
+    },
+    "wiki/sources/5-标准数字化--6-1-标准档案--34-10-gb-t-480001-2025-标准数字化-第1部分通用指南--1tyvzfr.md": {
+      "hash": "cb9e6d3a0e9f6593d63e66b4f3d84dd9",
+      "size": 11271,
+      "mtimeMs": 1791782868122
+    },
+    "wiki/sources/5-标准数字化--6-1-标准档案--36-11-gb-t-480002-2026-标准数字化-第2部分参考架构模型--piadwu.md": {
+      "hash": "9d68028a75ad23d7e96aa1978ad276a7",
+      "size": 13035,
+      "mtimeMs": 1791785556460
+    },
+    "wiki/sources/5-标准数字化--6-1-标准档案--36-12-gb-t-480003-2026-标准数字化-第3部分本体建模要求--f6rb6j.md": {
+      "hash": "6b007036b7d51fa94fe5dbcc18a8c468",
+      "size": 14216,
+      "mtimeMs": 1791786132624
+    },
+    "wiki/sources/5-标准数字化--6-1-标准档案--36-13-gb-t-480004-2026-标准数字化-第4部分协同制定要求--1hsqrmv.md": {
+      "hash": "0ebe70063d3aecb02155c475ac1113b0",
+      "size": 11676,
+      "mtimeMs": 1791786334393
+    },
+    "wiki/sources/5-标准数字化--6-1-标准档案--36-14-gb-t-470121-2026-标准数字化平台-第1部分系统架构--1fe1rz5.md": {
+      "hash": "2139ebbb0264a44a76b75ea741774969",
+      "size": 12480,
+      "mtimeMs": 1791786379242
+    },
+    "wiki/sources/5-标准数字化--6-1-标准档案--38-16-gb-t-469172-2026-标准语义知识库-第2部分数据接口要求--nkhhox.md": {
+      "hash": "0073d3ac8291e65f7910f17aa037fc24",
+      "size": 10789,
+      "mtimeMs": 1791786671119
+    },
+    "wiki/sources/5-标准数字化--6-1-标准档案--40-17-gb-t-469173-2026-标准语义知识库-第3部分语义集成技术要求--1a5nuip.md": {
+      "hash": "e4636fb41c031640eac5a1196f999bec",
+      "size": 9963,
+      "mtimeMs": 1791782868125
+    },
+    "wiki/sources/5-标准数字化--6-1-标准档案--45-15-gb-t-469171-2026-标准语义知识库-第1部分标准内容语义化表达通用要求--era96n.md": {
+      "hash": "8b605dc0a2f794584d312b2a730c712b",
+      "size": 14017,
+      "mtimeMs": 1791786428942
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--19-第-1-集9月30日-fde-木羽b站--14wet35.md": {
+      "hash": "b67e8703b4ca27f9c6d1b12855626662",
+      "size": 9578,
+      "mtimeMs": 1791710745470
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--26-第-3-集02-fde岗位认知行业趋势与核心能力要求--nrt0v4.md": {
+      "hash": "955444e781debda77e01ac57053c60e6",
+      "size": 5336,
+      "mtimeMs": 1791725768410
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--27-第-12-集11-rag知识增强本体事实与文档证据融合--1ogx78z.md": {
+      "hash": "b37165d7a35c006bfbe2410a637dfeb7",
+      "size": 8305,
+      "mtimeMs": 1791724867502
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--27-第-4-集03-fde交付方法从业务需求到ai应用落地--1iwts37.md": {
+      "hash": "730449ace47cc12f7a314a7a6d278182",
+      "size": 10643,
+      "mtimeMs": 1791716820996
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--27-第-6-集05-本体建模方法业务定义数据映射与关系校验--96flm2.md": {
+      "hash": "5ea6131b7acb3683b5659a11d1c45a03",
+      "size": 10018,
+      "mtimeMs": 1791720704479
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--27-第-9-集08-本体检索机制结构化查询图遍历与语义检索--1eq3icj.md": {
+      "hash": "b60c58672618ee36c11c7b3f0e91f459",
+      "size": 8294,
+      "mtimeMs": 1791724818460
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--28-第-2-集01-课程导学fde学习路径与订单客服实战目标--1nqx3ki.md": {
+      "hash": "0a51c86ab61c104cccb67d168f781c6d",
+      "size": 14303,
+      "mtimeMs": 1791712434714
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--28-第-7-集06-本体模型表达owlschema与语义约束--pds0pm.md": {
+      "hash": "7b799248ac1a546dfcc4bf6537201941",
+      "size": 8944,
+      "mtimeMs": 1791721214458
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--29-第-11-集10-agent业务集成工具调用与订单客服问答--j8m5g7.md": {
+      "hash": "4b07e568323508928cf2c136b6974b3a",
+      "size": 20499,
+      "mtimeMs": 1791687121181
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--31-第-8-集07-订单本体构建实战codex建模owl生成与--1qlmpsr.md": {
+      "hash": "ace21bd6f9c1582f0727457b19f97035",
+      "size": 9890,
+      "mtimeMs": 1791724772923
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--33-第-10-集09-本体问答开发semantica检索服务与--11pq87k.md": {
+      "hash": "bc3058b2aef3e49836a0c73bf5fad37c",
+      "size": 9111,
+      "mtimeMs": 1791685982045
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--33-第-13-集12-人机协同流程langgraph审核恢复与业--uijrl2.md": {
+      "hash": "1128c8dfe4cb11023082575edf7bbbcc",
+      "size": 6388,
+      "mtimeMs": 1791725013477
+    },
+    "wiki/sources/68-3小时零基础入门fdeontology业务本体原理精讲与项目实战教学理清知识图谱rag与agent协同从零搭建企业ai客服中台附全部源码--2-文章--33-第-5-集04-业务本体入门ontology与agent业--1c1jgb0.md": {
+      "hash": "545bee0dbd5460c4f3398e1501996397",
+      "size": 12188,
+      "mtimeMs": 1791718696065
+    },
+    "wiki/sources/8-零点未来ai企业--23-第-8-集8分钟7种agent系统设计模式拆解--1h1bhu5.md": {
+      "hash": "6e4ece8cf211afd7aa794303ff019427",
+      "size": 11111,
+      "mtimeMs": 1791725393680
+    },
+    "wiki/sources/8-零点未来ai企业--24-第-12-集9分钟openai这次卖的不只是模型--vfri5o.md": {
+      "hash": "2f1ac2402219b33b339530b9e6b98dd1",
+      "size": 7985,
+      "mtimeMs": 1791725601309
+    },
+    "wiki/sources/8-零点未来ai企业--26-第-2-集12分钟学习llm驱动ontology构建--1qph07e.md": {
+      "hash": "03abc525a2613c2f1d61ad5600e0386d",
+      "size": 7089,
+      "mtimeMs": 1791725055482
+    },
+    "wiki/sources/8-零点未来ai企业--28-第-3-集11分钟搞清楚2026年最火的岗位ai-fde--1oixl4a.md": {
+      "hash": "9e4d8ae49d08b599acdecf8baaa38f30",
+      "size": 9324,
+      "mtimeMs": 1791725116792
+    },
+    "wiki/sources/8-零点未来ai企业--29-第-6-集6分钟聊聊本体ontology和agent那些事--1yunfem.md": {
+      "hash": "74115b8ceede463a5b3e68a0a58c208f",
+      "size": 6856,
+      "mtimeMs": 1791725279202
+    },
+    "wiki/sources/8-零点未来ai企业--32-第-10-集6分钟-agent落地故事从员工中培养自己的-fde--1waizwt.md": {
+      "hash": "dbb4b05664b18832d4e5a66f4cee0c5d",
+      "size": 7966,
+      "mtimeMs": 1791725491437
+    },
+    "wiki/sources/8-零点未来ai企业--33-第-7-集15分钟解读palantir-本体设计原则和行业实践分享--1pxgt8y.md": {
+      "hash": "7cf5c31e3129dd81306f422f0c7af799",
+      "size": 7876,
+      "mtimeMs": 1791725333774
+    },
+    "wiki/sources/8-零点未来ai企业--35-第-4-集14分钟揭秘palantir一堆文件如何变成ontology--1fvocdi.md": {
+      "hash": "6f3762e5d3fdaa554dd5ce923c6531e4",
+      "size": 12287,
+      "mtimeMs": 1791725176414
+    },
+    "wiki/sources/8-零点未来ai企业--38-第-5-集19分钟揭秘palantir-agent和ontology如何交互--4skb72.md": {
+      "hash": "ab8b6a7784abcbc41ed6e809c1076268",
+      "size": 16199,
+      "mtimeMs": 1791725240738
+    },
+    "wiki/sources/8-零点未来ai企业--44-第-11-集10分钟企业上-ai到底用-functionworkflow还是-agent--7qu39m.md": {
+      "hash": "4348e227f487ccffa9b4fa0ea0717ee5",
+      "size": 6869,
+      "mtimeMs": 1791725547423
+    },
+    "wiki/sources/8-零点未来ai企业--47-第-1-集10分钟企业agentic-workflow落地palantir-ontology--167275e.md": {
+      "hash": "d4ba9d9b40ead847c6de584a3b5fee86",
+      "size": 6307,
+      "mtimeMs": 1791710746486
+    },
+    "wiki/sources/8-零点未来ai企业--76-第-9-集ontology-knowledge-graph-context-graph-code-graphgraph-engineering一次性搞懂--q67uk6.md": {
+      "hash": "78dc1688f7fb80df418daa069bd8ecf0",
+      "size": 5027,
+      "mtimeMs": 1791725443682
+    }
+  }
+}

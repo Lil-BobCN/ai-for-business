@@ -1,0 +1,442 @@
+{
+  "note": "初学者查看样本，仅包含原数据前12个事件及其关联对象，不代表完整数据。",
+  "ocel:global-log": {
+    "ocel:object-types": [
+      "PO",
+      "POItem",
+      "Resource",
+      "Vendor"
+    ],
+    "ocel:attribute-names": [
+      "ID",
+      "cCompany",
+      "cDocType",
+      "cGR",
+      "cGRbasedInvVerif",
+      "cID",
+      "cItem",
+      "cItemCat",
+      "cItemType",
+      "cPOID",
+      "cPurDocCat",
+      "cSpendAreaText",
+      "cSpendClassText",
+      "cSubSPendAreaText",
+      "cVendor",
+      "cVendorName",
+      "eCumNetWorth",
+      "idx",
+      "resource"
+    ],
+    "ocel:version": "1.0",
+    "ocel:ordering": "timestamp"
+  },
+  "ocel:events": {
+    "1900003": {
+      "ocel:timestamp": "1948-01-26T22:59:00",
+      "ocel:activity": "Vendor creates invoice",
+      "ocel:vmap": {
+        "ID": "65781719105536",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507004931_00020",
+        "cItem": 20.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507004931.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Sales",
+        "cSpendClassText": "NPR",
+        "cSubSPendAreaText": "Products for Resale",
+        "cVendor": "vendorID_0670",
+        "cVendorName": "vendor_0645",
+        "eCumNetWorth": 68.0,
+        "idx": 0.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925149",
+        "37436",
+        "131113"
+      ]
+    },
+    "1900004": {
+      "ocel:timestamp": "1948-01-26T22:59:00",
+      "ocel:activity": "Vendor creates debit memo",
+      "ocel:vmap": {
+        "ID": "65777424138241",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507004931_00010",
+        "cItem": 10.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507004931.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Sales",
+        "cSpendClassText": "NPR",
+        "cSubSPendAreaText": "Products for Resale",
+        "cVendor": "vendorID_0670",
+        "cVendorName": "vendor_0645",
+        "eCumNetWorth": 325.0,
+        "idx": 1.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925149",
+        "37436",
+        "131110"
+      ]
+    },
+    "1900005": {
+      "ocel:timestamp": "1948-01-26T22:59:00",
+      "ocel:activity": "Vendor creates invoice",
+      "ocel:vmap": {
+        "ID": "65777424138240",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507004931_00010",
+        "cItem": 10.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507004931.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Sales",
+        "cSpendClassText": "NPR",
+        "cSubSPendAreaText": "Products for Resale",
+        "cVendor": "vendorID_0670",
+        "cVendorName": "vendor_0645",
+        "eCumNetWorth": 325.0,
+        "idx": 2.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925149",
+        "37436",
+        "131110"
+      ]
+    },
+    "1900006": {
+      "ocel:timestamp": "1948-01-26T22:59:00",
+      "ocel:activity": "Vendor creates invoice",
+      "ocel:vmap": {
+        "ID": "65794604007424",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507004931_00050",
+        "cItem": 50.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507004931.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Sales",
+        "cSpendClassText": "NPR",
+        "cSubSPendAreaText": "Products for Resale",
+        "cVendor": "vendorID_0670",
+        "cVendorName": "vendor_0645",
+        "eCumNetWorth": 102.0,
+        "idx": 3.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925149",
+        "37436",
+        "131017"
+      ]
+    },
+    "1900007": {
+      "ocel:timestamp": "1948-01-26T22:59:00",
+      "ocel:activity": "Vendor creates debit memo",
+      "ocel:vmap": {
+        "ID": "65794604007425",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507004931_00050",
+        "cItem": 50.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507004931.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Sales",
+        "cSpendClassText": "NPR",
+        "cSubSPendAreaText": "Products for Resale",
+        "cVendor": "vendorID_0670",
+        "cVendorName": "vendor_0645",
+        "eCumNetWorth": 102.0,
+        "idx": 4.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925149",
+        "37436",
+        "131017"
+      ]
+    },
+    "1900008": {
+      "ocel:timestamp": "1948-01-26T22:59:00",
+      "ocel:activity": "Vendor creates debit memo",
+      "ocel:vmap": {
+        "ID": "65790309040129",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507004931_00040",
+        "cItem": 40.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507004931.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Sales",
+        "cSpendClassText": "NPR",
+        "cSubSPendAreaText": "Products for Resale",
+        "cVendor": "vendorID_0670",
+        "cVendorName": "vendor_0645",
+        "eCumNetWorth": 72.0,
+        "idx": 5.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925149",
+        "37436",
+        "131012"
+      ]
+    },
+    "1900009": {
+      "ocel:timestamp": "1948-01-26T22:59:00",
+      "ocel:activity": "Vendor creates invoice",
+      "ocel:vmap": {
+        "ID": "65790309040128",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507004931_00040",
+        "cItem": 40.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507004931.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Sales",
+        "cSpendClassText": "NPR",
+        "cSubSPendAreaText": "Products for Resale",
+        "cVendor": "vendorID_0670",
+        "cVendorName": "vendor_0645",
+        "eCumNetWorth": 72.0,
+        "idx": 6.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925149",
+        "37436",
+        "131012"
+      ]
+    },
+    "1900010": {
+      "ocel:timestamp": "1948-01-26T22:59:00",
+      "ocel:activity": "Vendor creates debit memo",
+      "ocel:vmap": {
+        "ID": "65786014072833",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507004931_00030",
+        "cItem": 30.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507004931.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Sales",
+        "cSpendClassText": "NPR",
+        "cSubSPendAreaText": "Products for Resale",
+        "cVendor": "vendorID_0670",
+        "cVendorName": "vendor_0645",
+        "eCumNetWorth": 1856.0,
+        "idx": 7.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925149",
+        "37436",
+        "130987"
+      ]
+    },
+    "1900011": {
+      "ocel:timestamp": "1948-01-26T22:59:00",
+      "ocel:activity": "Vendor creates invoice",
+      "ocel:vmap": {
+        "ID": "65786014072832",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507004931_00030",
+        "cItem": 30.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507004931.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Sales",
+        "cSpendClassText": "NPR",
+        "cSubSPendAreaText": "Products for Resale",
+        "cVendor": "vendorID_0670",
+        "cVendorName": "vendor_0645",
+        "eCumNetWorth": 1856.0,
+        "idx": 8.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925149",
+        "37436",
+        "130987"
+      ]
+    },
+    "1900012": {
+      "ocel:timestamp": "1948-01-26T22:59:00",
+      "ocel:activity": "Vendor creates debit memo",
+      "ocel:vmap": {
+        "ID": "65781719105537",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507004931_00020",
+        "cItem": 20.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507004931.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Sales",
+        "cSpendClassText": "NPR",
+        "cSubSPendAreaText": "Products for Resale",
+        "cVendor": "vendorID_0670",
+        "cVendorName": "vendor_0645",
+        "eCumNetWorth": 68.0,
+        "idx": 9.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925149",
+        "37436",
+        "131113"
+      ]
+    },
+    "1900013": {
+      "ocel:timestamp": "1993-05-18T22:59:00",
+      "ocel:activity": "Vendor creates invoice",
+      "ocel:vmap": {
+        "ID": "194699457462272",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507014062_00050",
+        "cItem": 50.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507014062.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Trading & End Products",
+        "cSpendClassText": "PR",
+        "cSubSPendAreaText": "Trading products (old structure)",
+        "cVendor": "vendorID_0427",
+        "cVendorName": "vendor_0415",
+        "eCumNetWorth": 274.0,
+        "idx": 10.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925591",
+        "44473",
+        "55178"
+      ]
+    },
+    "1900014": {
+      "ocel:timestamp": "1993-05-18T22:59:00",
+      "ocel:activity": "Vendor creates invoice",
+      "ocel:vmap": {
+        "ID": "194716637331456",
+        "cCompany": "companyID_0000",
+        "cDocType": "Standard PO",
+        "cGR": "True",
+        "cGRbasedInvVerif": "False",
+        "cID": "4507014062_00090",
+        "cItem": 90.0,
+        "cItemCat": "3-way match, invoice before GR",
+        "cItemType": "Standard",
+        "cPOID": 4507014062.0,
+        "cPurDocCat": "Purchase order",
+        "cSpendAreaText": "Trading & End Products",
+        "cSpendClassText": "PR",
+        "cSubSPendAreaText": "Trading products (old structure)",
+        "cVendor": "vendorID_0427",
+        "cVendorName": "vendor_0415",
+        "eCumNetWorth": 9978.0,
+        "idx": 11.0,
+        "resource": "NONE"
+      },
+      "ocel:omap": [
+        "1925591",
+        "44473",
+        "55186"
+      ]
+    }
+  },
+  "ocel:objects": {
+    "37436": {
+      "ocel:type": "PO",
+      "ocel:ovmap": {}
+    },
+    "44473": {
+      "ocel:type": "PO",
+      "ocel:ovmap": {}
+    },
+    "55178": {
+      "ocel:type": "POItem",
+      "ocel:ovmap": {}
+    },
+    "55186": {
+      "ocel:type": "POItem",
+      "ocel:ovmap": {}
+    },
+    "130987": {
+      "ocel:type": "POItem",
+      "ocel:ovmap": {}
+    },
+    "131012": {
+      "ocel:type": "POItem",
+      "ocel:ovmap": {}
+    },
+    "131017": {
+      "ocel:type": "POItem",
+      "ocel:ovmap": {}
+    },
+    "131110": {
+      "ocel:type": "POItem",
+      "ocel:ovmap": {}
+    },
+    "131113": {
+      "ocel:type": "POItem",
+      "ocel:ovmap": {}
+    },
+    "1925149": {
+      "ocel:type": "Vendor",
+      "ocel:ovmap": {}
+    },
+    "1925591": {
+      "ocel:type": "Vendor",
+      "ocel:ovmap": {}
+    }
+  }
+}

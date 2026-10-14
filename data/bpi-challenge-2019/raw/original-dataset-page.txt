@@ -1,0 +1,140 @@
+BPI Challenge 2019 (dataset)
+Log in
+About your Data
+Getting started
+Manage & Share
+Publish & Cite
+Find & Re-use
+Scientific Visualisation
+NetCDF & OPeNDAP
+CODECHECK
+Image interoperability with IIIF
+RO-CRATE
+IGSN
+4TU.ResearchData
+Organisation
+Policies & Guidelines
+Team & Contact
+Frequently Asked Questions
+Strategy 2025 – 2029
+Branding
+Our Community
+Join our community
+Community members
+Community groups
+FAIR Data Fund
+Training
+Training
+Introduction to Version Control with Git
+Introduction to programming in research with Python
+Efficient Research Workflows with the UNIX Shell
+Materials
+Collaborations
+Collaborations
+Digital Capacity for NES
+Call 1: Instructors
+Call for Lesson Dev
+Open Call: Instructor Training
+News
+Latest news
+Use cases
+Subscribe to newsletter
+Log in & Upload Data
+About Log in / Sign up
+Log in (Data Repository)
+Log in (Community)
+BPI Challenge 2019
+DOI:
+10.4121/uuid:d06aff4b-79f0-45e6-8ec8-e19730c248f1
+Cite
+Datacite citation style
+van Dongen, Boudewijn (2019): BPI Challenge 2019. Version 1. 4TU.ResearchData. dataset. https://doi.org/10.4121/uuid:d06aff4b-79f0-45e6-8ec8-e19730c248f1
+Other citation styles (APA, Harvard, MLA, Vancouver, Chicago, IEEE) available at Datacite
+Dataset
+Usage statistics
+66779
+views
+35
+citations
+14123
+downloads
+Categories
+Computation Theory and Mathematics
+Keywords
+Business Process Intelligence (BPI)
+Compliance Checking
+IEEE Task Force on Process Mining
+Process Mining
+real life event logs
+Time coverage
+2018
+Licence
+CC BY 4.0
+Interoperability
+RO-Crate Metadata
+Export as
+RefWorks
+BibTeX
+Reference Manager
+Endnote
+DataCite
+NLM
+DC
+CFF
+by
+Boudewijn van Dongen
+This data originated from a large multinational company operating from The Netherlands in the area of coatings and paints and we ask participants to investigate the purchase order handling process for some of its 60 subsidiaries. In particular, the process owner has compliance questions.
+
+In the data, each purchase order (or purchase document) contains one or more line items. For each line item, there are roughly four types of flows in the data:
+
+(1) 3-way matching, invoice after goods receipt: For these items, the value of the goods receipt message should be matched against the value of an invoice receipt message and the value put during creation of the item (indicated by both the GR-based flag and the Goods Receipt flags set to true).
+
+(2) 3-way matching, invoice before goods receipt: Purchase Items that do require a goods receipt message, while they do not require GR-based invoicing (indicated by the GR-based IV flag set to false and the Goods Receipt flags set to true). For such purchase items, invoices can be entered before the goods are receipt, but they are blocked until goods are received. This unblocking can be done by a user, or by a batch process at regular intervals. Invoices should only be cleared if goods are received and the value matches with the invoice and the value at creation of the item.
+
+(3) 2-way matching (no goods receipt needed): For these items, the value of the invoice should match the value at creation (in full or partially until PO value is consumed), but there is no separate goods receipt message required (indicated by both the GR-based flag and the Goods Receipt flags set to false).
+
+(4)Consignment: For these items, there are no invoices on PO level as this is handled fully in a separate process. Here we see GR indicator is set to true but the GR IV flag is set to false and also we know by item type (consignment) that we do not expect an invoice against this item.
+
+Unfortunately, the complexity of the data goes further than just this division in four categories. For each purchase item, there can be many goods receipt messages and corresponding invoices which are subsequently paid. Consider for example the process of paying rent. There is a Purchase Document with one item for paying rent, but a total of 12 goods receipt messages with (cleared) invoices with a value equal to 1/12 of the total amount. For logistical services, there may even be hundreds of goods receipt messages for one line item.
+
+Overall, for each line item, the amounts of the line item, the goods receipt messages (if applicable) and the invoices have to match for the process to be compliant.
+
+Of course, the log is anonymized, but some semantics are left in the data, for example: The resources are split between batch users and normal users indicated by their name. The batch users are automated processes executed by different systems. The normal users refer to human actors in the process. The monetary values of each event are anonymized from the original data using a linear translation respecting 0, i.e. addition of multiple invoices for a single item should still lead to the original item worth (although there may be small rounding errors for numerical reasons). Company, vendor, system and document names and IDs are anonymized in a consistent way throughout the log. The company has the key, so any result can be translated by them to business insights about real customers and real purchase documents.
+
+The event log is fully IEEE-XES compliant and is structured as follows. The case ID is a combination of the purchase document and the purchase item. There is a total of 76,349 purchase documents containing in total 251,734 items, i.e. there are 251,734 cases. In these cases, there are 1,595,923 events relating to 42 activities performed by 627 users (607 human users and 20 batch users). Sometimes the user field is empty, or NONE, which indicates no user was recorded in the source system.
+
+For each purchase item (or case) the following attributes are recorded:
+
+concept:name: A combination of the purchase document id and the item id, Purchasing Document: The purchasing document ID,
+Item: The item ID, Item Type: The type of the item, GR-Based Inv. Verif.: Flag indicating if GR-based invoicing is required (see above),
+Goods Receipt: Flag indicating if 3-way matching is required (see above), Source: The source system of this item, Doc. Category name: The name of the category of the purchasing document,
+Company: The subsidiary of the company from where the purchase originated, Spend classification text: A text explaining the class of purchase item, Spend area text: A text explaining the area for the purchase item, Sub spend area text: Another text explaining the area for the purchase item, Vendor: The vendor to which the purchase document was sent, Name: The name of the vendor,
+Document Type: The document type, Item Category: The category as explained above (3-way with GR-based invoicing, 3-way without, 2-way, consignment).
+History
+2019-01-31 first online, published, posted
+Publisher
+4TU.Centre for Research Data
+Format
+media types: text/xml
+References
+https://icpmconference.org/icpm-2019/contests-challenges/bpi-challenge-2019/
+Organizations
+Eindhoven University of Technology, Department of Mathematics and Computer Science
+Data
+Files (1)
+728,558,522 bytes
+MD5:
+4eb909242351193a61e1c15b9c3cc814
+BPI_Challenge_2019.xes
+Getting started
+|
+Contact
+|
+Data Collection Policy
+|
+Privacy Policy
+|
+Terms of Use
+|
+Source code
+Djehuty v26.8

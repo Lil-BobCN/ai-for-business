@@ -1,0 +1,99 @@
+BPI Challenge 2019 - IEEE Task Force on Process Mining
+Home
+News
+Events and Initiatives
+ICPM
+Satellite events
+OCED Working Group
+ICPM Fellows
+Membership
+Advisory Board
+Steering Committee
+Membership
+Supporting organizations
+Becoming a member
+Resources
+P.M.
+Manifesto
+Movies
+Event Logs
+Case Studies
+Books
+XES Standard
+OCED Standard
+Educational Programs
+Newsletter
+Issues
+Articles Archive
+Competitions and awards
+Dissertation Award
+BPI Challenge
+Process Discovery Contest
+Conformance Checking Contest
+Contact
+Help
+Home
+BPI Challenges
+BPI Challenge 2019
+BPI Challenge 2019
+For the BPI Challenge 2019, we collected data from a large multinational company operating from The Netherlands in the area of coatings and paints and we ask participants to investigate the purchase order handling process for some of its 60 subsidiaries. In particular, the process owner has compliance questions.
+In the data, each purchase order (or purchase document) contains one or more line items. For each line item, there are roughly four types of flows in the data:
+3-way matching, invoice after goods receipt
+For these items, the value of the goods receipt message should be matched against the value of an invoice receipt message and the value put during creation of the item (indicated by both the GR-based flag and the Goods Receipt flags set to true).
+3-way matching, invoice before goods receipt
+Purchase Items that do require a goods receipt message, while they do not require GR-based invoicing (indicated by the GR-based IV flag set to false and the Goods Receipt flags set to true). For such purchase items, invoices can be entered before the goods are receipt, but they are blocked until goods are received. This unblocking can be done by a user, or by a batch process at regular intervals. Invoices should only be cleared if goods are received and the value matches with the invoice and the value at creation of the item.
+2-way matching (no goods receipt needed)
+For these items, the value of the invoice should match the value at creation (in full or partially until PO value is consumed), but there is no separate goods receipt message required (indicated by both the GR-based flag and the Goods Receipt flags set to false).
+Consignment
+For these items, there are no invoices on PO level as this is handled fully in a separate process. Here we see GR indicator is set to true but the GR IV flag is set to false and also we know by item type (consignment) that we do not expect an invoice against this item.
+The company supplying the data was interested in answers to three main questions:
+Is there a collection of
+process models
+which together properly describe the process in this data. Based on the four categories above, at least four models are needed, but any collection of models that together explain the process well is appreciated. Preferably, the decision which model explains which purchase item best is based on properties of the item.
+What is the
+throughput of the invoicing process
+, i.e. the time between goods receipt, invoice receipt and payment (clear invoice)? To answer this, a technique is sought to match these events within a line item, i.e. if there are multiple goods receipt messages and multiple invoices within a line item, how are they related and which belong together?
+Finally,
+which Purchase Documents stand out
+from the log? Where are deviations from the processes discovered in and how severe are these deviations? Deviations may be according to the prescribed high-level process flow, but also with respect to the values of the invoices. Which customers produce a lot of rework as invoices are wrong, etc.?
+The challenge was won by two teams in two categories, namely student participants and non-student participants.
+In the student category, the winners were:
+Vincent Finn Alexander Meyer zu Wickern, Mounisha Juluru, Anshu Roy, Viet-Hung Vu and Thi-Thu-Hang Nguyen
+with their report entitled
+Analysis and prediction of purchasing compliance using process mining
+In the non-student category, the winners were:
+Kiarash Diba, Simon Remy and Luise Pufahl
+with their report entitled
+BPI Challenge 2019: Performance and Compliance Analysis of Procurement Processes Using Process Mining
+For more details, including an overview of the other submissions and a more detailed explanation of the data, please visit:
+The BPI Challenge 2019
+What is your profile?
+×
+In this menu you can find the most relevant resources based on the typical visitor profiles:
+Researcher
+Event logs
+Case studies
+Dissertation award
+BPI Challenge
+Professional
+Case studies
+Event logs
+XES Standard
+Books
+Educational Programs
+General public
+Movies
+P.M.
+Manifesto
+Books
+Educational Programs
+Contact
+Copyright © 2026 -
+v. 1.31.5
+.
+Latest page update: 26 February 2020 by boudewijn.van.dongen.
+Website hosted at
+DTU Compute
+,
+cookie policy
+.
